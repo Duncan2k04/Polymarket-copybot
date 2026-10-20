@@ -6,18 +6,43 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | | |
 |---|---|
-| **Account value** | **$1,000.00** (started with $1,000.00) |
-| **Profit / loss** | **+$0.00 (+0.0%)** |
+| **Account value** | **$997.02** (started with $1,000.00) |
+| **Profit / loss** | **-$2.98 (-0.3%)** |
 | Running for | 0.0 days (since 20 Oct 2026 17:37 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 20 Oct 2026 17:37 UTC ✅ |
-| Cash / in open bets | $1,000.00 / $0.00 |
-| Bets opened | 0 (0 still open) |
+| Last update | 20 Oct 2026 17:58 UTC ✅ |
+| Cash / in open bets | $878.80 / $118.22 |
+| Bets opened | 6 (6 still open) |
 | Finished bets won / lost | 0 / 0 |
 
 ![live](data/live_equity.svg)
 
+### Which traders are worth copying (live)
+
+| Trader | Bets copied | Finished (won) | Profit/loss so far |
+|---|---:|---:|---:|
+| BreakTheBank | 1 | 0 (0) | -$0.40 |
+| omnibus-076daa | 5 | 0 (0) | -$2.59 |
+
 **Currently copying 15 traders** (re-picked every 7 days, last on 20 Oct 2026 17:37 UTC): [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Diabolical-Prize](https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb), [Kch-Temp](https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e), [0x361b16e3ddfe1d415d41008daac2631d94ab74fe](https://polymarket.com/profile/0x361b16e3ddfe1d415d41008daac2631d94ab74fe), [omnibus-076daa](https://polymarket.com/profile/0x076daa87c4fe1a85402a9b6b8e0a866224388d4c), [Mooseborzoiii](https://polymarket.com/profile/0x57a85952044f2c8e4d31b475aab6987d2f98ebc2), [OhWhenTheReds](https://polymarket.com/profile/0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63), [primm](https://polymarket.com/profile/0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029), [Bigggggggg](https://polymarket.com/profile/0x511f9c771449162349795d17becf8b37031acbe1), [takeormake](https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d), [juice-fruit](https://polymarket.com/profile/0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747), [theowalcott](https://polymarket.com/profile/0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa), [THEHIGHLIFE](https://polymarket.com/profile/0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5)
+
+### Latest activity
+
+| Time (UTC) | Action | Trader | Market | Side | Price | $ | P/L |
+|---|---|---|---|---|---:|---:|---:|
+| 2026-10-20 17:58 | BUY | omnibus-076daa | Cali: Hugo Dellien vs Juan Manuel La Serna | Juan Manuel La Serna | 0.35 | 20 |  |
+| 2026-10-20 17:58 | BUY | omnibus-076daa | Will AEK win on 2026-10-20? | Yes | 0.049 | 20 |  |
+| 2026-10-20 17:58 | BUY | omnibus-076daa | Will Liverpool FC vs. Villarreal CF end in a draw? | Yes | 0.21 | 20 |  |
+| 2026-10-20 17:58 | BUY | BreakTheBank | Spread: Celtics (-1.5) | Celtics | 0.51 | 20 |  |
+| 2026-10-20 17:58 | BUY | omnibus-076daa | Fort Worth: Aidan Mayo vs Colton Smith | Aidan Mayo | 0.4 | 20 |  |
+| 2026-10-20 17:58 | BUY | omnibus-076daa | FC Thun vs. FC Lugano: O/U 3.5 | Under | 0.54 | 20 |  |
+
+<details><summary>Leader trades we did <b>not</b> copy, and why</summary>
+
+- leader trade too small / extreme price / crypto up-down: 32
+- market ends too soon: 5
+
+</details>
 
 ## Look-back test: if you had started copying 7 or 14 days ago
 
