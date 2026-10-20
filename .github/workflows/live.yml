@@ -1,0 +1,24 @@
+name: live paper trading
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bot
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Paper-trade one pass
+        run: python3 bot/live.py
+      - name: Update dashboard
+        if: always()
+        run: python3 bot/report.py
+      - name: Save results
+        if: always()
+        run: bash .github/save.sh "live run"
