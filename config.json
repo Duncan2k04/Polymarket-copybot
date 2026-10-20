@@ -1,4 +1,5 @@
 {
+  "stop_new_bets_after": "2026-11-30T23:59:00+02:00",
   "starting_bankroll": 1000,
   "stake_per_trade": 20,
   "max_per_market": 60,

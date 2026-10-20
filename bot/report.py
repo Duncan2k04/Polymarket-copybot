@@ -87,6 +87,9 @@ def live_section(cfg):
         f"| **Account value** | **{money(eq)}** (started with {money(bank)}) |",
         f"| **Profit / loss** | **{money(pnl, True)} ({pnl / bank * 100:+.1f}%)** |",
         f"| Running for | {days:.1f} days (since {day(st['started'])}) |",
+        f"| Test period | until {cfg.get('stop_new_bets_after', 'no end date')[:10]} - "
+        + ("**finished, all bets settled**" if st.get("finished")
+           else "then no new bets; open ones are held until they settle") + " |",
         f"| Last update | {day(st.get('last_run', 0))}"
         + (" ⚠️ **no update for 3+ hours - check the Actions tab**" if stale else " ✅") + " |",
         f"| Cash / in open bets | {money(pf.get('cash', bank))} / {money(eq - pf.get('cash', bank))} |",

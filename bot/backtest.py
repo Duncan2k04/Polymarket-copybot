@@ -168,6 +168,11 @@ def simulate(days, now, leaders, sigs, hists, meta, cfg):
 def main():
     cfg = CONFIG
     now = int(time.time())
+    if cfg.get("stop_new_bets_after"):
+        from datetime import datetime
+        if now > datetime.fromisoformat(cfg["stop_new_bets_after"]).timestamp():
+            print("Test period is over; look-back test no longer updated.")
+            return
     max_days = max(cfg["backtest_days"])
     start = now - max_days * 86400 - 3600
     print("Selecting leaders (today's leaderboard)...")

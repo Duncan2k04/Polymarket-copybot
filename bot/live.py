@@ -39,9 +39,21 @@ def main():
     st.setdefault("skips", {})
     st.setdefault("runs", 0)
     pf = Portfolio(st.get("portfolio"), cfg)
+    stop_ts = None
+    if cfg.get("stop_new_bets_after"):
+        from datetime import datetime
+        stop_ts = int(datetime.fromisoformat(cfg["stop_new_bets_after"]).timestamp())
+    finished = stop_ts is not None and now > stop_ts
+    if finished:
+        print("Test period is over: no new bets, only following exits and settling open ones.")
+        if not pf.positions:
+            print("All bets settled. Nothing left to do.")
+            st["finished"] = True
+            save_json(STATE, st)
+            return
 
     # 1. (re)pick leaders weekly
-    if not st.get("leaders") or now - st.get("leaders_refreshed", 0) > cfg["leader_refresh_days"] * 86400:
+    if not finished and not st.get("leaders") or not finished and now - st.get("leaders_refreshed", 0) > cfg["leader_refresh_days"] * 86400:
         print("Selecting leaders...")
         leaders = select_leaders(cfg)
         if leaders:
@@ -93,6 +105,8 @@ def main():
                         "pnl": round(rec["pnl"], 2), "note": "copied leader exit"})
             continue
 
+        if finished:
+            continue
         if not copyable_buy(s, cfg):
             skips["leader trade too small / extreme price / crypto up-down"] += 1
             continue
