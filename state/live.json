@@ -1,0 +1,189 @@
+{
+ "last_run": 1792517863,
+ "last_seen": {
+  "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": 1792517863,
+  "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": 1792517863,
+  "0x4f1d5ae26fc31472966e951af3183308736d8de2": 1792517863,
+  "0x511f9c771449162349795d17becf8b37031acbe1": 1792517863,
+  "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2": 1792517863,
+  "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": 1792517863,
+  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": 1792517863,
+  "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": 1792517863,
+  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792517863,
+  "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63": 1792517863,
+  "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792517863,
+  "0xa38a455bbdd4b68486548b7e19da99903f4f821d": 1792517863,
+  "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a": 1792517863,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1792517863,
+  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": 1792517863
+ },
+ "leader_history": [
+  {
+   "names": [
+    "joseph00677",
+    "BreakTheBank",
+    "e46m3",
+    "Diabolical-Prize",
+    "Kch-Temp",
+    "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "omnibus-076daa",
+    "Mooseborzoiii",
+    "OhWhenTheReds",
+    "primm",
+    "Bigggggggg",
+    "takeormake",
+    "juice-fruit",
+    "theowalcott",
+    "THEHIGHLIFE"
+   ],
+   "ts": 1792517863
+  }
+ ],
+ "leaders": [
+  {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 21,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "1",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
+   "all_time_pnl": 9053415.9,
+   "copyable_7d": 156,
+   "month_pnl": 6548482.8,
+   "month_vol": 56682692.18,
+   "name": "BreakTheBank",
+   "rank": "2",
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "all_time_pnl": 872264.7,
+   "copyable_7d": 59,
+   "month_pnl": 2972602.46,
+   "month_vol": 1927337.15,
+   "name": "e46m3",
+   "rank": "3",
+   "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
+  },
+  {
+   "all_time_pnl": 1673254.59,
+   "copyable_7d": 50,
+   "month_pnl": 2879707.91,
+   "month_vol": 50708653.74,
+   "name": "Diabolical-Prize",
+   "rank": "4",
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "all_time_pnl": 3185152.94,
+   "copyable_7d": 30,
+   "month_pnl": 1687849.99,
+   "month_vol": 14651375.44,
+   "name": "Kch-Temp",
+   "rank": "6",
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
+  },
+  {
+   "all_time_pnl": 279752.68,
+   "copyable_7d": 95,
+   "month_pnl": 1250901.04,
+   "month_vol": 5955673.74,
+   "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+   "rank": "8",
+   "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
+  },
+  {
+   "all_time_pnl": 3456038.99,
+   "copyable_7d": 328,
+   "month_pnl": 1077464.83,
+   "month_vol": 34595527.09,
+   "name": "omnibus-076daa",
+   "rank": "10",
+   "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c"
+  },
+  {
+   "all_time_pnl": 858694.7,
+   "copyable_7d": 45,
+   "month_pnl": 900721.12,
+   "month_vol": 4900282.1,
+   "name": "Mooseborzoiii",
+   "rank": "12",
+   "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
+  },
+  {
+   "all_time_pnl": 673545.48,
+   "copyable_7d": 28,
+   "month_pnl": 804687.86,
+   "month_vol": 6117389.22,
+   "name": "OhWhenTheReds",
+   "rank": "13",
+   "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63"
+  },
+  {
+   "all_time_pnl": 3409291.76,
+   "copyable_7d": 436,
+   "month_pnl": 776472.35,
+   "month_vol": 14347121.22,
+   "name": "primm",
+   "rank": "14",
+   "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029"
+  },
+  {
+   "all_time_pnl": 626971.93,
+   "copyable_7d": 91,
+   "month_pnl": 760388.51,
+   "month_vol": 4756838.9,
+   "name": "Bigggggggg",
+   "rank": "15",
+   "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
+  },
+  {
+   "all_time_pnl": 642992.05,
+   "copyable_7d": 235,
+   "month_pnl": 756701.57,
+   "month_vol": 23591955.25,
+   "name": "takeormake",
+   "rank": "16",
+   "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "all_time_pnl": 307762.03,
+   "copyable_7d": 40,
+   "month_pnl": 601925.34,
+   "month_vol": 7145642.45,
+   "name": "juice-fruit",
+   "rank": "20",
+   "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
+  },
+  {
+   "all_time_pnl": 609562.49,
+   "copyable_7d": 33,
+   "month_pnl": 596237.37,
+   "month_vol": 5227350.95,
+   "name": "theowalcott",
+   "rank": "21",
+   "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa"
+  },
+  {
+   "all_time_pnl": 1989537.76,
+   "copyable_7d": 116,
+   "month_pnl": 541814.41,
+   "month_vol": 8196681.01,
+   "name": "THEHIGHLIFE",
+   "rank": "23",
+   "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5"
+  }
+ ],
+ "leaders_refreshed": 1792517863,
+ "marks": {},
+ "portfolio": {
+  "cash": 1000,
+  "closed": [],
+  "positions": {}
+ },
+ "runs": 1,
+ "skips": {},
+ "started": 1792517863
+}
