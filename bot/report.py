@@ -181,7 +181,7 @@ def main():
     lines += backtest_section(cfg)
     lines += [
         "## Rules the bot follows", "",
-        f"- Picks up to {cfg["num_leaders"]} traders on the monthly leaderboard who: made "
+        f"- Picks up to {cfg['num_leaders']} traders on the monthly leaderboard who: made "
         f"${cfg['min_leader_month_pnl']:,}+ this month, are profitable all-time, earn at least "
         f"{cfg['min_leader_pnl_to_volume']:.0%} on what they trade (filters out market-making bots) "
         f"and made {cfg['min_copyable_trades_last_7d']}+ copyable trades in the last week. Re-picks weekly.",
