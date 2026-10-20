@@ -4,21 +4,21 @@
   "stake_per_trade": 20,
   "max_per_market": 60,
   "fee_rate": 0.01,
-
-  "num_leaders": 15,
+  "num_leaders": 60,
   "leader_refresh_days": 7,
-  "min_leader_month_pnl": 10000,
+  "min_leader_month_pnl": 100000,
   "min_leader_pnl_to_volume": 0.03,
   "min_copyable_trades_last_7d": 3,
-
   "min_leader_trade_usdc": 100,
   "min_price": 0.05,
   "max_price": 0.95,
   "max_slippage": 0.03,
   "max_signal_age_minutes": 60,
   "min_hours_to_market_end": 1,
-
-  "backtest_days": [7, 14],
+  "backtest_days": [
+    7,
+    14
+  ],
   "backtest_delay_minutes": 20,
   "backtest_extra_slippage": 0.01
 }

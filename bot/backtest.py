@@ -187,8 +187,8 @@ def main():
     # only fetch prices for tokens we might actually trade
     buy_tokens = list(dict.fromkeys(s["asset"] for s in sigs if copyable_buy(s, cfg)))
     print(f"{len(sigs)} signals, {len(buy_tokens)} candidate markets")
-    if len(buy_tokens) > 900:
-        buy_tokens = buy_tokens[-900:]
+    if len(buy_tokens) > 2500:
+        buy_tokens = buy_tokens[-2500:]
     meta = market_info(buy_tokens)
     hists = {}
     for i, t in enumerate(buy_tokens):

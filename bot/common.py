@@ -290,7 +290,12 @@ def copyable_buy(sig, cfg=CONFIG):
 
 def select_leaders(cfg=CONFIG, log=print):
     now = int(time.time())
-    cands = leaderboard("MONTH", "PNL", 50, 0) + leaderboard("MONTH", "PNL", 50, 50)
+    cands = []
+    for off in range(0, 1000, 50):  # walk down the leaderboard until P/L drops below the bar
+        page = leaderboard("MONTH", "PNL", 50, off)
+        cands += page
+        if len(page) < 50 or float(page[-1].get("pnl") or 0) < cfg["min_leader_month_pnl"]:
+            break
     seen, picked = set(), []
     for c in cands:
         w = c.get("proxyWallet")
