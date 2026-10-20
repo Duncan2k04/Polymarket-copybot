@@ -14,20 +14,20 @@
   "max_slippage": 0.03,
   "min_copyable_trades_last_7d": 3,
   "min_hours_to_market_end": 1,
-  "min_leader_month_pnl": 10000,
+  "min_leader_month_pnl": 100000,
   "min_leader_pnl_to_volume": 0.03,
   "min_leader_trade_usdc": 100,
   "min_price": 0.05,
-  "num_leaders": 15,
+  "num_leaders": 60,
   "stake_per_trade": 20,
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792518118,
+ "generated": 1792519353,
  "leaders": [
   {
    "all_time_pnl": 6949617.18,
-   "copyable_7d": 21,
+   "copyable_7d": 20,
    "month_pnl": 7201192.82,
    "month_vol": 44111176.52,
    "name": "joseph00677",
@@ -36,7 +36,7 @@
   },
   {
    "all_time_pnl": 9053415.9,
-   "copyable_7d": 156,
+   "copyable_7d": 158,
    "month_pnl": 6548482.8,
    "month_vol": 56682692.18,
    "name": "BreakTheBank",
@@ -45,7 +45,7 @@
   },
   {
    "all_time_pnl": 872264.7,
-   "copyable_7d": 59,
+   "copyable_7d": 58,
    "month_pnl": 2972602.46,
    "month_vol": 1927337.15,
    "name": "e46m3",
@@ -81,7 +81,7 @@
   },
   {
    "all_time_pnl": 3456038.99,
-   "copyable_7d": 331,
+   "copyable_7d": 327,
    "month_pnl": 1077464.83,
    "month_vol": 34595527.09,
    "name": "omnibus-076daa",
@@ -159,239 +159,889 @@
    "name": "THEHIGHLIFE",
    "rank": "23",
    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5"
+  },
+  {
+   "all_time_pnl": 2175930.75,
+   "copyable_7d": 107,
+   "month_pnl": 505867.63,
+   "month_vol": 5016244.22,
+   "name": "Jsram",
+   "rank": "25",
+   "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223"
+  },
+  {
+   "all_time_pnl": 808619.63,
+   "copyable_7d": 68,
+   "month_pnl": 502566.42,
+   "month_vol": 4856547.56,
+   "name": "donthackme",
+   "rank": "26",
+   "wallet": "0x03805a13a0b3e058f55f6c6af95389d4f431073d"
+  },
+  {
+   "all_time_pnl": 449330.0,
+   "copyable_7d": 26,
+   "month_pnl": 474737.85,
+   "month_vol": 4194471.94,
+   "name": "dromedaryy",
+   "rank": "28",
+   "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198"
+  },
+  {
+   "all_time_pnl": 472799.62,
+   "copyable_7d": 97,
+   "month_pnl": 473952.16,
+   "month_vol": 5027908.1,
+   "name": "ic4cream",
+   "rank": "29",
+   "wallet": "0x27f738fe203827445690339104aae35b20bc44b0"
+  },
+  {
+   "all_time_pnl": 432222.99,
+   "copyable_7d": 107,
+   "month_pnl": 450145.1,
+   "month_vol": 5092693.72,
+   "name": "para-Vision",
+   "rank": "30",
+   "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139"
+  },
+  {
+   "all_time_pnl": 444099.68,
+   "copyable_7d": 25,
+   "month_pnl": 447627.5,
+   "month_vol": 2491987.46,
+   "name": "Dragon-Evolution",
+   "rank": "31",
+   "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a"
+  },
+  {
+   "all_time_pnl": 1141391.56,
+   "copyable_7d": 69,
+   "month_pnl": 430238.29,
+   "month_vol": 4801293.81,
+   "name": "balthazar",
+   "rank": "32",
+   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318"
+  },
+  {
+   "all_time_pnl": 399362.34,
+   "copyable_7d": 71,
+   "month_pnl": 429936.09,
+   "month_vol": 3417573.38,
+   "name": "alwaysfade",
+   "rank": "33",
+   "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3"
+  },
+  {
+   "all_time_pnl": 878362.4,
+   "copyable_7d": 8,
+   "month_pnl": 410120.64,
+   "month_vol": 938562.31,
+   "name": "Jokerxing7",
+   "rank": "34",
+   "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6"
+  },
+  {
+   "all_time_pnl": 364362.79,
+   "copyable_7d": 106,
+   "month_pnl": 383140.14,
+   "month_vol": 2930604.18,
+   "name": "ArielFilipino",
+   "rank": "36",
+   "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826"
+  },
+  {
+   "all_time_pnl": 718803.18,
+   "copyable_7d": 86,
+   "month_pnl": 382247.41,
+   "month_vol": 5996253.9,
+   "name": "PEYZ-BIGGEST-FAN",
+   "rank": "37",
+   "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9"
+  },
+  {
+   "all_time_pnl": 22225.89,
+   "copyable_7d": 18,
+   "month_pnl": 342689.64,
+   "month_vol": 331197.64,
+   "name": "MKSafe",
+   "rank": "44",
+   "wallet": "0xb4164e085a0503532989d487c4b4b19f4288dd7b"
+  },
+  {
+   "all_time_pnl": 351984.48,
+   "copyable_7d": 28,
+   "month_pnl": 337631.2,
+   "month_vol": 1845616.96,
+   "name": "DelidelaDele",
+   "rank": "45",
+   "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508"
+  },
+  {
+   "all_time_pnl": 566576.57,
+   "copyable_7d": 65,
+   "month_pnl": 336882.76,
+   "month_vol": 6728968.11,
+   "name": "KaneAnalytics",
+   "rank": "46",
+   "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246"
+  },
+  {
+   "all_time_pnl": 137938.98,
+   "copyable_7d": 181,
+   "month_pnl": 326946.5,
+   "month_vol": 1735056.44,
+   "name": "alex20011",
+   "rank": "47",
+   "wallet": "0x4868c31e81040e002b41984842b84bae8923a1c1"
+  },
+  {
+   "all_time_pnl": 369775.71,
+   "copyable_7d": 136,
+   "month_pnl": 318356.87,
+   "month_vol": 4650991.46,
+   "name": "Siddhartha1",
+   "rank": "48",
+   "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288"
+  },
+  {
+   "all_time_pnl": 272022.16,
+   "copyable_7d": 93,
+   "month_pnl": 315478.83,
+   "month_vol": 1992917.27,
+   "name": "paddaa",
+   "rank": "49",
+   "wallet": "0x60a92c8620846d81f5ea17b0564e0d4b7c545a71"
+  },
+  {
+   "all_time_pnl": 161134.31,
+   "copyable_7d": 34,
+   "month_pnl": 304092.51,
+   "month_vol": 3968159.85,
+   "name": "Lucerys",
+   "rank": "50",
+   "wallet": "0x1387d145aaf01f6e33b66525dda6e1f51f6955f8"
+  },
+  {
+   "all_time_pnl": 261089.46,
+   "copyable_7d": 304,
+   "month_pnl": 303115.13,
+   "month_vol": 2873588.54,
+   "name": "Tokor",
+   "rank": "51",
+   "wallet": "0xa19cbababc312f9df185e49d7004c249ed1ade6b"
+  },
+  {
+   "all_time_pnl": 279526.54,
+   "copyable_7d": 30,
+   "month_pnl": 294610.39,
+   "month_vol": 1217616.5,
+   "name": "jonjones1993",
+   "rank": "55",
+   "wallet": "0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c"
+  },
+  {
+   "all_time_pnl": 235993.89,
+   "copyable_7d": 4,
+   "month_pnl": 282899.26,
+   "month_vol": 1063716.2,
+   "name": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
+   "rank": "57",
+   "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b"
+  },
+  {
+   "all_time_pnl": 244625.98,
+   "copyable_7d": 134,
+   "month_pnl": 275610.13,
+   "month_vol": 3970913.63,
+   "name": "dsasdaas",
+   "rank": "58",
+   "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43"
+  },
+  {
+   "all_time_pnl": 164492.55,
+   "copyable_7d": 4,
+   "month_pnl": 257157.07,
+   "month_vol": 3241410.16,
+   "name": "forgotmydinner",
+   "rank": "63",
+   "wallet": "0x4a0eecbf4d18cb6b868f30a7b6e75b7905b9a4b1"
+  },
+  {
+   "all_time_pnl": 479330.06,
+   "copyable_7d": 71,
+   "month_pnl": 254346.8,
+   "month_vol": 3715262.84,
+   "name": "flawfence",
+   "rank": "65",
+   "wallet": "0x23d81ba9371e576015c1e562db09c689f56b0288"
+  },
+  {
+   "all_time_pnl": 2349672.87,
+   "copyable_7d": 21,
+   "month_pnl": 243329.95,
+   "month_vol": 4447008.93,
+   "name": "aenews2",
+   "rank": "68",
+   "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
+  },
+  {
+   "all_time_pnl": 312743.37,
+   "copyable_7d": 138,
+   "month_pnl": 239408.56,
+   "month_vol": 1727497.14,
+   "name": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
+   "rank": "69",
+   "wallet": "0xc7d02944a76b9f83b199e9090ecc92c82d241f8a"
+  },
+  {
+   "all_time_pnl": 48905.04,
+   "copyable_7d": 129,
+   "month_pnl": 238792.56,
+   "month_vol": 728604.82,
+   "name": "VerilyWinningly",
+   "rank": "70",
+   "wallet": "0x6276ea490d6ca3a539f1d571a89d53d26e9f9db5"
+  },
+  {
+   "all_time_pnl": 222200.07,
+   "copyable_7d": 197,
+   "month_pnl": 228082.23,
+   "month_vol": 2661679.41,
+   "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+   "rank": "71",
+   "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165"
+  },
+  {
+   "all_time_pnl": 115201.99,
+   "copyable_7d": 52,
+   "month_pnl": 220140.18,
+   "month_vol": 3715429.07,
+   "name": "lfg100k",
+   "rank": "72",
+   "wallet": "0xd3911bd5e070c9ad9a9519c966347802d8f3b109"
+  },
+  {
+   "all_time_pnl": 218845.58,
+   "copyable_7d": 64,
+   "month_pnl": 217957.54,
+   "month_vol": 1282048.37,
+   "name": "mde4life1986",
+   "rank": "74",
+   "wallet": "0x54ce7dd357766fc3255645e55ef41edd51cc9f80"
+  },
+  {
+   "all_time_pnl": 51339.73,
+   "copyable_7d": 217,
+   "month_pnl": 211521.66,
+   "month_vol": 457681.49,
+   "name": "zerone777",
+   "rank": "76",
+   "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6"
+  },
+  {
+   "all_time_pnl": 465639.27,
+   "copyable_7d": 32,
+   "month_pnl": 210570.46,
+   "month_vol": 5084211.38,
+   "name": "qwen4.1.fund",
+   "rank": "77",
+   "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f"
+  },
+  {
+   "all_time_pnl": 511844.48,
+   "copyable_7d": 44,
+   "month_pnl": 209194.16,
+   "month_vol": 5006500.43,
+   "name": "HVAB",
+   "rank": "78",
+   "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8"
+  },
+  {
+   "all_time_pnl": 672876.45,
+   "copyable_7d": 89,
+   "month_pnl": 204619.36,
+   "month_vol": 2581596.56,
+   "name": "0x448861155279dbf833d041b963e3ac854599e319",
+   "rank": "82",
+   "wallet": "0x448861155279dbf833d041b963e3ac854599e319"
+  },
+  {
+   "all_time_pnl": 1285900.7,
+   "copyable_7d": 49,
+   "month_pnl": 199963.02,
+   "month_vol": 6150677.43,
+   "name": "wan123",
+   "rank": "83",
+   "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b"
+  },
+  {
+   "all_time_pnl": 390916.0,
+   "copyable_7d": 30,
+   "month_pnl": 194762.94,
+   "month_vol": 4293635.1,
+   "name": "Elaran1993",
+   "rank": "84",
+   "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d"
+  },
+  {
+   "all_time_pnl": 196002.09,
+   "copyable_7d": 87,
+   "month_pnl": 193099.65,
+   "month_vol": 2768235.59,
+   "name": "ColdBlooded",
+   "rank": "85",
+   "wallet": "0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c"
+  },
+  {
+   "all_time_pnl": 47121.69,
+   "copyable_7d": 85,
+   "month_pnl": 193082.95,
+   "month_vol": 2073640.43,
+   "name": "getbipped",
+   "rank": "86",
+   "wallet": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456"
+  },
+  {
+   "all_time_pnl": 811804.07,
+   "copyable_7d": 180,
+   "month_pnl": 192952.46,
+   "month_vol": 4505302.17,
+   "name": "Wiretransferxyz",
+   "rank": "87",
+   "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b"
+  },
+  {
+   "all_time_pnl": 38965.74,
+   "copyable_7d": 86,
+   "month_pnl": 189536.68,
+   "month_vol": 1097417.03,
+   "name": "SpringlyFawl",
+   "rank": "88",
+   "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665"
+  },
+  {
+   "all_time_pnl": 532554.07,
+   "copyable_7d": 58,
+   "month_pnl": 187544.13,
+   "month_vol": 2564374.92,
+   "name": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
+   "rank": "89",
+   "wallet": "0x20d6436849f930584892730c7f96ebb2ac763856"
+  },
+  {
+   "all_time_pnl": 302897.23,
+   "copyable_7d": 22,
+   "month_pnl": 185616.46,
+   "month_vol": 735446.02,
+   "name": "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513",
+   "rank": "91",
+   "wallet": "0x2ce8505aa641791eb8460f6ac6bf5c0511e34527"
+  },
+  {
+   "all_time_pnl": 49314.48,
+   "copyable_7d": 77,
+   "month_pnl": 179712.29,
+   "month_vol": 4929465.95,
+   "name": "robustmst",
+   "rank": "93",
+   "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63"
+  },
+  {
+   "all_time_pnl": 23187.42,
+   "copyable_7d": 68,
+   "month_pnl": 173646.01,
+   "month_vol": 500306.31,
+   "name": "PiEDawg",
+   "rank": "94",
+   "wallet": "0xcf43b3b62f7881c831e2d2370b870f5e8a08b321"
+  },
+  {
+   "all_time_pnl": 326340.58,
+   "copyable_7d": 92,
+   "month_pnl": 166115.44,
+   "month_vol": 3809592.7,
+   "name": "LonnieHawkins",
+   "rank": "100",
+   "wallet": "0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede"
   }
  ],
  "results": {
   "14": {
    "best": [
     {
-     "closed": 1791425426,
-     "cost": 40.4,
+     "closed": 1791473399,
+     "cost": 39.996,
      "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791412650,
-     "outcome": "Disguised",
-     "pnl": 384.7748,
-     "proceeds": 425.1748,
+     "leader": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456",
+     "leader_name": "getbipped",
+     "opened": 1791316631,
+     "outcome": "Yes",
+     "pnl": 496.8366,
+     "proceeds": 536.8326,
      "reason": "resolved",
-     "title": "LoL: Disguised vs Maryville University - Game 3 Winner",
-     "token": "102485580069202078620022954075249651349839275625248389906611200187911032702702"
+     "title": "Will Ethereum dip to $2,500 October 5-11?",
+     "token": "32017346130785553784722294108092917014168670887212544293749728904048057652653"
     },
     {
-     "closed": 1791808680,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791752175,
-     "outcome": "Team Vitality",
-     "pnl": 162.2354,
-     "proceeds": 222.4314,
-     "reason": "resolved",
-     "title": "Game Handicap: KT (-1.5) vs Team Vitality (+1.5)",
-     "token": "38349261074231780154438771471374784344190120172169001166516909108387807862097"
-    },
-    {
-     "closed": 1791489927,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791486509,
-     "outcome": "Team Yandex",
-     "pnl": 143.1798,
-     "proceeds": 183.5798,
-     "reason": "resolved",
-     "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
-     "token": "28206834018371224174690895653469458506660545349168048397218337116605877618097"
-    },
-    {
-     "closed": 1791891326,
+     "closed": 1791473399,
      "cost": 20.2,
      "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791883112,
-     "outcome": "FlyQuest",
-     "pnl": 64.9064,
-     "proceeds": 85.1064,
+     "leader": "0xa19cbababc312f9df185e49d7004c249ed1ade6b",
+     "leader_name": "Tokor",
+     "opened": 1791316617,
+     "outcome": "Yes",
+     "pnl": 215.0941,
+     "proceeds": 235.2941,
      "reason": "resolved",
-     "title": "LoL: Team WE vs FlyQuest - Game 4 Winner",
-     "token": "104041843838863559931226269463422540833545570208735033744109387212275418904690"
+     "title": "Will Ethereum dip to $2,500 October 5-11?",
+     "token": "32017346130785553784722294108092917014168670887212544293749728904048057652653"
     },
     {
-     "closed": 1791952276,
+     "closed": 1791324394,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1791316235,
+     "outcome": "Natus Vincere",
+     "pnl": 77.2725,
+     "proceeds": 117.6725,
+     "reason": "resolved",
+     "title": "Counter-Strike: Team Falcons vs Natus Vincere - Map 2 Winner",
+     "token": "6052821049834684091181848259395633257608870928485766937264552685379793058581"
+    },
+    {
+     "closed": 1791380471,
      "cost": 60.196,
      "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791898864,
-     "outcome": "No",
-     "pnl": 60.208,
-     "proceeds": 120.404,
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1791317244,
+     "outcome": "LOUD",
+     "pnl": 65.2777,
+     "proceeds": 125.4737,
      "reason": "resolved",
-     "title": "Will CA Boca Juniors win on 2026-10-13?",
-     "token": "10039160726732396894135157274647294027761128123139780126184756595012135413236"
+     "title": "Valorant: Paper Rex vs LOUD (BO3) - VCT Champions Playoffs",
+     "token": "102538767816571246840087985855185195137911581150642974069013882077207209403113"
+    },
+    {
+     "closed": 1792107252,
+     "cost": 17.9942,
+     "exit_price": 0.9895,
+     "leader": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+     "leader_name": "robustmst",
+     "opened": 1792098204,
+     "outcome": "Franco Roncadelli",
+     "pnl": 63.1809,
+     "proceeds": 81.1751,
+     "reason": "leader sold",
+     "title": "Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado",
+     "token": "33067809521982002753585595729385730393118411645418839721591741516328656260855"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 109,
+   "closed_positions": 248,
    "curve": [
     [
-     1791308518,
+     1791309753,
      1000.0
     ],
     [
-     1791394918,
-     935.71
+     1791396153,
+     1331.67
     ],
     [
-     1791481318,
-     1059.76
+     1791482553,
+     1374.51
     ],
     [
-     1791567718,
-     1155.14
+     1791568953,
+     1325.37
     ],
     [
-     1791654118,
-     1020.7
+     1791655353,
+     1303.59
     ],
     [
-     1791740518,
-     968.17
+     1791741753,
+     1271.6
     ],
     [
-     1791826918,
-     845.63
+     1791828153,
+     1268.07
     ],
     [
-     1791913318,
-     779.83
+     1791914553,
+     1272.6
     ],
     [
-     1791999718,
-     835.77
+     1792000953,
+     1321.55
     ],
     [
-     1792086118,
-     665.44
+     1792087353,
+     1398.4
     ],
     [
-     1792172518,
-     652.33
+     1792173753,
+     1598.05
     ],
     [
-     1792258918,
-     623.47
+     1792260153,
+     1580.36
     ],
     [
-     1792345318,
-     601.35
+     1792346553,
+     1585.1
     ],
     [
-     1792431718,
-     574.44
+     1792432953,
+     1629.86
     ],
     [
-     1792518118,
-     510.71
+     1792519353,
+     1670.75
     ]
    ],
    "days": 14,
-   "end_ts": 1792518118,
-   "final_equity": 510.71,
-   "losses": 67,
-   "open_positions": 23,
-   "open_value": 510.71,
+   "end_ts": 1792519353,
+   "final_equity": 1670.75,
+   "losses": 126,
+   "open_positions": 81,
+   "open_value": 1670.75,
    "per_leader": {
-    "Bigggggggg": {
-     "buys": 43,
-     "closed": 20,
-     "realized": 2.98,
-     "unrealized": -41.52,
-     "wins": 17
-    },
-    "THEHIGHLIFE": {
-     "buys": 62,
-     "closed": 62,
-     "realized": -206.8,
+    "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357": {
+     "buys": 3,
+     "closed": 3,
+     "realized": -5.22,
      "unrealized": 0.0,
-     "wins": 16
+     "wins": 1
     },
-    "juice-fruit": {
-     "buys": 12,
-     "closed": 12,
-     "realized": -122.84,
+    "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513": {
+     "buys": 8,
+     "closed": 8,
+     "realized": 87.73,
      "unrealized": 0.0,
      "wins": 5
     },
-    "primm": {
-     "buys": 5,
-     "closed": 5,
-     "realized": -113.83,
-     "unrealized": 0.0,
+    "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625": {
+     "buys": 25,
+     "closed": 24,
+     "realized": -43.58,
+     "unrealized": -0.97,
+     "wins": 10
+    },
+    "0x448861155279dbf833d041b963e3ac854599e319": {
+     "buys": 8,
+     "closed": 2,
+     "realized": -43.01,
+     "unrealized": -1.27,
      "wins": 1
     },
-    "takeormake": {
+    "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495": {
+     "buys": 24,
+     "closed": 17,
+     "realized": -1.35,
+     "unrealized": -6.75,
+     "wins": 6
+    },
+    "ArielFilipino": {
      "buys": 6,
      "closed": 6,
-     "realized": 1.41,
+     "realized": 69.68,
      "unrealized": 0.0,
-     "wins": 2
+     "wins": 6
     },
-    "theowalcott": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -8.7,
+    "ColdBlooded": {
+     "buys": 10,
+     "closed": 10,
+     "realized": 7.57,
+     "unrealized": 0.0,
+     "wins": 7
+    },
+    "Dragon-Evolution": {
+     "buys": 2,
+     "closed": 2,
+     "realized": -65.22,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "Elaran1993": {
+     "buys": 1,
+     "closed": 1,
+     "realized": 21.04,
      "unrealized": 0.0,
      "wins": 1
+    },
+    "HVAB": {
+     "buys": 12,
+     "closed": 12,
+     "realized": -97.39,
+     "unrealized": 0.0,
+     "wins": 3
+    },
+    "Jsram": {
+     "buys": 6,
+     "closed": 5,
+     "realized": 83.07,
+     "unrealized": -0.19,
+     "wins": 5
+    },
+    "PEYZ-BIGGEST-FAN": {
+     "buys": 8,
+     "closed": 8,
+     "realized": 3.63,
+     "unrealized": 0.0,
+     "wins": 4
+    },
+    "PiEDawg": {
+     "buys": 11,
+     "closed": 10,
+     "realized": -0.69,
+     "unrealized": -1.19,
+     "wins": 2
+    },
+    "Siddhartha1": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": 0.35,
+     "wins": 0
+    },
+    "SpringlyFawl": {
+     "buys": 10,
+     "closed": 8,
+     "realized": -8.77,
+     "unrealized": 0.41,
+     "wins": 1
+    },
+    "THEHIGHLIFE": {
+     "buys": 15,
+     "closed": 15,
+     "realized": -103.11,
+     "unrealized": 0.0,
+     "wins": 6
+    },
+    "Tokor": {
+     "buys": 37,
+     "closed": 24,
+     "realized": 241.7,
+     "unrealized": -17.43,
+     "wins": 18
+    },
+    "VerilyWinningly": {
+     "buys": 7,
+     "closed": 4,
+     "realized": -5.5,
+     "unrealized": 2.71,
+     "wins": 0
+    },
+    "Wiretransferxyz": {
+     "buys": 17,
+     "closed": 17,
+     "realized": -25.99,
+     "unrealized": 0.0,
+     "wins": 9
+    },
+    "aenews2": {
+     "buys": 3,
+     "closed": 3,
+     "realized": 3.92,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "alex20011": {
+     "buys": 16,
+     "closed": 3,
+     "realized": 8.98,
+     "unrealized": -18.3,
+     "wins": 2
+    },
+    "alwaysfade": {
+     "buys": 4,
+     "closed": 3,
+     "realized": 75.25,
+     "unrealized": -1.05,
+     "wins": 3
+    },
+    "balthazar": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.2,
+     "wins": 0
+    },
+    "donthackme": {
+     "buys": 4,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -6.43,
+     "wins": 0
+    },
+    "dromedaryy": {
+     "buys": 4,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -21.18,
+     "wins": 0
+    },
+    "dsasdaas": {
+     "buys": 18,
+     "closed": 18,
+     "realized": 18.73,
+     "unrealized": 0.0,
+     "wins": 10
+    },
+    "flawfence": {
+     "buys": 5,
+     "closed": 1,
+     "realized": -6.36,
+     "unrealized": -0.94,
+     "wins": 0
+    },
+    "forgotmydinner": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.72,
+     "wins": 0
+    },
+    "getbipped": {
+     "buys": 16,
+     "closed": 11,
+     "realized": 390.57,
+     "unrealized": 4.53,
+     "wins": 4
+    },
+    "ic4cream": {
+     "buys": 7,
+     "closed": 7,
+     "realized": -24.32,
+     "unrealized": 0.0,
+     "wins": 3
+    },
+    "jonjones1993": {
+     "buys": 1,
+     "closed": 1,
+     "realized": 39.5,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "juice-fruit": {
+     "buys": 1,
+     "closed": 1,
+     "realized": -16.78,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "lfg100k": {
+     "buys": 3,
+     "closed": 2,
+     "realized": 10.1,
+     "unrealized": -0.74,
+     "wins": 2
+    },
+    "mde4life1986": {
+     "buys": 3,
+     "closed": 3,
+     "realized": 5.51,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "paddaa": {
+     "buys": 11,
+     "closed": 7,
+     "realized": -9.65,
+     "unrealized": -7.47,
+     "wins": 1
+    },
+    "para-Vision": {
+     "buys": 8,
+     "closed": 8,
+     "realized": 73.77,
+     "unrealized": 0.0,
+     "wins": 6
+    },
+    "qwen4.1.fund": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.05,
+     "wins": 0
+    },
+    "robustmst": {
+     "buys": 2,
+     "closed": 2,
+     "realized": 55.41,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "theowalcott": {
+     "buys": 1,
+     "closed": 1,
+     "realized": 15.2,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "wan123": {
+     "buys": 5,
+     "closed": 1,
+     "realized": 2.47,
+     "unrealized": -6.53,
+     "wins": 1
+    },
+    "zerone777": {
+     "buys": 3,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -2.68,
+     "wins": 0
     }
    },
-   "pnl": -489.29,
-   "positions_taken": 132,
-   "realized_pnl": -447.77,
-   "return_pct": -48.93,
+   "pnl": 670.75,
+   "positions_taken": 329,
+   "realized_pnl": 756.86,
+   "return_pct": 67.07,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 9749,
-    "market already closed": 9,
-    "market ends too soon": 1098,
-    "no price data": 2963,
-    "per-market cap or out of cash": 168,
-    "price ran away from leader's price": 141
+    "leader trade too small / extreme price / crypto up-down": 37367,
+    "market already closed": 8,
+    "market ends too soon": 1022,
+    "no price data": 6522,
+    "per-market cap or out of cash": 3506,
+    "price ran away from leader's price": 997
    },
-   "start_ts": 1791308518,
+   "start_ts": 1791309753,
    "starting_bankroll": 1000,
-   "wins": 42,
+   "wins": 122,
    "worst": [
     {
-     "closed": 1791372034,
+     "closed": 1791328532,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791350871,
-     "outcome": "T1",
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1791310968,
+     "outcome": "Team Falcons",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Valorant: NRG vs T1 (BO3) - VCT Champions Playoffs",
-     "token": "37934754361455899630811353668392836228717702323395709647942847732695961409688"
+     "title": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)",
+     "token": "48953784032119240059425814517869981513117924017662074447378733760578329534901"
     },
     {
-     "closed": 1791434100,
+     "closed": 1791409137,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791410391,
-     "outcome": "Disguised",
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1791380980,
+     "outcome": "Metizport",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "LoL: Disguised vs Maryville University (BO5) - LCS Promotion Playoffs",
-     "token": "28128082576131951091355845809724092899959718644386975705667279799732574653744"
+     "title": "Counter-Strike: K27 vs Metizport (BO3) - 1win Private Club #2: Closed Qualifier Playoffs",
+     "token": "29279384681127648854438493776923179959362678060371075765318303512288194918822"
     },
     {
      "closed": 1791478296,
@@ -408,279 +1058,510 @@
      "token": "68138545740416550760135301299446710355829859912329750640599464148352061333016"
     },
     {
-     "closed": 1791574708,
+     "closed": 1791607528,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-     "leader_name": "juice-fruit",
-     "opened": 1791563988,
-     "outcome": "Team Falcons",
+     "leader": "0x448861155279dbf833d041b963e3ac854599e319",
+     "leader_name": "0x448861155279dbf833d041b963e3ac854599e319",
+     "opened": 1791547704,
+     "outcome": "Washington",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-     "token": "52538784910927017856130917556329158068345255120998918079109909501071194998786"
+     "title": "Iowa vs. Washington",
+     "token": "27401193334817573247184242202917324738810454698384829488948202227511007446506"
     },
     {
-     "closed": 1791580727,
-     "cost": 60.196,
+     "closed": 1791364352,
+     "cost": 60.0147,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791577546,
-     "outcome": "LGD Gaming",
-     "pnl": -60.196,
+     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+     "opened": 1791314234,
+     "outcome": "GAM Esports",
+     "pnl": -60.0147,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Dota 2: LGD Gaming vs Aurora - Game 2 Winner",
-     "token": "111658130923113676919675830832181688345653057119951887081721176065206495076142"
+     "title": "LoL: GAM Esports vs FlyQuest (BO3) - Demacia Cup Global Invitational Group Stage",
+     "token": "56023641935016929028576615745988409753514671252269159574391333274712614231317"
     }
    ]
   },
   "7": {
    "best": [
     {
-     "closed": 1792102334,
-     "cost": 20.2,
+     "closed": 1791983609,
+     "cost": 59.5695,
      "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792092991,
-     "outcome": "Karmine Corp",
-     "pnl": 153.713,
-     "proceeds": 173.913,
+     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+     "opened": 1791915765,
+     "outcome": "BNK FEARX",
+     "pnl": 88.6247,
+     "proceeds": 148.1943,
      "reason": "resolved",
-     "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
-     "token": "19237985669921666860794206343184970290664399685735921766417161959175214255946"
+     "title": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
+     "token": "13402433282648184803210600553321098152849112563817045169067856291312903788438"
     },
     {
-     "closed": 1792168798,
+     "closed": 1792012816,
+     "cost": 38.3393,
+     "exit_price": 1.0,
+     "leader": "0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c",
+     "leader_name": "jonjones1993",
+     "opened": 1791983699,
+     "outcome": "Yes",
+     "pnl": 74.9732,
+     "proceeds": 113.3125,
+     "reason": "resolved",
+     "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
+     "token": "107395718280278792721927308706756148752190284115412335473833589866347403819487"
+    },
+    {
+     "closed": 1792107252,
+     "cost": 20.2,
+     "exit_price": 0.9895,
+     "leader": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+     "leader_name": "robustmst",
+     "opened": 1792098204,
+     "outcome": "Franco Roncadelli",
+     "pnl": 70.926,
+     "proceeds": 91.126,
+     "reason": "leader sold",
+     "title": "Santa Cruz 2: Franco Roncadelli vs Juan Carlos Prado",
+     "token": "33067809521982002753585595729385730393118411645418839721591741516328656260855"
+    },
+    {
+     "closed": 1792360980,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1792292087,
+     "outcome": "BetBoom Team",
+     "pnl": 61.0245,
+     "proceeds": 121.2205,
+     "reason": "resolved",
+     "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
+     "token": "57543854020047079405051281486566454203743495016729657566665463956966153102368"
+    },
+    {
+     "closed": 1792035224,
      "cost": 40.4,
      "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792163862,
-     "outcome": "MIBR",
-     "pnl": 66.3603,
-     "proceeds": 106.7603,
+     "leader": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+     "leader_name": "alwaysfade",
+     "opened": 1791942574,
+     "outcome": "Milwaukee Brewers",
+     "pnl": 60.8658,
+     "proceeds": 101.2658,
      "reason": "resolved",
-     "title": "Counter-Strike: Astralis vs MIBR - Map 2 Winner",
-     "token": "63543299389130976048862318536018309871074467269208085695989994782009985555962"
-    },
-    {
-     "closed": 1792184525,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792176434,
-     "outcome": "BetBoom Team",
-     "pnl": 62.6569,
-     "proceeds": 122.8529,
-     "reason": "resolved",
-     "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-     "token": "82072476920028370167332644775881276458777865297413797798530427578352985816061"
-    },
-    {
-     "closed": 1791952276,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791918033,
-     "outcome": "No",
-     "pnl": 60.208,
-     "proceeds": 120.404,
-     "reason": "resolved",
-     "title": "Will CA Boca Juniors win on 2026-10-13?",
-     "token": "10039160726732396894135157274647294027761128123139780126184756595012135413236"
-    },
-    {
-     "closed": 1792356677,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-     "leader_name": "takeormake",
-     "opened": 1792324985,
-     "outcome": "Panthers",
-     "pnl": 45.3738,
-     "proceeds": 65.5738,
-     "reason": "resolved",
-     "title": "Spread: Panthers (-9.5)",
-     "token": "88838397286003458634957007568530913929026000804763486812812969231586279042159"
+     "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+     "token": "54424278853969816959131438694607417715048834984853918507561001622506294921155"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 66,
+   "closed_positions": 170,
    "curve": [
     [
-     1791913318,
+     1791914553,
      1000.0
     ],
     [
-     1791999718,
-     1039.19
+     1792000953,
+     1095.79
     ],
     [
-     1792086118,
-     727.07
+     1792087353,
+     1288.27
     ],
     [
-     1792172518,
-     948.1
+     1792173753,
+     1403.91
     ],
     [
-     1792258918,
-     761.34
+     1792260153,
+     1441.18
     ],
     [
-     1792345318,
-     688.35
+     1792346553,
+     1451.69
     ],
     [
-     1792431718,
-     603.48
+     1792432953,
+     1557.56
     ],
     [
-     1792518118,
-     534.43
+     1792519353,
+     1587.74
     ]
    ],
    "days": 7,
-   "end_ts": 1792518118,
-   "final_equity": 534.43,
-   "losses": 39,
-   "open_positions": 23,
-   "open_value": 534.43,
+   "end_ts": 1792519353,
+   "final_equity": 1587.74,
+   "losses": 84,
+   "open_positions": 86,
+   "open_value": 1587.74,
    "per_leader": {
-    "Bigggggggg": {
-     "buys": 43,
-     "closed": 20,
-     "realized": -51.81,
-     "unrealized": -27.11,
-     "wins": 15
+    "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357": {
+     "buys": 3,
+     "closed": 2,
+     "realized": -20.39,
+     "unrealized": 2.14,
+     "wins": 0
     },
-    "THEHIGHLIFE": {
-     "buys": 22,
-     "closed": 22,
-     "realized": -214.56,
-     "unrealized": 0.0,
-     "wins": 4
-    },
-    "juice-fruit": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -26.0,
-     "unrealized": 0.0,
-     "wins": 2
-    },
-    "primm": {
-     "buys": 4,
-     "closed": 4,
-     "realized": 21.71,
-     "unrealized": 0.0,
-     "wins": 2
-    },
-    "takeormake": {
-     "buys": 13,
-     "closed": 13,
-     "realized": -142.59,
+    "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513": {
+     "buys": 3,
+     "closed": 3,
+     "realized": 99.07,
      "unrealized": 0.0,
      "wins": 3
     },
-    "theowalcott": {
-     "buys": 3,
+    "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625": {
+     "buys": 12,
+     "closed": 11,
+     "realized": 74.11,
+     "unrealized": -1.41,
+     "wins": 5
+    },
+    "0x448861155279dbf833d041b963e3ac854599e319": {
+     "buys": 6,
      "closed": 3,
-     "realized": -25.2,
+     "realized": 40.04,
+     "unrealized": 5.33,
+     "wins": 3
+    },
+    "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495": {
+     "buys": 26,
+     "closed": 18,
+     "realized": -12.07,
+     "unrealized": -17.88,
+     "wins": 4
+    },
+    "ArielFilipino": {
+     "buys": 8,
+     "closed": 8,
+     "realized": 107.04,
+     "unrealized": 0.0,
+     "wins": 6
+    },
+    "ColdBlooded": {
+     "buys": 16,
+     "closed": 15,
+     "realized": 40.51,
+     "unrealized": -0.07,
+     "wins": 11
+    },
+    "Dragon-Evolution": {
+     "buys": 1,
+     "closed": 1,
+     "realized": -17.92,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "Elaran1993": {
+     "buys": 2,
+     "closed": 2,
+     "realized": 38.3,
+     "unrealized": 0.0,
+     "wins": 2
+    },
+    "HVAB": {
+     "buys": 1,
+     "closed": 1,
+     "realized": -0.85,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "Jsram": {
+     "buys": 5,
+     "closed": 4,
+     "realized": 67.09,
+     "unrealized": -0.19,
+     "wins": 4
+    },
+    "PEYZ-BIGGEST-FAN": {
+     "buys": 9,
+     "closed": 9,
+     "realized": 8.0,
+     "unrealized": 0.0,
+     "wins": 5
+    },
+    "PiEDawg": {
+     "buys": 4,
+     "closed": 4,
+     "realized": -4.48,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "Siddhartha1": {
+     "buys": 2,
+     "closed": 1,
+     "realized": 24.97,
+     "unrealized": 0.35,
+     "wins": 1
+    },
+    "SpringlyFawl": {
+     "buys": 13,
+     "closed": 8,
+     "realized": -10.85,
      "unrealized": 0.0,
      "wins": 1
+    },
+    "THEHIGHLIFE": {
+     "buys": 2,
+     "closed": 2,
+     "realized": 40.01,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "Tokor": {
+     "buys": 25,
+     "closed": 10,
+     "realized": 25.46,
+     "unrealized": 9.9,
+     "wins": 7
+    },
+    "VerilyWinningly": {
+     "buys": 6,
+     "closed": 3,
+     "realized": -4.52,
+     "unrealized": -5.57,
+     "wins": 0
+    },
+    "Wiretransferxyz": {
+     "buys": 13,
+     "closed": 13,
+     "realized": 158.62,
+     "unrealized": 0.0,
+     "wins": 9
+    },
+    "aenews2": {
+     "buys": 6,
+     "closed": 5,
+     "realized": 20.63,
+     "unrealized": -0.39,
+     "wins": 4
+    },
+    "alex20011": {
+     "buys": 10,
+     "closed": 2,
+     "realized": -9.64,
+     "unrealized": -13.3,
+     "wins": 0
+    },
+    "alwaysfade": {
+     "buys": 2,
+     "closed": 2,
+     "realized": 0.67,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "balthazar": {
+     "buys": 5,
+     "closed": 2,
+     "realized": -36.47,
+     "unrealized": 11.15,
+     "wins": 0
+    },
+    "donthackme": {
+     "buys": 6,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -4.82,
+     "wins": 0
+    },
+    "dromedaryy": {
+     "buys": 2,
+     "closed": 1,
+     "realized": -2.43,
+     "unrealized": -3.22,
+     "wins": 0
+    },
+    "dsasdaas": {
+     "buys": 11,
+     "closed": 11,
+     "realized": -41.26,
+     "unrealized": 0.0,
+     "wins": 4
+    },
+    "flawfence": {
+     "buys": 6,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -1.23,
+     "wins": 0
+    },
+    "forgotmydinner": {
+     "buys": 3,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -4.13,
+     "wins": 0
+    },
+    "getbipped": {
+     "buys": 6,
+     "closed": 3,
+     "realized": -59.67,
+     "unrealized": 12.45,
+     "wins": 1
+    },
+    "ic4cream": {
+     "buys": 4,
+     "closed": 4,
+     "realized": 22.14,
+     "unrealized": 0.0,
+     "wins": 3
+    },
+    "jonjones1993": {
+     "buys": 1,
+     "closed": 1,
+     "realized": 74.97,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "lfg100k": {
+     "buys": 7,
+     "closed": 6,
+     "realized": -5.37,
+     "unrealized": -1.38,
+     "wins": 3
+    },
+    "mde4life1986": {
+     "buys": 2,
+     "closed": 2,
+     "realized": -15.82,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "paddaa": {
+     "buys": 9,
+     "closed": 5,
+     "realized": 1.78,
+     "unrealized": -18.87,
+     "wins": 3
+    },
+    "para-Vision": {
+     "buys": 3,
+     "closed": 3,
+     "realized": 37.02,
+     "unrealized": 0.0,
+     "wins": 2
+    },
+    "qwen4.1.fund": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.05,
+     "wins": 0
+    },
+    "robustmst": {
+     "buys": 5,
+     "closed": 5,
+     "realized": -9.87,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "wan123": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.12,
+     "wins": 0
+    },
+    "zerone777": {
+     "buys": 9,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -9.76,
+     "wins": 0
     }
    },
-   "pnl": -465.57,
-   "positions_taken": 89,
-   "realized_pnl": -438.46,
-   "return_pct": -46.56,
+   "pnl": 587.74,
+   "positions_taken": 256,
+   "realized_pnl": 628.82,
+   "return_pct": 58.77,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 9149,
-    "market already closed": 7,
-    "market ends too soon": 904,
-    "no price data": 2354,
-    "per-market cap or out of cash": 82,
-    "price ran away from leader's price": 83
+    "leader trade too small / extreme price / crypto up-down": 30842,
+    "market already closed": 3,
+    "market ends too soon": 630,
+    "no price data": 5088,
+    "per-market cap or out of cash": 1740,
+    "price ran away from leader's price": 540
    },
-   "start_ts": 1791913318,
+   "start_ts": 1791914553,
    "starting_bankroll": 1000,
-   "wins": 27,
+   "wins": 86,
    "worst": [
     {
-     "closed": 1792067698,
+     "closed": 1791947443,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792066556,
-     "outcome": "Team WE",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "leader sold",
-     "title": "LoL: Team WE vs HANJIN BRION - Game 4 Winner",
-     "token": "73622510145511112996353917530458403121246961950146177653361586256712730246897"
-    },
-    {
-     "closed": 1792180322,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792176479,
-     "outcome": "BetBoom Team",
+     "leader": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+     "leader_name": "alwaysfade",
+     "opened": 1791923038,
+     "outcome": "Cleveland Guardians",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: Legacy vs BetBoom Team - Map 2 Winner",
-     "token": "92959035682334313773799570859406459540463850799626795534838369916022913269614"
+     "title": "Cleveland Guardians vs. Tampa Bay Rays",
+     "token": "32702709036324313301558718828927816856796058093646071608392646066073985089049"
     },
     {
-     "closed": 1792010010,
+     "closed": 1791989670,
      "cost": 40.4,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1791992019,
-     "outcome": "Anubis Gaming",
+     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+     "opened": 1791983976,
+     "outcome": "Sashi Esport",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Game Handicap: SLY (-1.5) vs Anubis Gaming (+1.5)",
-     "token": "28584085808617514986485569225087566177459936704241892308218614992944913134019"
+     "title": "Map Handicap: FNC (-1.5) vs Sashi Esport (+1.5)",
+     "token": "88780270571823047687500125701148925382120436517822332567288691467680033838805"
     },
     {
-     "closed": 1792013568,
+     "closed": 1792035673,
      "cost": 40.4,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792010875,
-     "outcome": "BetBoom Team",
+     "leader": "0xdaef2be2a19ad331737d06545f85615b094554e9",
+     "leader_name": "PEYZ-BIGGEST-FAN",
+     "opened": 1791927570,
+     "outcome": "Avalanche",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner",
-     "token": "22390922487402041885281265285051688493235272749086231590008929491664745135407"
+     "title": "Stars vs. Avalanche",
+     "token": "4254644586617656734185561588986828229470903113827775756437260058530975302197"
     },
     {
-     "closed": 1792063018,
+     "closed": 1792338047,
      "cost": 40.4,
      "exit_price": 0.0,
-     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-     "leader_name": "THEHIGHLIFE",
-     "opened": 1792058854,
-     "outcome": "NIP",
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1792304987,
+     "outcome": "Team Falcons",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: Aurora Gaming vs NIP - Map 2 Winner",
-     "token": "86961637350991153557964550531115749369454141254263628719993993833419786252385"
+     "title": "Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs",
+     "token": "84926717465191669305792748077122266290940158329031577900968764345963910761482"
+    },
+    {
+     "closed": 1792383330,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456",
+     "leader_name": "getbipped",
+     "opened": 1792032746,
+     "outcome": "Yes",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Ethereum dip to $2,300 October 12-18?",
+     "token": "45288429549288429541334236484061937537620137355539723112623865418840383518726"
     }
    ]
   }
