@@ -65,3 +65,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-20 21:20,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.818,0.772,24.3,18.57,-1.63,copied leader exit
 2026-10-20 21:20,BUY,OhWhenTheReds,CR Vasco da Gama vs. CA Boca Juniors: O/U 2.5,Over,0.36,0.37,49.7,18.39,,leader spent $231
 2026-10-20 21:20,RESOLVED,omnibus-076daa,Galatasaray vs. Strasbourg,Strasbourg,,0.0,7196.53,0.0,-20.2,lost
+2026-10-20 21:56,RESOLVED,omnibus-076daa,W50 Austin: Rebecca Munk Mortensen vs Akasha Urhobo,Akasha Urhobo,,0.0,27.4,0.0,-20.2,lost
