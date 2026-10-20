@@ -49,3 +49,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-20 19:13,BUY,zerone777,Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary,No,0.3,0.3,66.67,20,,leader spent $480
 2026-10-20 19:13,BUY,alex20011,Will the Republicans win the Ohio governor race in 2026?,No,0.772,0.79,25.32,20,,leader spent $228
 2026-10-20 19:13,BUY,e46m3,Will National Party win the most seats in the New Zealand House of Representatives in the ,No,0.52,0.55,20.54,11.3,,leader spent $312
+2026-10-20 19:48,SELL,SpringlyFawl,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.71,0.7,28.17,19.52,-0.68,copied leader exit
