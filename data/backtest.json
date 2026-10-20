@@ -1,0 +1,688 @@
+{
+ "config": {
+  "backtest_days": [
+   7,
+   14
+  ],
+  "backtest_delay_minutes": 20,
+  "backtest_extra_slippage": 0.01,
+  "fee_rate": 0.01,
+  "leader_refresh_days": 7,
+  "max_per_market": 60,
+  "max_price": 0.95,
+  "max_signal_age_minutes": 60,
+  "max_slippage": 0.03,
+  "min_copyable_trades_last_7d": 3,
+  "min_hours_to_market_end": 1,
+  "min_leader_month_pnl": 10000,
+  "min_leader_pnl_to_volume": 0.03,
+  "min_leader_trade_usdc": 100,
+  "min_price": 0.05,
+  "num_leaders": 15,
+  "stake_per_trade": 20,
+  "starting_bankroll": 1000,
+  "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
+ },
+ "generated": 1792518118,
+ "leaders": [
+  {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 21,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "1",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
+   "all_time_pnl": 9053415.9,
+   "copyable_7d": 156,
+   "month_pnl": 6548482.8,
+   "month_vol": 56682692.18,
+   "name": "BreakTheBank",
+   "rank": "2",
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "all_time_pnl": 872264.7,
+   "copyable_7d": 59,
+   "month_pnl": 2972602.46,
+   "month_vol": 1927337.15,
+   "name": "e46m3",
+   "rank": "3",
+   "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
+  },
+  {
+   "all_time_pnl": 1673254.59,
+   "copyable_7d": 50,
+   "month_pnl": 2879707.91,
+   "month_vol": 50708653.74,
+   "name": "Diabolical-Prize",
+   "rank": "4",
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "all_time_pnl": 3185152.94,
+   "copyable_7d": 30,
+   "month_pnl": 1687849.99,
+   "month_vol": 14651375.44,
+   "name": "Kch-Temp",
+   "rank": "6",
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
+  },
+  {
+   "all_time_pnl": 279752.68,
+   "copyable_7d": 95,
+   "month_pnl": 1250901.04,
+   "month_vol": 5955673.74,
+   "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+   "rank": "8",
+   "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
+  },
+  {
+   "all_time_pnl": 3456038.99,
+   "copyable_7d": 331,
+   "month_pnl": 1077464.83,
+   "month_vol": 34595527.09,
+   "name": "omnibus-076daa",
+   "rank": "10",
+   "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c"
+  },
+  {
+   "all_time_pnl": 858694.7,
+   "copyable_7d": 45,
+   "month_pnl": 900721.12,
+   "month_vol": 4900282.1,
+   "name": "Mooseborzoiii",
+   "rank": "12",
+   "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
+  },
+  {
+   "all_time_pnl": 673545.48,
+   "copyable_7d": 28,
+   "month_pnl": 804687.86,
+   "month_vol": 6117389.22,
+   "name": "OhWhenTheReds",
+   "rank": "13",
+   "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63"
+  },
+  {
+   "all_time_pnl": 3409291.76,
+   "copyable_7d": 436,
+   "month_pnl": 776472.35,
+   "month_vol": 14347121.22,
+   "name": "primm",
+   "rank": "14",
+   "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029"
+  },
+  {
+   "all_time_pnl": 626971.93,
+   "copyable_7d": 91,
+   "month_pnl": 760388.51,
+   "month_vol": 4756838.9,
+   "name": "Bigggggggg",
+   "rank": "15",
+   "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
+  },
+  {
+   "all_time_pnl": 642992.05,
+   "copyable_7d": 235,
+   "month_pnl": 756701.57,
+   "month_vol": 23591955.25,
+   "name": "takeormake",
+   "rank": "16",
+   "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "all_time_pnl": 307762.03,
+   "copyable_7d": 40,
+   "month_pnl": 601925.34,
+   "month_vol": 7145642.45,
+   "name": "juice-fruit",
+   "rank": "20",
+   "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
+  },
+  {
+   "all_time_pnl": 609562.49,
+   "copyable_7d": 33,
+   "month_pnl": 596237.37,
+   "month_vol": 5227350.95,
+   "name": "theowalcott",
+   "rank": "21",
+   "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa"
+  },
+  {
+   "all_time_pnl": 1989537.76,
+   "copyable_7d": 116,
+   "month_pnl": 541814.41,
+   "month_vol": 8196681.01,
+   "name": "THEHIGHLIFE",
+   "rank": "23",
+   "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5"
+  }
+ ],
+ "results": {
+  "14": {
+   "best": [
+    {
+     "closed": 1791425426,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791412650,
+     "outcome": "Disguised",
+     "pnl": 384.7748,
+     "proceeds": 425.1748,
+     "reason": "resolved",
+     "title": "LoL: Disguised vs Maryville University - Game 3 Winner",
+     "token": "102485580069202078620022954075249651349839275625248389906611200187911032702702"
+    },
+    {
+     "closed": 1791808680,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791752175,
+     "outcome": "Team Vitality",
+     "pnl": 162.2354,
+     "proceeds": 222.4314,
+     "reason": "resolved",
+     "title": "Game Handicap: KT (-1.5) vs Team Vitality (+1.5)",
+     "token": "38349261074231780154438771471374784344190120172169001166516909108387807862097"
+    },
+    {
+     "closed": 1791489927,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791486509,
+     "outcome": "Team Yandex",
+     "pnl": 143.1798,
+     "proceeds": 183.5798,
+     "reason": "resolved",
+     "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
+     "token": "28206834018371224174690895653469458506660545349168048397218337116605877618097"
+    },
+    {
+     "closed": 1791891326,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791883112,
+     "outcome": "FlyQuest",
+     "pnl": 64.9064,
+     "proceeds": 85.1064,
+     "reason": "resolved",
+     "title": "LoL: Team WE vs FlyQuest - Game 4 Winner",
+     "token": "104041843838863559931226269463422540833545570208735033744109387212275418904690"
+    },
+    {
+     "closed": 1791952276,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791898864,
+     "outcome": "No",
+     "pnl": 60.208,
+     "proceeds": 120.404,
+     "reason": "resolved",
+     "title": "Will CA Boca Juniors win on 2026-10-13?",
+     "token": "10039160726732396894135157274647294027761128123139780126184756595012135413236"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 109,
+   "curve": [
+    [
+     1791308518,
+     1000.0
+    ],
+    [
+     1791394918,
+     935.71
+    ],
+    [
+     1791481318,
+     1059.76
+    ],
+    [
+     1791567718,
+     1155.14
+    ],
+    [
+     1791654118,
+     1020.7
+    ],
+    [
+     1791740518,
+     968.17
+    ],
+    [
+     1791826918,
+     845.63
+    ],
+    [
+     1791913318,
+     779.83
+    ],
+    [
+     1791999718,
+     835.77
+    ],
+    [
+     1792086118,
+     665.44
+    ],
+    [
+     1792172518,
+     652.33
+    ],
+    [
+     1792258918,
+     623.47
+    ],
+    [
+     1792345318,
+     601.35
+    ],
+    [
+     1792431718,
+     574.44
+    ],
+    [
+     1792518118,
+     510.71
+    ]
+   ],
+   "days": 14,
+   "end_ts": 1792518118,
+   "final_equity": 510.71,
+   "losses": 67,
+   "open_positions": 23,
+   "open_value": 510.71,
+   "per_leader": {
+    "Bigggggggg": {
+     "buys": 43,
+     "closed": 20,
+     "realized": 2.98,
+     "unrealized": -41.52,
+     "wins": 17
+    },
+    "THEHIGHLIFE": {
+     "buys": 62,
+     "closed": 62,
+     "realized": -206.8,
+     "unrealized": 0.0,
+     "wins": 16
+    },
+    "juice-fruit": {
+     "buys": 12,
+     "closed": 12,
+     "realized": -122.84,
+     "unrealized": 0.0,
+     "wins": 5
+    },
+    "primm": {
+     "buys": 5,
+     "closed": 5,
+     "realized": -113.83,
+     "unrealized": 0.0,
+     "wins": 1
+    },
+    "takeormake": {
+     "buys": 6,
+     "closed": 6,
+     "realized": 1.41,
+     "unrealized": 0.0,
+     "wins": 2
+    },
+    "theowalcott": {
+     "buys": 4,
+     "closed": 4,
+     "realized": -8.7,
+     "unrealized": 0.0,
+     "wins": 1
+    }
+   },
+   "pnl": -489.29,
+   "positions_taken": 132,
+   "realized_pnl": -447.77,
+   "return_pct": -48.93,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 9749,
+    "market already closed": 9,
+    "market ends too soon": 1098,
+    "no price data": 2963,
+    "per-market cap or out of cash": 168,
+    "price ran away from leader's price": 141
+   },
+   "start_ts": 1791308518,
+   "starting_bankroll": 1000,
+   "wins": 42,
+   "worst": [
+    {
+     "closed": 1791372034,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791350871,
+     "outcome": "T1",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Valorant: NRG vs T1 (BO3) - VCT Champions Playoffs",
+     "token": "37934754361455899630811353668392836228717702323395709647942847732695961409688"
+    },
+    {
+     "closed": 1791434100,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791410391,
+     "outcome": "Disguised",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "LoL: Disguised vs Maryville University (BO5) - LCS Promotion Playoffs",
+     "token": "28128082576131951091355845809724092899959718644386975705667279799732574653744"
+    },
+    {
+     "closed": 1791478296,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791474467,
+     "outcome": "1win",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Dota 2: Aurora vs 1win - Game 2 Winner",
+     "token": "68138545740416550760135301299446710355829859912329750640599464148352061333016"
+    },
+    {
+     "closed": 1791574708,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+     "leader_name": "juice-fruit",
+     "opened": 1791563988,
+     "outcome": "Team Falcons",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+     "token": "52538784910927017856130917556329158068345255120998918079109909501071194998786"
+    },
+    {
+     "closed": 1791580727,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791577546,
+     "outcome": "LGD Gaming",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Dota 2: LGD Gaming vs Aurora - Game 2 Winner",
+     "token": "111658130923113676919675830832181688345653057119951887081721176065206495076142"
+    }
+   ]
+  },
+  "7": {
+   "best": [
+    {
+     "closed": 1792102334,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792092991,
+     "outcome": "Karmine Corp",
+     "pnl": 153.713,
+     "proceeds": 173.913,
+     "reason": "resolved",
+     "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
+     "token": "19237985669921666860794206343184970290664399685735921766417161959175214255946"
+    },
+    {
+     "closed": 1792168798,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792163862,
+     "outcome": "MIBR",
+     "pnl": 66.3603,
+     "proceeds": 106.7603,
+     "reason": "resolved",
+     "title": "Counter-Strike: Astralis vs MIBR - Map 2 Winner",
+     "token": "63543299389130976048862318536018309871074467269208085695989994782009985555962"
+    },
+    {
+     "closed": 1792184525,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792176434,
+     "outcome": "BetBoom Team",
+     "pnl": 62.6569,
+     "proceeds": 122.8529,
+     "reason": "resolved",
+     "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+     "token": "82072476920028370167332644775881276458777865297413797798530427578352985816061"
+    },
+    {
+     "closed": 1791952276,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791918033,
+     "outcome": "No",
+     "pnl": 60.208,
+     "proceeds": 120.404,
+     "reason": "resolved",
+     "title": "Will CA Boca Juniors win on 2026-10-13?",
+     "token": "10039160726732396894135157274647294027761128123139780126184756595012135413236"
+    },
+    {
+     "closed": 1792356677,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+     "leader_name": "takeormake",
+     "opened": 1792324985,
+     "outcome": "Panthers",
+     "pnl": 45.3738,
+     "proceeds": 65.5738,
+     "reason": "resolved",
+     "title": "Spread: Panthers (-9.5)",
+     "token": "88838397286003458634957007568530913929026000804763486812812969231586279042159"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 66,
+   "curve": [
+    [
+     1791913318,
+     1000.0
+    ],
+    [
+     1791999718,
+     1039.19
+    ],
+    [
+     1792086118,
+     727.07
+    ],
+    [
+     1792172518,
+     948.1
+    ],
+    [
+     1792258918,
+     761.34
+    ],
+    [
+     1792345318,
+     688.35
+    ],
+    [
+     1792431718,
+     603.48
+    ],
+    [
+     1792518118,
+     534.43
+    ]
+   ],
+   "days": 7,
+   "end_ts": 1792518118,
+   "final_equity": 534.43,
+   "losses": 39,
+   "open_positions": 23,
+   "open_value": 534.43,
+   "per_leader": {
+    "Bigggggggg": {
+     "buys": 43,
+     "closed": 20,
+     "realized": -51.81,
+     "unrealized": -27.11,
+     "wins": 15
+    },
+    "THEHIGHLIFE": {
+     "buys": 22,
+     "closed": 22,
+     "realized": -214.56,
+     "unrealized": 0.0,
+     "wins": 4
+    },
+    "juice-fruit": {
+     "buys": 4,
+     "closed": 4,
+     "realized": -26.0,
+     "unrealized": 0.0,
+     "wins": 2
+    },
+    "primm": {
+     "buys": 4,
+     "closed": 4,
+     "realized": 21.71,
+     "unrealized": 0.0,
+     "wins": 2
+    },
+    "takeormake": {
+     "buys": 13,
+     "closed": 13,
+     "realized": -142.59,
+     "unrealized": 0.0,
+     "wins": 3
+    },
+    "theowalcott": {
+     "buys": 3,
+     "closed": 3,
+     "realized": -25.2,
+     "unrealized": 0.0,
+     "wins": 1
+    }
+   },
+   "pnl": -465.57,
+   "positions_taken": 89,
+   "realized_pnl": -438.46,
+   "return_pct": -46.56,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 9149,
+    "market already closed": 7,
+    "market ends too soon": 904,
+    "no price data": 2354,
+    "per-market cap or out of cash": 82,
+    "price ran away from leader's price": 83
+   },
+   "start_ts": 1791913318,
+   "starting_bankroll": 1000,
+   "wins": 27,
+   "worst": [
+    {
+     "closed": 1792067698,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792066556,
+     "outcome": "Team WE",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "leader sold",
+     "title": "LoL: Team WE vs HANJIN BRION - Game 4 Winner",
+     "token": "73622510145511112996353917530458403121246961950146177653361586256712730246897"
+    },
+    {
+     "closed": 1792180322,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792176479,
+     "outcome": "BetBoom Team",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Legacy vs BetBoom Team - Map 2 Winner",
+     "token": "92959035682334313773799570859406459540463850799626795534838369916022913269614"
+    },
+    {
+     "closed": 1792010010,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1791992019,
+     "outcome": "Anubis Gaming",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Game Handicap: SLY (-1.5) vs Anubis Gaming (+1.5)",
+     "token": "28584085808617514986485569225087566177459936704241892308218614992944913134019"
+    },
+    {
+     "closed": 1792013568,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792010875,
+     "outcome": "BetBoom Team",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner",
+     "token": "22390922487402041885281265285051688493235272749086231590008929491664745135407"
+    },
+    {
+     "closed": 1792063018,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+     "leader_name": "THEHIGHLIFE",
+     "opened": 1792058854,
+     "outcome": "NIP",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Aurora Gaming vs NIP - Map 2 Winner",
+     "token": "86961637350991153557964550531115749369454141254263628719993993833419786252385"
+    }
+   ]
+  }
+ }
+}
