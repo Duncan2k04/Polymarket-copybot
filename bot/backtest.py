@@ -8,7 +8,7 @@ import bisect
 import time
 from collections import Counter, defaultdict
 
-from common import (CONFIG, Portfolio, copyable_buy, group_signals, market_info,
+from common import (CONFIG, profiles, Portfolio, copyable_buy, group_signals, market_info,
                     price_history, save_json, select_leaders, trades)
 
 
@@ -165,8 +165,8 @@ def simulate(days, now, leaders, sigs, hists, meta, cfg):
     }
 
 
-def main():
-    cfg = CONFIG
+def run(name, cfg):
+    print(f"=== {name}: {cfg['label']}")
     now = int(time.time())
     if cfg.get("stop_new_bets_after"):
         from datetime import datetime
@@ -201,8 +201,21 @@ def main():
     for d, r in results.items():
         print(f"{d} days: ${r['starting_bankroll']} -> ${r['final_equity']} ({r['return_pct']:+.1f}%),"
               f" {r['positions_taken']} positions")
-    save_json("data/backtest.json", {"generated": now, "leaders": leaders, "config": cfg,
+    save_json(f"data/backtest_{name}.json", {"generated": now, "leaders": leaders, "config": cfg,
                                      "results": results})
+
+
+def main():
+    import os
+    only = [x for x in os.environ.get("ONLY", "").split(",") if x]
+    for name, cfg in profiles():
+        if only and name not in only:
+            continue
+        try:
+            run(name, cfg)
+        except Exception:
+            import traceback
+            traceback.print_exc()
 
 
 if __name__ == "__main__":

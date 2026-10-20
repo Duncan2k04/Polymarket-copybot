@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated strategies to test (blank = all)"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -15,6 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Replay last 7 and 14 days
+        env:
+          ONLY: ${{ github.event.inputs.only }}
         run: python3 bot/backtest.py
       - name: Update dashboard
         if: always()

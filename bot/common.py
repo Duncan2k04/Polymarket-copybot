@@ -37,6 +37,17 @@ def save_json(rel, obj):
 CONFIG = load_json("config.json", {})
 
 
+def profiles():
+    """[(name, merged config)] - one paper account per profile, compared side by side."""
+    out = []
+    for name, over in (CONFIG.get("profiles") or {"main": {}}).items():
+        cfg = {k: v for k, v in CONFIG.items() if k != "profiles"}
+        cfg.update(over)
+        cfg.setdefault("label", name)
+        out.append((name, cfg))
+    return out
+
+
 # ---------------------------------------------------------------- HTTP
 
 def http(method, url, params=None, body=None, retries=4):

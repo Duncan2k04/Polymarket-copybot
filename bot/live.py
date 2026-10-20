@@ -8,14 +8,13 @@ import os
 import time
 from collections import Counter
 
-from common import (CONFIG, Portfolio, book, copyable_buy, fill_buy, fill_sell, group_signals,
+from common import (CONFIG, profiles, Portfolio, book, copyable_buy, fill_buy, fill_sell, group_signals,
                     load_json, market_info, midpoint, path, save_json, select_leaders, trades)
 
-STATE = "state/live.json"
 
 
-def log_action(row):
-    p = path("data", "live_trades.csv")
+def log_action(name, row):
+    p = path("data", f"live_{name}_trades.csv")
     new = not os.path.exists(p)
     with open(p, "a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["time_utc", "action", "leader", "market", "outcome",
@@ -30,8 +29,9 @@ def utc(ts):
     return time.strftime("%Y-%m-%d %H:%M", time.gmtime(ts))
 
 
-def main():
-    cfg = CONFIG
+def run(name, cfg):
+    print(f"=== {name}: {cfg['label']}")
+    STATE = f"state/live_{name}.json"
     now = int(time.time())
     st = load_json(STATE, {})
     st.setdefault("started", now)
@@ -68,7 +68,7 @@ def main():
     # 2. new signals
     skips = Counter()
     signals = []
-    for w, name in leaders.items():
+    for w, lname in leaders.items():
         since = st["last_seen"].get(w)
         if since is None:  # first time we see this leader: start from now, don't copy history
             st["last_seen"][w] = now
@@ -77,7 +77,7 @@ def main():
         if rows:
             st["last_seen"][w] = max(int(r["timestamp"]) for r in rows)
         for s in group_signals(rows):
-            s["leader"], s["leader_name"] = w, name
+            s["leader"], s["leader_name"] = w, lname
             signals.append(s)
         time.sleep(0.1)
     signals.sort(key=lambda s: s["ts"])
@@ -98,7 +98,7 @@ def main():
                 continue
             sh = pf.positions[k]["shares"]
             rec = pf.close(k, px, now, "leader sold")
-            log_action({"time_utc": utc(now), "action": "SELL", "leader": s["leader_name"],
+            log_action(name, {"time_utc": utc(now), "action": "SELL", "leader": s["leader_name"],
                         "market": s["title"][:90], "outcome": s["outcome"],
                         "leader_price": round(s["price"], 3), "our_price": round(px, 3),
                         "shares": round(sh, 2), "usd": round(rec["proceeds"], 2),
@@ -136,7 +136,7 @@ def main():
             continue
         if pf.buy(s["leader"], s["leader_name"], s["asset"], px, shares, now, s["title"],
                   s["outcome"], s["price"]):
-            log_action({"time_utc": utc(now), "action": "BUY", "leader": s["leader_name"],
+            log_action(name, {"time_utc": utc(now), "action": "BUY", "leader": s["leader_name"],
                         "market": s["title"][:90], "outcome": s["outcome"],
                         "leader_price": round(s["price"], 3), "our_price": round(px, 3),
                         "shares": round(shares, 2), "usd": round(stake, 2), "pnl": "",
@@ -150,7 +150,7 @@ def main():
         i = info.get(p["token"], {})
         if i.get("closed") and i.get("settle") is not None:
             rec = pf.close(k, i["settle"], now, "resolved")
-            log_action({"time_utc": utc(now), "action": "RESOLVED", "leader": p["leader_name"],
+            log_action(name, {"time_utc": utc(now), "action": "RESOLVED", "leader": p["leader_name"],
                         "market": p["title"][:90], "outcome": p["outcome"], "leader_price": "",
                         "our_price": i["settle"], "shares": round(p["shares"], 2),
                         "usd": round(rec["proceeds"], 2), "pnl": round(rec["pnl"], 2),
@@ -169,7 +169,7 @@ def main():
     st["portfolio"] = pf.to_state()
     save_json(STATE, st)
 
-    p = path("data", "live_equity.csv")
+    p = path("data", f"live_{name}_equity.csv")
     new = not os.path.exists(p)
     with open(p, "a", newline="") as f:
         w = csv.writer(f)
@@ -178,6 +178,15 @@ def main():
         w.writerow([now, utc(now), round(eq, 2), round(pf.cash, 2), round(pos_val, 2),
                     len(pf.positions)])
     print(f"Equity ${eq:,.2f} (cash ${pf.cash:,.2f}, {len(pf.positions)} open positions)")
+
+
+def main():
+    for name, cfg in profiles():
+        try:
+            run(name, cfg)
+        except Exception as e:  # one account failing must not stop the other
+            import traceback
+            traceback.print_exc()
 
 
 if __name__ == "__main__":

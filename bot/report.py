@@ -4,7 +4,7 @@ import os
 import time
 from collections import defaultdict
 
-from common import CONFIG, load_json, path
+from common import CONFIG, load_json, path, profiles
 
 GREEN, RED, GREY = "#1a7f37", "#cf222e", "#8c959f"
 
@@ -63,12 +63,25 @@ def read_csv(name):
         return list(csv.DictReader(f))
 
 
-def live_section(cfg):
-    st = load_json("state/live.json", None)
+def live_stats(name, cfg):
+    st = load_json(f"state/live_{name}.json", None)
     if not st:
-        return ["## Live paper trading", "", "_Not started yet. First run is due shortly._", ""]
+        return None
+    eq_rows = read_csv(f"live_{name}_equity.csv")
+    eq = float(eq_rows[-1]["equity"]) if eq_rows else cfg["starting_bankroll"]
+    pf = st.get("portfolio", {})
+    closed = pf.get("closed", [])
+    return {"equity": eq, "bets": len(closed) + len(pf.get("positions", {})),
+            "wins": sum(1 for c in closed if c["pnl"] > 0), "closed": len(closed),
+            "leaders": len(st.get("leaders", []))}
+
+
+def live_section(name, cfg):
+    st = load_json(f"state/live_{name}.json", None)
+    if not st:
+        return [f"### Live paper trading", "", "_Not started yet. First run is due shortly._", ""]
     bank = cfg["starting_bankroll"]
-    eq_rows = read_csv("live_equity.csv")
+    eq_rows = read_csv(f"live_{name}_equity.csv")
     pts = [(int(r["ts"]), float(r["equity"])) for r in eq_rows]
     step = max(1, len(pts) // 400)
     pts_d = pts[::step] + ([pts[-1]] if pts and pts[-1] not in pts[::step] else [])
@@ -79,9 +92,9 @@ def live_section(cfg):
     wins = sum(1 for c in closed if c["pnl"] > 0)
     days = (st.get("last_run", st["started"]) - st["started"]) / 86400
     stale = time.time() - st.get("last_run", 0) > 3 * 3600
-    chart = svg_chart(pts_d, bank, "live_equity.svg", "Live paper account value")
+    chart = svg_chart(pts_d, bank, f"live_{name}_equity.svg", f"Live paper account: {cfg['label']}")
     out = [
-        "## Live paper trading (fake money, real prices)",
+        "### Live paper trading (fake money, real prices)",
         "",
         f"| | |", "|---|---|",
         f"| **Account value** | **{money(eq)}** (started with {money(bank)}) |",
@@ -113,7 +126,7 @@ def live_section(cfg):
         mk = marks.get(p["token"], p["cost"] / p["shares"])
         d["unreal"] += p["shares"] * mk - p["cost"]
     if per:
-        out += ["### Which traders are worth copying (live)", "",
+        out += ["#### Which traders are worth copying (live)", "",
                 "| Trader | Bets copied | Finished (won) | Profit/loss so far |",
                 "|---|---:|---:|---:|"]
         for name, d in sorted(per.items(), key=lambda kv: -(kv[1]["real"] + kv[1]["unreal"])):
@@ -126,9 +139,9 @@ def live_section(cfg):
                 f"{cfg['leader_refresh_days']} days, last on {day(st.get('leaders_refreshed', 0))}): "
                 + ", ".join(f"[{l['name']}](https://polymarket.com/profile/{l['wallet']})"
                             for l in leaders), ""]
-    acts = read_csv("live_trades.csv")[-20:][::-1]
+    acts = read_csv(f"live_{name}_trades.csv")[-20:][::-1]
     if acts:
-        out += ["### Latest activity", "", "| Time (UTC) | Action | Trader | Market | Side | Price | $ | P/L |",
+        out += ["#### Latest activity", "", "| Time (UTC) | Action | Trader | Market | Side | Price | $ | P/L |",
                 "|---|---|---|---|---|---:|---:|---:|"]
         for a in acts:
             out.append(f"| {a['time_utc']} | {a['action']} | {a['leader']} | {a['market'][:60]} | "
@@ -142,11 +155,11 @@ def live_section(cfg):
     return out
 
 
-def backtest_section(cfg):
-    bt = load_json("data/backtest.json", None)
+def backtest_section(name, cfg):
+    bt = load_json(f"data/backtest_{name}.json", None)
     if not bt:
-        return ["## Look-back test", "", "_Running... results will appear here._", ""]
-    out = ["## Look-back test: if you had started copying 7 or 14 days ago", "",
+        return ["### Look-back test", "", "_Running... results will appear here._", ""]
+    out = ["### Look-back test: if you had started copying 7 or 14 days ago", "",
            f"_Last calculated {day(bt['generated'])}. Copies each trade "
            f"{cfg['backtest_delay_minutes']} min late, at a worse price "
            f"(+{cfg['backtest_extra_slippage']:.2f}) and {cfg['fee_rate']:.0%} fees._", "",
@@ -159,7 +172,7 @@ def backtest_section(cfg):
     out.append("")
     longest = bt["results"][str(max(int(k) for k in bt["results"]))]
     chart = svg_chart([tuple(p) for p in longest["curve"]], longest["starting_bankroll"],
-                      "backtest_equity.svg", f"Look-back: last {longest['days']} days")
+                      f"backtest_{name}_equity.svg", f"Look-back: last {longest['days']} days")
     out += [f"![backtest]({chart})", "", "| Trader | Bets | Profit/loss (14d) |", "|---|---:|---:|"]
     for name, d in sorted(longest["per_leader"].items(),
                           key=lambda kv: -(kv[1]["realized"] + kv[1]["unrealized"])):
@@ -177,14 +190,33 @@ def main():
              f"{money(cfg['starting_bankroll'])} account** and real market prices. "
              "No real money, no wallet, no keys. Runs by itself every ~10 minutes on GitHub Actions.",
              ""]
-    lines += live_section(cfg)
-    lines += backtest_section(cfg)
+    profs = profiles()
+    lines += ["## Head to head", "",
+              "| Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |",
+              "|---|---:|---:|---:|---:|---:|"]
+    bank = cfg["starting_bankroll"]
+    for name, pc in profs:
+        ls = live_stats(name, pc)
+        bt = load_json(f"data/backtest_{name}.json", None)
+        bres = (bt or {}).get("results", {})
+        bcell = lambda d: (f"{money(bres[d]['pnl'], True)} ({bres[d]['return_pct']:+.0f}%)" if d in bres else "pending")
+        if ls:
+            lcell = f"{money(ls['equity'])} | {money(ls['equity'] - bank, True)} ({(ls['equity'] - bank) / bank * 100:+.1f}%) | {ls['bets']} ({ls['wins']}/{ls['closed']})"
+        else:
+            lcell = "starting | - | -"
+        lines.append(f"| [{pc['label']}](#{name}) | {lcell} | {bcell('7')} | {bcell('14')} |")
+    lines.append("")
+    for name, pc in profs:
+        lines += [f'<a id="{name}"></a>', f"## {pc['label']}", ""]
+        lines += live_section(name, pc)
+        lines += backtest_section(name, pc)
     lines += [
         "## Rules the bot follows", "",
-        f"- Picks up to {cfg['num_leaders']} traders on the monthly leaderboard who: made "
-        f"${cfg['min_leader_month_pnl']:,}+ this month, are profitable all-time, earn at least "
+        "- Each strategy picks traders from the monthly leaderboard ("
+        + "; ".join(f"{pc['label']}" for _, pc in profiles())
+        + f") who are also profitable all-time, earn at least "
         f"{cfg['min_leader_pnl_to_volume']:.0%} on what they trade (filters out market-making bots) "
-        f"and made {cfg['min_copyable_trades_last_7d']}+ copyable trades in the last week. Re-picks weekly.",
+        f"and made {cfg['min_copyable_trades_last_7d']}+ copyable trades in the last week. Re-picks weekly. Each strategy has its own separate fake account.",
         f"- When one of them buys (${cfg['min_leader_trade_usdc']}+, price between "
         f"{cfg['min_price']:.2f} and {cfg['max_price']:.2f}), the bot buys "
         f"{money(cfg['stake_per_trade'])} of the same outcome at the real order-book price, "
@@ -195,8 +227,8 @@ def main():
         "- Sells when the trader sells. Otherwise holds until the market resolves ($1 if right, $0 if wrong).",
         f"- Assumes {cfg['fee_rate']:.0%} fees on every buy and sell (conservative).",
         "",
-        "Settings live in `config.json`. Raw data: `data/live_trades.csv`, `data/live_equity.csv`, "
-        "`data/backtest.json`.",
+        "Settings live in `config.json`. Raw data: `data/live_<strategy>_trades.csv`, `data/live_<strategy>_equity.csv`, "
+        "`data/backtest_<strategy>.json`.",
         "",
         "_Not financial advice. Past results, especially copied ones, don't guarantee future results._",
     ]
