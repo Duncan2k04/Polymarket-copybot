@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,007.78 | +$7.78 (+0.8%) | 5 (0/0) | +$587.74 (+59%) | +$670.75 (+67%) |
-| [Top 5 traders making $500k+/month](#top5) | $1,000.00 | +$0.00 (+0.0%) | 0 (0/0) | pending | pending |
+| [All traders making $100k+/month (up to 60)](#wide) | $998.91 | -$1.09 (-0.1%) | 2 (0/0) | +$587.74 (+59%) | +$670.75 (+67%) |
+| [Top 5 traders making $500k+/month](#top5) | starting | - | - | +$408.13 (+41%) | -$383.45 (-38%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -122,9 +122,26 @@ _Last calculated 20 Oct 2026 18:02 UTC. Copies each trade 20 min late, at a wors
 
 **Currently copying 5 traders** (re-picked every 7 days, last on 20 Oct 2026 18:32 UTC): [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Diabolical-Prize](https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb), [Kch-Temp](https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e)
 
-### Look-back test
+### Look-back test: if you had started copying 7 or 14 days ago
 
-_Running... results will appear here._
+_Last calculated 20 Oct 2026 18:32 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+
+| Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
+|---|---:|---:|---:|---:|---:|
+| 7 days ago | $1,000.00 | $1,408.13 | **+$408.13 (+40.8%)** | 92 | 16 / 21 |
+| 14 days ago | $1,000.00 | $616.55 | **-$383.45 (-38.3%)** | 78 | 24 / 32 |
+
+![backtest](data/backtest_top5_equity.svg)
+
+| Trader | Bets | Profit/loss (14d) |
+|---|---:|---:|
+| BreakTheBank | 8 | +$73.32 |
+| joseph00677 | 6 | +$14.64 |
+| e46m3 | 18 | -$39.78 |
+| Kch-Temp | 17 | -$65.66 |
+| Diabolical-Prize | 29 | -$365.97 |
+
+> ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
 ## Rules the bot follows
 

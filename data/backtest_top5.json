@@ -1,0 +1,581 @@
+{
+ "config": {
+  "backtest_days": [
+   7,
+   14
+  ],
+  "backtest_delay_minutes": 20,
+  "backtest_extra_slippage": 0.01,
+  "fee_rate": 0.01,
+  "label": "Top 5 traders making $500k+/month",
+  "leader_refresh_days": 7,
+  "max_per_market": 60,
+  "max_price": 0.95,
+  "max_signal_age_minutes": 60,
+  "max_slippage": 0.03,
+  "min_copyable_trades_last_7d": 3,
+  "min_hours_to_market_end": 1,
+  "min_leader_month_pnl": 500000,
+  "min_leader_pnl_to_volume": 0.03,
+  "min_leader_trade_usdc": 100,
+  "min_price": 0.05,
+  "num_leaders": 5,
+  "stake_per_trade": 20,
+  "starting_bankroll": 1000,
+  "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
+ },
+ "generated": 1792521145,
+ "leaders": [
+  {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 20,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "1",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
+   "all_time_pnl": 9054017.15,
+   "copyable_7d": 157,
+   "month_pnl": 6529103.02,
+   "month_vol": 56702367.36,
+   "name": "BreakTheBank",
+   "rank": "2",
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "all_time_pnl": 872533.91,
+   "copyable_7d": 60,
+   "month_pnl": 2975407.85,
+   "month_vol": 1930922.76,
+   "name": "e46m3",
+   "rank": "3",
+   "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
+  },
+  {
+   "all_time_pnl": 1673254.59,
+   "copyable_7d": 50,
+   "month_pnl": 2879707.91,
+   "month_vol": 50708653.74,
+   "name": "Diabolical-Prize",
+   "rank": "4",
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "all_time_pnl": 3185152.94,
+   "copyable_7d": 30,
+   "month_pnl": 1687849.99,
+   "month_vol": 14651375.44,
+   "name": "Kch-Temp",
+   "rank": "6",
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
+  }
+ ],
+ "results": {
+  "14": {
+   "best": [
+    {
+     "closed": 1791978509,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791943166,
+     "outcome": "9z",
+     "pnl": 105.0545,
+     "proceeds": 145.4545,
+     "reason": "resolved",
+     "title": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
+     "token": "87743399534223587059034289491198187713803220769033373082289978629233464649040"
+    },
+    {
+     "closed": 1791852212,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791838713,
+     "outcome": "Milwaukee Brewers",
+     "pnl": 86.0043,
+     "proceeds": 146.2003,
+     "reason": "resolved",
+     "title": "Los Angeles Dodgers vs. Milwaukee Brewers",
+     "token": "1145578312860253508259027519584721473567818987425729724913077142408562193504"
+    },
+    {
+     "closed": 1792122607,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1791932095,
+     "outcome": "Broncos",
+     "pnl": 74.7698,
+     "proceeds": 134.9658,
+     "reason": "resolved",
+     "title": "Seahawks vs. Broncos",
+     "token": "78653414984017864835330593213700943479354040352698721042453780387223265497055"
+    },
+    {
+     "closed": 1791392638,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1791390190,
+     "outcome": "PARIVISION",
+     "pnl": 72.8233,
+     "proceeds": 93.0233,
+     "reason": "resolved",
+     "title": "Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner",
+     "token": "87941208709324076608701351439603068190877392741496257299892025012277338567944"
+    },
+    {
+     "closed": 1791668868,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791652191,
+     "outcome": "MOUZ",
+     "pnl": 61.0413,
+     "proceeds": 121.2373,
+     "reason": "resolved",
+     "title": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+     "token": "62813604754427508641245639139740674925348067927945159093643391364730231238161"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 56,
+   "curve": [
+    [
+     1791311545,
+     1000.0
+    ],
+    [
+     1791397945,
+     1072.82
+    ],
+    [
+     1791484345,
+     1052.62
+    ],
+    [
+     1791570745,
+     1056.33
+    ],
+    [
+     1791657145,
+     800.41
+    ],
+    [
+     1791743545,
+     723.31
+    ],
+    [
+     1791829945,
+     725.6
+    ],
+    [
+     1791916345,
+     681.17
+    ],
+    [
+     1792002745,
+     519.18
+    ],
+    [
+     1792089145,
+     523.44
+    ],
+    [
+     1792175545,
+     638.29
+    ],
+    [
+     1792261945,
+     633.14
+    ],
+    [
+     1792348345,
+     629.55
+    ],
+    [
+     1792434745,
+     616.35
+    ],
+    [
+     1792521145,
+     616.55
+    ]
+   ],
+   "days": 14,
+   "end_ts": 1792521145,
+   "final_equity": 616.55,
+   "losses": 32,
+   "open_positions": 22,
+   "open_value": 616.55,
+   "per_leader": {
+    "BreakTheBank": {
+     "buys": 8,
+     "closed": 3,
+     "realized": 101.62,
+     "unrealized": -28.3,
+     "wins": 2
+    },
+    "Diabolical-Prize": {
+     "buys": 29,
+     "closed": 29,
+     "realized": -365.97,
+     "unrealized": 0.0,
+     "wins": 10
+    },
+    "Kch-Temp": {
+     "buys": 17,
+     "closed": 17,
+     "realized": -65.66,
+     "unrealized": 0.0,
+     "wins": 10
+    },
+    "e46m3": {
+     "buys": 18,
+     "closed": 1,
+     "realized": -20.2,
+     "unrealized": -19.58,
+     "wins": 0
+    },
+    "joseph00677": {
+     "buys": 6,
+     "closed": 6,
+     "realized": 14.64,
+     "unrealized": 0.0,
+     "wins": 2
+    }
+   },
+   "pnl": -383.45,
+   "positions_taken": 78,
+   "realized_pnl": -335.56,
+   "return_pct": -38.34,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 5030,
+    "market ends too soon": 224,
+    "per-market cap or out of cash": 364,
+    "price ran away from leader's price": 67
+   },
+   "start_ts": 1791311545,
+   "starting_bankroll": 1000,
+   "wins": 24,
+   "worst": [
+    {
+     "closed": 1791580724,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791569975,
+     "outcome": "LGD Gaming",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Dota 2: LGD Gaming vs Aurora (BO3) - BLAST Slam Playoffs",
+     "token": "85034396298440633338171072666586351293899013855918229655300957719642111646700"
+    },
+    {
+     "closed": 1791628617,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+     "leader_name": "Kch-Temp",
+     "opened": 1791570433,
+     "outcome": "Pavel Kotov",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Shanghai Rolex Masters: Arthur Fils vs Pavel Kotov",
+     "token": "59940557548876326185071638052976497927724902485919749743410867706455622219222"
+    },
+    {
+     "closed": 1791633478,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791623950,
+     "outcome": "NRG",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Valorant: NRG vs LOUD (BO3) - VCT Champions Playoffs",
+     "token": "54766275672533937226534147411813036045778021882156237046712863902839579722640"
+    },
+    {
+     "closed": 1791738166,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791734398,
+     "outcome": "Team Spirit",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+     "token": "6194946927769620245392273420313680858198004171445733278571919111673364683620"
+    },
+    {
+     "closed": 1791744198,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791727759,
+     "outcome": "MOUZ",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+     "token": "47122283373499771382161294752814766398582213460485262242247405694878043003442"
+    }
+   ]
+  },
+  "7": {
+   "best": [
+    {
+     "closed": 1792198740,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1792175087,
+     "outcome": "FURIA Esports",
+     "pnl": 431.3445,
+     "proceeds": 471.7445,
+     "reason": "resolved",
+     "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+     "token": "13864490261439877402782058454800294514135228899012388119905836367840432355391"
+    },
+    {
+     "closed": 1792236602,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1792210163,
+     "outcome": "Team Vitality",
+     "pnl": 117.7144,
+     "proceeds": 177.9104,
+     "reason": "resolved",
+     "title": "Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs",
+     "token": "38725776711339163495106479361322692996264843388509719981628391206131107874952"
+    },
+    {
+     "closed": 1791978509,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791943166,
+     "outcome": "9z",
+     "pnl": 105.0545,
+     "proceeds": 145.4545,
+     "reason": "resolved",
+     "title": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
+     "token": "87743399534223587059034289491198187713803220769033373082289978629233464649040"
+    },
+    {
+     "closed": 1792122607,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1791932095,
+     "outcome": "Broncos",
+     "pnl": 74.7698,
+     "proceeds": 134.9658,
+     "reason": "resolved",
+     "title": "Seahawks vs. Broncos",
+     "token": "78653414984017864835330593213700943479354040352698721042453780387223265497055"
+    },
+    {
+     "closed": 1792343103,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792268834,
+     "outcome": "Texans",
+     "pnl": 60.208,
+     "proceeds": 120.404,
+     "reason": "resolved",
+     "title": "Spread: Jaguars (-2.5)",
+     "token": "64198878324319945512387287171779273420917130153942170268101661917928788237790"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 37,
+   "curve": [
+    [
+     1791916345,
+     1000.0
+    ],
+    [
+     1792002745,
+     831.72
+    ],
+    [
+     1792089145,
+     834.56
+    ],
+    [
+     1792175545,
+     942.79
+    ],
+    [
+     1792261945,
+     1471.65
+    ],
+    [
+     1792348345,
+     1492.99
+    ],
+    [
+     1792434745,
+     1400.93
+    ],
+    [
+     1792521145,
+     1408.13
+    ]
+   ],
+   "days": 7,
+   "end_ts": 1792521145,
+   "final_equity": 1408.13,
+   "losses": 21,
+   "open_positions": 55,
+   "open_value": 1408.13,
+   "per_leader": {
+    "BreakTheBank": {
+     "buys": 15,
+     "closed": 8,
+     "realized": 98.86,
+     "unrealized": -36.44,
+     "wins": 4
+    },
+    "Diabolical-Prize": {
+     "buys": 18,
+     "closed": 18,
+     "realized": 484.64,
+     "unrealized": 0.0,
+     "wins": 8
+    },
+    "Kch-Temp": {
+     "buys": 6,
+     "closed": 6,
+     "realized": -62.41,
+     "unrealized": 0.0,
+     "wins": 3
+    },
+    "e46m3": {
+     "buys": 49,
+     "closed": 1,
+     "realized": -20.2,
+     "unrealized": -18.34,
+     "wins": 0
+    },
+    "joseph00677": {
+     "buys": 4,
+     "closed": 4,
+     "realized": -37.98,
+     "unrealized": 0.0,
+     "wins": 1
+    }
+   },
+   "pnl": 408.13,
+   "positions_taken": 92,
+   "realized_pnl": 462.92,
+   "return_pct": 40.81,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 4932,
+    "market ends too soon": 178,
+    "per-market cap or out of cash": 277,
+    "price ran away from leader's price": 43
+   },
+   "start_ts": 1791916345,
+   "starting_bankroll": 1000,
+   "wins": 16,
+   "worst": [
+    {
+     "closed": 1791962008,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+     "leader_name": "Kch-Temp",
+     "opened": 1791921598,
+     "outcome": "Botic van de Zandschulp",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
+     "token": "8829948779588139289486687404644337030316668887593366568269848303232641234747"
+    },
+    {
+     "closed": 1791983549,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791976144,
+     "outcome": "KT Rolster",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "LoL: BNK FEARX vs KT Rolster - Game 3 Winner",
+     "token": "45260144541348609101534973322933476192267790382308786181081334143273935993570"
+    },
+    {
+     "closed": 1791990568,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791972707,
+     "outcome": "NIP",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A",
+     "token": "10010989336859189026521993538826854315530176118645644670849641629098937737546"
+    },
+    {
+     "closed": 1791990568,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791977971,
+     "outcome": "NIP",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Map Handicap: FAL (-1.5) vs NIP (+1.5)",
+     "token": "1076354127667104075047822550881922265350106541387441735768575893565914908295"
+    },
+    {
+     "closed": 1792382642,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792276091,
+     "outcome": "Cowboys",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Cowboys vs. Packers",
+     "token": "62216093420049586863764473589072732611021099987810862636177687263075853891357"
+    }
+   ]
+  }
+ }
+}
