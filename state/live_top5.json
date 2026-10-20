@@ -1,0 +1,79 @@
+{
+ "last_run": 1792521127,
+ "last_seen": {
+  "0x4f1d5ae26fc31472966e951af3183308736d8de2": 1792521127,
+  "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": 1792521127,
+  "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792521127,
+  "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a": 1792521127,
+  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": 1792521127
+ },
+ "leader_history": [
+  {
+   "names": [
+    "joseph00677",
+    "BreakTheBank",
+    "e46m3",
+    "Diabolical-Prize",
+    "Kch-Temp"
+   ],
+   "ts": 1792521127
+  }
+ ],
+ "leaders": [
+  {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 20,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "1",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
+   "all_time_pnl": 9054017.15,
+   "copyable_7d": 157,
+   "month_pnl": 6529103.02,
+   "month_vol": 56702367.36,
+   "name": "BreakTheBank",
+   "rank": "2",
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "all_time_pnl": 872533.91,
+   "copyable_7d": 60,
+   "month_pnl": 2975407.85,
+   "month_vol": 1930922.76,
+   "name": "e46m3",
+   "rank": "3",
+   "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
+  },
+  {
+   "all_time_pnl": 1673254.59,
+   "copyable_7d": 50,
+   "month_pnl": 2879707.91,
+   "month_vol": 50708653.74,
+   "name": "Diabolical-Prize",
+   "rank": "4",
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "all_time_pnl": 3185152.94,
+   "copyable_7d": 30,
+   "month_pnl": 1687849.99,
+   "month_vol": 14651375.44,
+   "name": "Kch-Temp",
+   "rank": "6",
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
+  }
+ ],
+ "leaders_refreshed": 1792521127,
+ "marks": {},
+ "portfolio": {
+  "cash": 1000,
+  "closed": [],
+  "positions": {}
+ },
+ "runs": 1,
+ "skips": {},
+ "started": 1792521127
+}
