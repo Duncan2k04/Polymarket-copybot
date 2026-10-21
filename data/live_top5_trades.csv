@@ -36,3 +36,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 04:12,SELL,BreakTheBank,Will Philadelphia 76ers win the 2027 NBA Finals?,No,0.899,0.898,22.25,19.78,-0.42,copied leader exit
 2026-10-21 04:49,BUY,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,0.273,0.27,72.59,19.6,,leader spent $150
 2026-10-21 04:49,BUY,e46m3,Will the Republicans win Oakland County in the Michigan Senate race in 2026?,No,0.881,0.905,22.11,20,,leader spent $131
+2026-10-21 05:50,BUY,e46m3,Will Margareta Dovgal win the next Vancouver-Yaletown British Columbia Legislative Assembl,No,0.49,0.448,44.61,20,,leader spent $105
+2026-10-21 05:50,BUY,e46m3,Will Harry Kane finish 2nd in the 2026 Ballon d'Or?,No,0.863,0.878,22.78,20,,leader spent $116
