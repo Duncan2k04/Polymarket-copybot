@@ -133,3 +133,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 20:36,BUY,0x448861155279dbf833d041b963e3ac854599e319,Will the Democrats win the Minnesota Senate race in 2026?,Yes,0.86,0.88,22.73,20,,"leader spent $2,190"
 2026-10-21 20:36,BUY,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,0.31,0.32,27.53,8.81,,leader spent $550
 2026-10-21 23:32,SELL,SpringlyFawl,Will the Bank of Russia decrease the key rate after the October Meeting?,No,0.78,0.774,25.32,19.4,-0.8,copied leader exit
+2026-10-21 23:59,BUY,omnibus-076daa,Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs,TheMongolz,0.532,0.53,36.24,19.21,,leader spent $223
