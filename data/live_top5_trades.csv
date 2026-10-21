@@ -30,3 +30,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 02:34,RESOLVED,BreakTheBank,Spread: Knicks (-4.5),Knicks,,0.0,120.83,0.0,-60.2,lost
 2026-10-21 02:34,RESOLVED,BreakTheBank,76ers vs. Knicks,Knicks,,0.0,96.13,0.0,-60.2,lost
 2026-10-21 02:34,RESOLVED,BreakTheBank,Spread: Knicks (-5.5),Knicks,,0.0,43.48,0.0,-20.2,lost
+2026-10-21 03:08,BUY,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,0.266,0.267,74.91,20,,leader spent $211
+2026-10-21 03:08,BUY,e46m3,Golden State Valkyries vs. Atlanta Dream,Golden State Valkyries,0.442,0.43,46.51,20,,"leader spent $2,210"
