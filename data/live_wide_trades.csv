@@ -127,3 +127,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 18:22,BUY,omnibus-076daa,Columbus Crew vs. Saint Louis City SC: O/U 3.5,Under,0.622,0.61,18.79,11.46,,"leader spent $1,475"
 2026-10-21 19:39,RESOLVED,omnibus-076daa,Set Handicap: Lorenzo Musetti (-1.5) vs Moise Kouame (+1.5),Lorenzo Musetti,,1.0,35.71,35.71,15.51,won
 2026-10-21 19:39,RESOLVED,qwen4.1.fund,"Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",No,,0.0,80.2,0.0,-60.2,lost
+2026-10-21 20:07,BUY,donthackme,Will the highest temperature in Tokyo be 19°C on October 23?,No,0.768,0.667,30.0,20,,leader spent $169
+2026-10-21 20:07,BUY,takeormake,Spread: Wizards (-14.5),Bucks,0.79,0.79,19.44,15.36,,leader spent $166
+2026-10-21 20:07,RESOLVED,takeormake,Counter-Strike: GenOne vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playo,Metizport,,1.0,29.1,29.1,9.34,won
