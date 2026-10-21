@@ -125,3 +125,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 17:55,RESOLVED,0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625,Counter-Strike: BIG vs PARIVISION (BO3) - 1win Private Club Playoffs,PARIVISION,,1.0,3.49,3.49,1.52,won
 2026-10-21 18:22,BUY,SpringlyFawl,Will the Bank of Russia decrease the key rate after the October Meeting?,No,0.83,0.79,25.32,20,,leader spent $136
 2026-10-21 18:22,BUY,omnibus-076daa,Columbus Crew vs. Saint Louis City SC: O/U 3.5,Under,0.622,0.61,18.79,11.46,,"leader spent $1,475"
+2026-10-21 19:39,RESOLVED,omnibus-076daa,Set Handicap: Lorenzo Musetti (-1.5) vs Moise Kouame (+1.5),Lorenzo Musetti,,1.0,35.71,35.71,15.51,won
+2026-10-21 19:39,RESOLVED,qwen4.1.fund,"Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",No,,0.0,80.2,0.0,-60.2,lost
