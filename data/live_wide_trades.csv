@@ -121,3 +121,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 13:13,BUY,donthackme,Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential el,No,0.28,0.3,6.8,2.04,,leader spent $420
 2026-10-21 13:55,SELL,SpringlyFawl,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.6,0.6,31.75,18.86,-1.34,copied leader exit
 2026-10-21 13:55,BUY,omnibus-076daa,Fort Worth: Daniel Milavsky vs Darwin Blanch,Darwin Blanch,0.671,0.66,28.29,18.67,,leader spent $285
+2026-10-21 17:55,RESOLVED,omnibus-076daa,Fort Worth: Daniel Milavsky vs Darwin Blanch,Darwin Blanch,,1.0,28.29,28.29,9.43,won
+2026-10-21 17:55,RESOLVED,0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625,Counter-Strike: BIG vs PARIVISION (BO3) - 1win Private Club Playoffs,PARIVISION,,1.0,3.49,3.49,1.52,won
