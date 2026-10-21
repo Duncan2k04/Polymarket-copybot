@@ -100,3 +100,12 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 04:12,BUY,omnibus-076daa,Tasmania JackJumpers vs. Brisbane Bullets,Tasmania JackJumpers,0.75,0.75,2.06,1.55,,leader spent $111
 2026-10-21 04:48,RESOLVED,OhWhenTheReds,CR Vasco da Gama vs. CA Boca Juniors: O/U 1.5,Over,,1.0,95.1,95.11,34.91,won
 2026-10-21 04:48,RESOLVED,OhWhenTheReds,CR Vasco da Gama vs. CA Boca Juniors: O/U 2.5,Over,,1.0,49.7,49.7,31.13,won
+2026-10-21 05:16,BUY,takeormake,Spread: Hornets (-1.5),Nets,0.53,0.56,35.71,20,,leader spent $149
+2026-10-21 05:16,BUY,ArielFilipino,New Mexico State vs. Sam Houston: O/U 45.5,Over,0.497,0.49,40.82,20,,leader spent $298
+2026-10-21 05:16,BUY,Lucerys,Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential el,No,0.8,0.78,25.64,20,,leader spent $120
+2026-10-21 05:16,BUY,qwen4.1.fund,"Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",No,0.82,0.85,23.06,19.6,,leader spent $156
+2026-10-21 05:16,BUY,alex20011,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,0.82,0.84,23.81,20,,leader spent $583
+2026-10-21 05:16,BUY,alex20011,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.63,0.63,31.11,19.6,,leader spent $448
+2026-10-21 05:16,BUY,alex20011,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.934,0.935,21.39,20,,leader spent $664
+2026-10-21 05:16,BUY,alex20011,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.64,0.64,6.52,4.17,,leader spent $455
+2026-10-21 05:16,RESOLVED,PEYZ-BIGGEST-FAN,Hurricanes vs. Canucks,Hurricanes,,1.0,27.03,27.03,6.83,won
