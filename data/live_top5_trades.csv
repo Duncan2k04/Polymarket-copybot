@@ -25,3 +25,8 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 01:22,BUY,e46m3,Will Carolyn Parrish win the 2026 Mississauga mayoral election?,No,0.613,0.64,31.25,20,,leader spent $132
 2026-10-21 02:00,BUY,e46m3,Will the Republican Party win the RI-02 House seat?,No,0.93,0.948,21.1,20,,leader spent $125
 2026-10-21 02:00,BUY,e46m3,Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?,No,0.712,0.687,29.11,20,,leader spent $153
+2026-10-21 02:34,BUY,BreakTheBank,Will Philadelphia 76ers win the 2027 NBA Finals?,No,0.889,0.899,22.25,20,,"leader spent $5,615"
+2026-10-21 02:34,BUY,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,0.274,0.267,74.91,20,,leader spent $182
+2026-10-21 02:34,RESOLVED,BreakTheBank,Spread: Knicks (-4.5),Knicks,,0.0,120.83,0.0,-60.2,lost
+2026-10-21 02:34,RESOLVED,BreakTheBank,76ers vs. Knicks,Knicks,,0.0,96.13,0.0,-60.2,lost
+2026-10-21 02:34,RESOLVED,BreakTheBank,Spread: Knicks (-5.5),Knicks,,0.0,43.48,0.0,-20.2,lost
