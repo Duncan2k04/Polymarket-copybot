@@ -140,3 +140,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 03:21,RESOLVED,ArielFilipino,New Mexico State vs. Sam Houston: O/U 45.5,Over,,1.0,40.82,40.82,20.62,won
 2026-10-22 04:01,BUY,balthazar,"Will the price of Bitcoin be between $84,000 and $86,000 on October 22?",No,0.897,0.88,22.73,20,,leader spent $359
 2026-10-22 04:01,BUY,wan123,Will there be no change in Fed interest rates after the October 2026 meeting?,No,0.12,0.13,153.85,20,,"leader spent $1,200"
+2026-10-22 05:10,RESOLVED,omnibus-076daa,Columbus Crew vs. Saint Louis City SC: O/U 3.5,Under,,1.0,18.79,18.79,7.21,won
+2026-10-22 05:10,RESOLVED,omnibus-076daa,Warriors vs. Lakers: O/U 231.5,Under,,0.0,44.44,0.0,-20.2,lost
+2026-10-22 05:10,RESOLVED,omnibus-076daa,W75 Saguenay: Emma Dong vs Ayana Akli,Ayana Akli,,1.0,27.09,27.09,6.89,won
