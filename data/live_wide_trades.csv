@@ -169,3 +169,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 17:20,BUY,PEYZ-BIGGEST-FAN,Sharks vs. Senators,Senators,0.56,0.56,26.21,14.68,,"leader spent $1,202"
 2026-10-22 18:20,RESOLVED,omnibus-076daa,Cali: Carlos Maria Zarate vs Francisco Comesana,Francisco Comesana,,0.0,20000.0,0.0,-20.2,lost
 2026-10-22 18:20,RESOLVED,omnibus-076daa,Dota 2: CyberHero vs Yellow Submarine - Game 2 Winner,Yellow Submarine,,0.0,20000.0,0.0,-20.2,lost
+2026-10-22 21:09,RESOLVED,omnibus-076daa,Will Páfos FC win on 2026-10-22?,Yes,,0.0,33.9,0.0,-20.2,lost
+2026-10-22 21:09,RESOLVED,omnibus-076daa,Spread: FC Nordsjælland (-1.5),FC Nordsjælland,,0.0,43.48,0.0,-20.2,lost
