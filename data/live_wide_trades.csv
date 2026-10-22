@@ -137,3 +137,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 02:15,RESOLVED,takeormake,Spread: Wizards (-14.5),Bucks,,1.0,19.44,19.44,3.93,won
 2026-10-22 02:50,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Sergio Massa win the 2027 Argentina presidential election?,No,0.903,0.928,20.75,19.25,,leader spent $199
 2026-10-22 02:50,RESOLVED,takeormake,Spread: Hornets (-1.5),Nets,,0.0,35.71,0.0,-20.2,lost
+2026-10-22 03:21,RESOLVED,ArielFilipino,New Mexico State vs. Sam Houston: O/U 45.5,Over,,1.0,40.82,40.82,20.62,won
