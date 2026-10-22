@@ -146,3 +146,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 05:46,BUY,donthackme,Will there be no change in Fed interest rates after the December 2026 meeting?,No,0.82,0.82,24.39,20,,leader spent $325
 2026-10-22 05:46,BUY,balthazar,Will Lamine Yamal finish 2nd in the 2026 Ballon d'Or?,No,0.841,0.87,22.99,20,,leader spent $857
 2026-10-22 05:46,BUY,balthazar,Will Lamine Yamal finish 3rd in the 2026 Ballon d'Or?,No,0.31,0.34,17.19,5.84,,leader spent $307
+2026-10-22 08:23,SELL,flawfence,Will the Republicans win the Kansas Senate race in 2026?,Yes,0.62,0.61,32.26,19.48,-0.72,copied leader exit
+2026-10-22 08:23,BUY,e46m3,Will Likud win the most seats in the 2026 Israeli legislative election?,No,0.7,0.7,27.55,19.29,,leader spent $420
