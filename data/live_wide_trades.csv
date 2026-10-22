@@ -153,3 +153,8 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 15:06,BUY,omnibus-076daa,Dota 2: Team Liquid vs 1win - Game 1 Winner,Team Liquid,0.452,0.09,176.43,15.88,,leader spent $133
 2026-10-22 16:16,RESOLVED,donthackme,"Will ""Grand Theft Auto VI Launch Trailer"" get between 40 and 60 million views on week 1?",No,,1.0,46.99,46.99,6.99,won
 2026-10-22 16:16,RESOLVED,balthazar,"Will the price of Bitcoin be between $84,000 and $86,000 on October 22?",No,,1.0,22.73,22.73,2.53,won
+2026-10-22 16:53,BUY,omnibus-076daa,Cali: Carlos Maria Zarate vs Francisco Comesana,Francisco Comesana,0.622,0.001,20000.0,20,,leader spent $673
+2026-10-22 16:53,BUY,balthazar,"Will Elon Musk post 115-139 tweets from October 22 to October 24, 2026?",No,0.937,0.901,22.2,20,,leader spent $103
+2026-10-22 16:53,BUY,omnibus-076daa,Will SC Internacional win on 2026-10-24?,No,0.482,0.51,39.22,20,,leader spent $266
+2026-10-22 16:53,BUY,zerone777,Will the Democratic Party win the GA-12 House seat?,No,0.84,0.87,10.37,9.02,,leader spent $116
+2026-10-22 16:53,RESOLVED,omnibus-076daa,Dota 2: Team Liquid vs 1win - Game 1 Winner,Team Liquid,,1.0,176.43,176.43,160.39,won
