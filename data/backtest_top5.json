@@ -24,11 +24,11 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792555253,
+ "generated": 1792641425,
  "leaders": [
   {
    "all_time_pnl": 6949617.18,
-   "copyable_7d": 20,
+   "copyable_7d": 15,
    "month_pnl": 7201192.82,
    "month_vol": 44111176.52,
    "name": "joseph00677",
@@ -36,10 +36,10 @@
    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
   },
   {
-   "all_time_pnl": 8319583.74,
-   "copyable_7d": 124,
-   "month_pnl": 6352928.65,
-   "month_vol": 55463193.94,
+   "all_time_pnl": 8945110.76,
+   "copyable_7d": 123,
+   "month_pnl": 7182988.82,
+   "month_vol": 60228188.31,
    "name": "BreakTheBank",
    "rank": "2",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
@@ -47,28 +47,28 @@
   {
    "all_time_pnl": 1673254.59,
    "copyable_7d": 50,
-   "month_pnl": 3063729.9,
-   "month_vol": 47000392.47,
+   "month_pnl": 3387661.93,
+   "month_vol": 44691989.93,
    "name": "Diabolical-Prize",
    "rank": "3",
    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
   },
   {
-   "all_time_pnl": 880298.84,
-   "copyable_7d": 57,
-   "month_pnl": 2912819.93,
-   "month_vol": 1853922.55,
+   "all_time_pnl": 967218.11,
+   "copyable_7d": 55,
+   "month_pnl": 3003227.27,
+   "month_vol": 2109408.49,
    "name": "e46m3",
    "rank": "4",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 304738.77,
-   "copyable_7d": 94,
-   "month_pnl": 1270215.98,
-   "month_vol": 5925967.26,
+   "all_time_pnl": 286695.39,
+   "copyable_7d": 84,
+   "month_pnl": 1252633.16,
+   "month_vol": 5960826.13,
    "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-   "rank": "7",
+   "rank": "9",
    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
   }
  ],
@@ -83,8 +83,8 @@
      "leader_name": "Diabolical-Prize",
      "opened": 1792175087,
      "outcome": "FURIA Esports",
-     "pnl": 542.2068,
-     "proceeds": 602.4028,
+     "pnl": 291.1926,
+     "proceeds": 351.3886,
      "reason": "resolved",
      "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
      "token": "13864490261439877402782058454800294514135228899012388119905836367840432355391"
@@ -132,140 +132,140 @@
      "token": "1145578312860253508259027519584721473567818987425729724913077142408562193504"
     },
     {
-     "closed": 1792122607,
+     "closed": 1791668868,
      "cost": 60.196,
      "exit_price": 1.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1791932095,
-     "outcome": "Broncos",
-     "pnl": 74.7698,
-     "proceeds": 134.9658,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791652191,
+     "outcome": "MOUZ",
+     "pnl": 61.0413,
+     "proceeds": 121.2373,
      "reason": "resolved",
-     "title": "Seahawks vs. Broncos",
-     "token": "78653414984017864835330593213700943479354040352698721042453780387223265497055"
+     "title": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+     "token": "62813604754427508641245639139740674925348067927945159093643391364730231238161"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 89,
+   "closed_positions": 104,
    "curve": [
     [
-     1791345653,
+     1791431825,
      1000.0
     ],
     [
-     1791432053,
-     1052.62
+     1791518225,
+     1000.0
     ],
     [
-     1791518453,
-     1052.62
+     1791604625,
+     972.62
     ],
     [
-     1791604853,
-     1025.24
+     1791691025,
+     938.18
     ],
     [
-     1791691253,
-     990.81
+     1791777425,
+     825.0
     ],
     [
-     1791777653,
-     877.62
+     1791863825,
+     792.4
     ],
     [
-     1791864053,
-     845.02
+     1791950225,
+     708.36
     ],
     [
-     1791950453,
-     752.06
+     1792036625,
+     618.44
     ],
     [
-     1792036853,
-     654.77
+     1792123025,
+     625.56
     ],
     [
-     1792123253,
-     808.17
+     1792209425,
+     927.38
     ],
     [
-     1792209653,
-     1369.37
+     1792295825,
+     1046.82
     ],
     [
-     1792296053,
-     1480.45
+     1792382225,
+     1046.09
     ],
     [
-     1792382453,
-     1462.13
+     1792468625,
+     1030.66
     ],
     [
-     1792468853,
-     1441.3
+     1792555025,
+     755.49
     ],
     [
-     1792555253,
-     1441.79
+     1792641425,
+     719.71
     ]
    ],
    "days": 14,
-   "end_ts": 1792555253,
-   "final_equity": 1441.79,
-   "losses": 46,
-   "open_positions": 55,
-   "open_value": 1441.79,
+   "end_ts": 1792641425,
+   "final_equity": 719.71,
+   "losses": 58,
+   "open_positions": 22,
+   "open_value": 719.71,
    "per_leader": {
     "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
-     "buys": 32,
-     "closed": 32,
-     "realized": 122.63,
+     "buys": 39,
+     "closed": 39,
+     "realized": 55.83,
      "unrealized": 0.0,
-     "wins": 21
+     "wins": 23
     },
     "BreakTheBank": {
-     "buys": 18,
-     "closed": 12,
-     "realized": 98.38,
-     "unrealized": -32.01,
-     "wins": 5
+     "buys": 26,
+     "closed": 18,
+     "realized": -184.4,
+     "unrealized": -36.5,
+     "wins": 7
     },
     "Diabolical-Prize": {
-     "buys": 37,
-     "closed": 37,
-     "realized": 268.99,
+     "buys": 38,
+     "closed": 38,
+     "realized": 0.66,
      "unrealized": 0.0,
      "wins": 14
     },
     "e46m3": {
-     "buys": 50,
+     "buys": 15,
      "closed": 1,
      "realized": -20.2,
-     "unrealized": -27.44,
+     "unrealized": -13.9,
      "wins": 0
     },
     "joseph00677": {
-     "buys": 7,
-     "closed": 7,
-     "realized": 31.45,
+     "buys": 8,
+     "closed": 8,
+     "realized": -81.78,
      "unrealized": 0.0,
-     "wins": 3
+     "wins": 2
     }
    },
-   "pnl": 441.79,
-   "positions_taken": 144,
-   "realized_pnl": 501.24,
-   "return_pct": 44.18,
+   "pnl": -280.29,
+   "positions_taken": 126,
+   "realized_pnl": -229.89,
+   "return_pct": -28.03,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 5342,
-    "market ends too soon": 251,
-    "per-market cap or out of cash": 320,
-    "price ran away from leader's price": 70
+    "leader trade too small / extreme price / crypto up-down": 4832,
+    "market ends too soon": 264,
+    "per-market cap or out of cash": 365,
+    "price ran away from leader's price": 56
    },
-   "start_ts": 1791345653,
+   "start_ts": 1791431825,
    "starting_bankroll": 1000,
-   "wins": 43,
+   "wins": 46,
    "worst": [
     {
      "closed": 1791580724,
@@ -370,20 +370,6 @@
      "token": "38725776711339163495106479361322692996264843388509719981628391206131107874952"
     },
     {
-     "closed": 1792122607,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792103984,
-     "outcome": "Broncos",
-     "pnl": 73.7366,
-     "proceeds": 133.9326,
-     "reason": "resolved",
-     "title": "Seahawks vs. Broncos",
-     "token": "78653414984017864835330593213700943479354040352698721042453780387223265497055"
-    },
-    {
      "closed": 1792343103,
      "cost": 60.196,
      "exit_price": 1.0,
@@ -398,154 +384,154 @@
      "token": "64198878324319945512387287171779273420917130153942170268101661917928788237790"
     },
     {
-     "closed": 1792122608,
+     "closed": 1792357374,
      "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792097373,
-     "outcome": "Broncos",
-     "pnl": 57.8238,
-     "proceeds": 118.0198,
+     "opened": 1792312749,
+     "outcome": "Steelers",
+     "pnl": 55.5322,
+     "proceeds": 115.7282,
      "reason": "resolved",
-     "title": "Spread: Seahawks (-2.5)",
-     "token": "58931318185496476847399018363381544786356383074215075831879553142757785182229"
+     "title": "Spread: Steelers (-2.5)",
+     "token": "53248798886619335232352667333520040541793957903905874364194618120759372288331"
+    },
+    {
+     "closed": 1792200119,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1792182594,
+     "outcome": "FURIA Esports",
+     "pnl": 51.5671,
+     "proceeds": 111.7631,
+     "reason": "resolved",
+     "title": "Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5)",
+     "token": "36175510947853949367078806485953660845800544169370844412638833403605402729886"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 59,
+   "closed_positions": 71,
    "curve": [
     [
-     1791950453,
+     1792036625,
      1000.0
     ],
     [
-     1792036853,
-     789.51
+     1792123025,
+     1007.12
     ],
     [
-     1792123253,
-     926.34
+     1792209425,
+     1308.94
     ],
     [
-     1792209653,
-     1229.95
+     1792295825,
+     1428.37
     ],
     [
-     1792296053,
-     1385.88
+     1792382225,
+     1427.65
     ],
     [
-     1792382453,
-     1377.03
+     1792468625,
+     1412.21
     ],
     [
-     1792468853,
-     1362.6
+     1792555025,
+     1137.05
     ],
     [
-     1792555253,
-     1360.76
+     1792641425,
+     1071.53
     ]
    ],
    "days": 7,
-   "end_ts": 1792555253,
-   "final_equity": 1360.76,
-   "losses": 29,
-   "open_positions": 51,
-   "open_value": 1360.76,
+   "end_ts": 1792641425,
+   "final_equity": 1071.53,
+   "losses": 39,
+   "open_positions": 33,
+   "open_value": 1071.53,
    "per_leader": {
     "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
-     "buys": 27,
-     "closed": 27,
-     "realized": 102.9,
+     "buys": 31,
+     "closed": 31,
+     "realized": -47.34,
      "unrealized": 0.0,
-     "wins": 17
+     "wins": 16
     },
     "BreakTheBank": {
-     "buys": 16,
-     "closed": 10,
-     "realized": 102.85,
-     "unrealized": -32.01,
-     "wins": 5
+     "buys": 26,
+     "closed": 18,
+     "realized": -184.4,
+     "unrealized": -36.5,
+     "wins": 7
     },
     "Diabolical-Prize": {
-     "buys": 18,
-     "closed": 18,
-     "realized": 244.2,
+     "buys": 15,
+     "closed": 15,
+     "realized": 424.79,
      "unrealized": 0.0,
      "wins": 7
     },
     "e46m3": {
-     "buys": 45,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -19.2,
+     "buys": 26,
+     "closed": 1,
+     "realized": -20.2,
+     "unrealized": -23.44,
      "wins": 0
     },
     "joseph00677": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -37.98,
+     "buys": 6,
+     "closed": 6,
+     "realized": -41.38,
      "unrealized": 0.0,
-     "wins": 1
+     "wins": 2
     }
    },
-   "pnl": 360.76,
-   "positions_taken": 110,
-   "realized_pnl": 411.97,
-   "return_pct": 36.08,
+   "pnl": 71.53,
+   "positions_taken": 104,
+   "realized_pnl": 131.47,
+   "return_pct": 7.15,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 5154,
-    "market ends too soon": 221,
-    "per-market cap or out of cash": 302,
-    "price ran away from leader's price": 47
+    "leader trade too small / extreme price / crypto up-down": 4678,
+    "market ends too soon": 242,
+    "per-market cap or out of cash": 321,
+    "price ran away from leader's price": 27
    },
-   "start_ts": 1791950453,
+   "start_ts": 1792036625,
    "starting_bankroll": 1000,
-   "wins": 30,
+   "wins": 32,
    "worst": [
     {
-     "closed": 1791983549,
+     "closed": 1792356666,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1791976144,
-     "outcome": "KT Rolster",
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792337343,
+     "outcome": "Eagles",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "LoL: BNK FEARX vs KT Rolster - Game 3 Winner",
-     "token": "45260144541348609101534973322933476192267790382308786181081334143273935993570"
+     "title": "Panthers vs. Eagles",
+     "token": "82914188951367172748889970099274188856470123976613269922741757092429595203588"
     },
     {
-     "closed": 1791990568,
+     "closed": 1792367342,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1791972707,
-     "outcome": "NIP",
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792325772,
+     "outcome": "Bills",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: Team Falcons vs NIP (BO3) - Thunderpick World Championship Group A",
-     "token": "10010989336859189026521993538826854315530176118645644670849641629098937737546"
-    },
-    {
-     "closed": 1791990568,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1791977971,
-     "outcome": "NIP",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Map Handicap: FAL (-1.5) vs NIP (+1.5)",
-     "token": "1076354127667104075047822550881922265350106541387441735768575893565914908295"
+     "title": "Spread: Bills (-5.5)",
+     "token": "94075593196789530084405345554962428181194102842583443422288415987241260296384"
     },
     {
      "closed": 1792382642,
@@ -562,18 +548,32 @@
      "token": "62216093420049586863764473589072732611021099987810862636177687263075853891357"
     },
     {
-     "closed": 1791983609,
-     "cost": 20.2,
+     "closed": 1792533309,
+     "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-     "leader_name": "joseph00677",
-     "opened": 1791964388,
-     "outcome": "KT Rolster",
-     "pnl": -20.2,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792513055,
+     "outcome": "Celtics",
+     "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
-     "token": "109112036491996714677433752733054968853400297505032280250664724585068447151793"
+     "title": "Celtics vs. Pistons",
+     "token": "67105986151420762389444558710598385187601372419417593599928887317008220174126"
+    },
+    {
+     "closed": 1792549028,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792530495,
+     "outcome": "Knicks",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "76ers vs. Knicks",
+     "token": "66905676566583664317573429201649106692138646973280275919092487111590728334465"
     }
    ]
   }
