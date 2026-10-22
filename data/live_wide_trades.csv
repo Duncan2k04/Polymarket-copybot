@@ -143,3 +143,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 05:10,RESOLVED,omnibus-076daa,Columbus Crew vs. Saint Louis City SC: O/U 3.5,Under,,1.0,18.79,18.79,7.21,won
 2026-10-22 05:10,RESOLVED,omnibus-076daa,Warriors vs. Lakers: O/U 231.5,Under,,0.0,44.44,0.0,-20.2,lost
 2026-10-22 05:10,RESOLVED,omnibus-076daa,W75 Saguenay: Emma Dong vs Ayana Akli,Ayana Akli,,1.0,27.09,27.09,6.89,won
+2026-10-22 05:46,BUY,donthackme,Will there be no change in Fed interest rates after the December 2026 meeting?,No,0.82,0.82,24.39,20,,leader spent $325
+2026-10-22 05:46,BUY,balthazar,Will Lamine Yamal finish 2nd in the 2026 Ballon d'Or?,No,0.841,0.87,22.99,20,,leader spent $857
+2026-10-22 05:46,BUY,balthazar,Will Lamine Yamal finish 3rd in the 2026 Ballon d'Or?,No,0.31,0.34,17.19,5.84,,leader spent $307
