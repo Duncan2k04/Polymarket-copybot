@@ -148,3 +148,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 05:46,BUY,balthazar,Will Lamine Yamal finish 3rd in the 2026 Ballon d'Or?,No,0.31,0.34,17.19,5.84,,leader spent $307
 2026-10-22 08:23,SELL,flawfence,Will the Republicans win the Kansas Senate race in 2026?,Yes,0.62,0.61,32.26,19.48,-0.72,copied leader exit
 2026-10-22 08:23,BUY,e46m3,Will Likud win the most seats in the 2026 Israeli legislative election?,No,0.7,0.7,27.55,19.29,,leader spent $420
+2026-10-22 14:28,RESOLVED,omnibus-076daa,Counter-Strike: BIG vs TheMongolz (BO3) - 1win Private Club Playoffs,TheMongolz,,1.0,36.24,36.24,16.84,won
