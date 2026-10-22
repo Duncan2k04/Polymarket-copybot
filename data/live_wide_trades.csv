@@ -167,3 +167,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-22 17:20,BUY,ic4cream,Spread: Bengals (-1.5),Ravens,0.537,0.56,35.71,20,,"leader spent $1,397"
 2026-10-22 17:20,BUY,qwen4.1.fund,Will the highest temperature in Madrid be 21°C on October 23?,No,0.93,0.888,22.53,20,,leader spent $129
 2026-10-22 17:20,BUY,PEYZ-BIGGEST-FAN,Sharks vs. Senators,Senators,0.56,0.56,26.21,14.68,,"leader spent $1,202"
+2026-10-22 18:20,RESOLVED,omnibus-076daa,Cali: Carlos Maria Zarate vs Francisco Comesana,Francisco Comesana,,0.0,20000.0,0.0,-20.2,lost
+2026-10-22 18:20,RESOLVED,omnibus-076daa,Dota 2: CyberHero vs Yellow Submarine - Game 2 Winner,Yellow Submarine,,0.0,20000.0,0.0,-20.2,lost
