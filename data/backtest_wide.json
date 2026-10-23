@@ -24,128 +24,128 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792640662,
+ "generated": 1792727043,
  "leaders": [
   {
-   "all_time_pnl": 6949617.18,
-   "copyable_7d": 15,
-   "month_pnl": 7201192.82,
-   "month_vol": 44111176.52,
-   "name": "joseph00677",
-   "rank": "1",
-   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
-  },
-  {
-   "all_time_pnl": 8945110.76,
-   "copyable_7d": 123,
-   "month_pnl": 7182988.82,
-   "month_vol": 60228188.31,
+   "all_time_pnl": 9464119.22,
+   "copyable_7d": 133,
+   "month_pnl": 7561295.9,
+   "month_vol": 62470667.38,
    "name": "BreakTheBank",
-   "rank": "2",
+   "rank": "1",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 9,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "2",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
    "all_time_pnl": 1673254.59,
-   "copyable_7d": 50,
-   "month_pnl": 3387661.93,
-   "month_vol": 44691989.93,
+   "copyable_7d": 30,
+   "month_pnl": 3260547.96,
+   "month_vol": 43196416.44,
    "name": "Diabolical-Prize",
    "rank": "3",
    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
   },
   {
-   "all_time_pnl": 967218.11,
-   "copyable_7d": 53,
-   "month_pnl": 3003227.27,
-   "month_vol": 2109408.49,
+   "all_time_pnl": 999288.35,
+   "copyable_7d": 86,
+   "month_pnl": 3154570.26,
+   "month_vol": 2255947.35,
    "name": "e46m3",
    "rank": "4",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 286695.39,
-   "copyable_7d": 84,
-   "month_pnl": 1252633.16,
-   "month_vol": 5960826.13,
-   "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-   "rank": "9",
+   "all_time_pnl": 286054.41,
+   "copyable_7d": 74,
+   "month_pnl": 1252209.41,
+   "month_vol": 5961820.99,
+   "name": "RichieRicher",
+   "rank": "10",
    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
   },
   {
-   "all_time_pnl": 3185152.94,
-   "copyable_7d": 26,
-   "month_pnl": 1008415.33,
-   "month_vol": 11702521.48,
-   "name": "Kch-Temp",
-   "rank": "11",
-   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
-  },
-  {
-   "all_time_pnl": 645240.22,
-   "copyable_7d": 84,
-   "month_pnl": 979396.38,
-   "month_vol": 4524955.02,
+   "all_time_pnl": 679305.23,
+   "copyable_7d": 95,
+   "month_pnl": 1000616.63,
+   "month_vol": 4834243.14,
    "name": "Bigggggggg",
    "rank": "12",
    "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
   },
   {
-   "all_time_pnl": 1183569.49,
-   "copyable_7d": 83,
-   "month_pnl": 731111.23,
-   "month_vol": 4667471.79,
-   "name": "balthazar",
-   "rank": "16",
-   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318"
+   "all_time_pnl": 3197561.55,
+   "copyable_7d": 27,
+   "month_pnl": 982436.78,
+   "month_vol": 11984657.96,
+   "name": "Kch-Temp",
+   "rank": "14",
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
   },
   {
-   "all_time_pnl": 2061294.71,
-   "copyable_7d": 100,
-   "month_pnl": 683197.07,
-   "month_vol": 3979583.86,
-   "name": "Jsram",
-   "rank": "17",
-   "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223"
+   "all_time_pnl": 841820.17,
+   "copyable_7d": 51,
+   "month_pnl": 883843.26,
+   "month_vol": 6510946.78,
+   "name": "Mooseborzoiii",
+   "rank": "15",
+   "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
   },
   {
-   "all_time_pnl": 609835.39,
-   "copyable_7d": 244,
-   "month_pnl": 680406.47,
-   "month_vol": 21844261.09,
-   "name": "takeormake",
-   "rank": "18",
-   "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
-  },
-  {
-   "all_time_pnl": 3417635.24,
-   "copyable_7d": 392,
-   "month_pnl": 669826.12,
-   "month_vol": 14058120.31,
-   "name": "primm",
-   "rank": "19",
-   "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029"
-  },
-  {
-   "all_time_pnl": 183799.68,
-   "copyable_7d": 250,
-   "month_pnl": 637043.7,
-   "month_vol": 1850715.11,
-   "name": "alex20011",
-   "rank": "21",
-   "wallet": "0x4868c31e81040e002b41984842b84bae8923a1c1"
-  },
-  {
-   "all_time_pnl": 210988.61,
-   "copyable_7d": 29,
-   "month_pnl": 626994.63,
-   "month_vol": 4002862.17,
+   "all_time_pnl": 240253.79,
+   "copyable_7d": 40,
+   "month_pnl": 791428.18,
+   "month_vol": 4115437.48,
    "name": "Lucerys",
-   "rank": "22",
+   "rank": "17",
    "wallet": "0x1387d145aaf01f6e33b66525dda6e1f51f6955f8"
   },
   {
+   "all_time_pnl": 1203406.04,
+   "copyable_7d": 111,
+   "month_pnl": 789857.87,
+   "month_vol": 4597507.34,
+   "name": "balthazar",
+   "rank": "18",
+   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318"
+  },
+  {
+   "all_time_pnl": 2062981.06,
+   "copyable_7d": 80,
+   "month_pnl": 687602.71,
+   "month_vol": 3981758.23,
+   "name": "Jsram",
+   "rank": "20",
+   "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223"
+  },
+  {
+   "all_time_pnl": 3420874.9,
+   "copyable_7d": 386,
+   "month_pnl": 686711.18,
+   "month_vol": 14150800.73,
+   "name": "primm",
+   "rank": "21",
+   "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029"
+  },
+  {
+   "all_time_pnl": 192130.31,
+   "copyable_7d": 284,
+   "month_pnl": 667476.88,
+   "month_vol": 1868579.39,
+   "name": "alex20011",
+   "rank": "22",
+   "wallet": "0x4868c31e81040e002b41984842b84bae8923a1c1"
+  },
+  {
    "all_time_pnl": 307762.03,
-   "copyable_7d": 37,
+   "copyable_7d": 28,
    "month_pnl": 601925.34,
    "month_vol": 7145642.45,
    "name": "juice-fruit",
@@ -153,373 +153,364 @@
    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
   },
   {
-   "all_time_pnl": 2005595.67,
-   "copyable_7d": 92,
-   "month_pnl": 538883.71,
-   "month_vol": 7640317.5,
-   "name": "THEHIGHLIFE",
-   "rank": "25",
-   "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5"
-  },
-  {
-   "all_time_pnl": 982636.98,
-   "copyable_7d": 34,
-   "month_pnl": 537490.82,
-   "month_vol": 4708932.67,
-   "name": "Jokerxing7",
-   "rank": "26",
-   "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6"
-  },
-  {
-   "all_time_pnl": 866907.58,
-   "copyable_7d": 119,
-   "month_pnl": 526369.2,
-   "month_vol": 5257919.35,
+   "all_time_pnl": 878962.36,
+   "copyable_7d": 65,
+   "month_pnl": 586983.19,
+   "month_vol": 5291280.81,
    "name": "donthackme",
-   "rank": "27",
+   "rank": "25",
    "wallet": "0x03805a13a0b3e058f55f6c6af95389d4f431073d"
   },
   {
-   "all_time_pnl": 609562.49,
-   "copyable_7d": 34,
-   "month_pnl": 525885.39,
+   "all_time_pnl": 605059.75,
+   "copyable_7d": 33,
+   "month_pnl": 524570.53,
    "month_vol": 5075556.74,
    "name": "theowalcott",
    "rank": "28",
    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa"
   },
   {
-   "all_time_pnl": 756558.89,
-   "copyable_7d": 36,
-   "month_pnl": 520600.69,
-   "month_vol": 7121544.38,
-   "name": "OhWhenTheReds",
+   "all_time_pnl": 2027673.99,
+   "copyable_7d": 70,
+   "month_pnl": 497401.0,
+   "month_vol": 7567361.95,
+   "name": "THEHIGHLIFE",
    "rank": "29",
-   "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63"
+   "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5"
   },
   {
-   "all_time_pnl": 476636.77,
-   "copyable_7d": 49,
-   "month_pnl": 518661.87,
-   "month_vol": 5684543.67,
-   "name": "Mooseborzoiii",
-   "rank": "31",
-   "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
-  },
-  {
-   "all_time_pnl": 762000.82,
-   "copyable_7d": 98,
-   "month_pnl": 468085.2,
-   "month_vol": 5874994.44,
-   "name": "PEYZ-BIGGEST-FAN",
-   "rank": "33",
-   "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9"
-  },
-  {
-   "all_time_pnl": 434996.58,
-   "copyable_7d": 111,
-   "month_pnl": 452991.76,
-   "month_vol": 5202196.56,
-   "name": "para-Vision",
-   "rank": "34",
-   "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139"
-  },
-  {
-   "all_time_pnl": 444099.68,
-   "copyable_7d": 25,
-   "month_pnl": 447627.5,
-   "month_vol": 2491987.46,
-   "name": "Dragon-Evolution",
-   "rank": "35",
-   "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a"
-  },
-  {
-   "all_time_pnl": 449333.46,
-   "copyable_7d": 37,
-   "month_pnl": 445169.64,
-   "month_vol": 5109032.75,
-   "name": "dromedaryy",
-   "rank": "36",
-   "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198"
-  },
-  {
-   "all_time_pnl": 274519.5,
-   "copyable_7d": 106,
-   "month_pnl": 440619.73,
-   "month_vol": 2027544.77,
+   "all_time_pnl": 277367.29,
+   "copyable_7d": 104,
+   "month_pnl": 480179.2,
+   "month_vol": 2002419.17,
    "name": "paddaa",
-   "rank": "37",
+   "rank": "31",
    "wallet": "0x60a92c8620846d81f5ea17b0564e0d4b7c545a71"
   },
   {
-   "all_time_pnl": 737119.63,
-   "copyable_7d": 73,
-   "month_pnl": 413553.38,
-   "month_vol": 9256028.84,
-   "name": "Sunshine.Smile",
-   "rank": "38",
-   "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e"
-  },
-  {
-   "all_time_pnl": 383853.85,
-   "copyable_7d": 103,
-   "month_pnl": 409434.7,
-   "month_vol": 2996985.18,
-   "name": "ArielFilipino",
-   "rank": "39",
-   "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826"
-  },
-  {
-   "all_time_pnl": 200824.65,
-   "copyable_7d": 14,
-   "month_pnl": 395804.03,
-   "month_vol": 9942944.94,
-   "name": "AJSV",
-   "rank": "40",
-   "wallet": "0xad5353afe30c2da57709e2704ef3ccdcf67eef24"
-  },
-  {
-   "all_time_pnl": 90418.82,
-   "copyable_7d": 241,
-   "month_pnl": 392801.97,
-   "month_vol": 598147.97,
+   "all_time_pnl": 101975.66,
+   "copyable_7d": 262,
+   "month_pnl": 466293.12,
+   "month_vol": 706833.39,
    "name": "zerone777",
-   "rank": "41",
+   "rank": "32",
    "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6"
   },
   {
-   "all_time_pnl": 389706.24,
-   "copyable_7d": 121,
-   "month_pnl": 387050.02,
-   "month_vol": 4830143.5,
-   "name": "EdZachary",
-   "rank": "43",
-   "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3"
+   "all_time_pnl": 448095.52,
+   "copyable_7d": 48,
+   "month_pnl": 453520.82,
+   "month_vol": 5244891.45,
+   "name": "dromedaryy",
+   "rank": "33",
+   "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198"
   },
   {
-   "all_time_pnl": 21900.56,
-   "copyable_7d": 11,
-   "month_pnl": 383497.27,
-   "month_vol": 342772.89,
+   "all_time_pnl": 444099.68,
+   "copyable_7d": 24,
+   "month_pnl": 447627.5,
+   "month_vol": 2491987.46,
+   "name": "Dragon-Evolution",
+   "rank": "34",
+   "wallet": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a"
+  },
+  {
+   "all_time_pnl": 420636.2,
+   "copyable_7d": 92,
+   "month_pnl": 438694.69,
+   "month_vol": 5331493.16,
+   "name": "para-Vision",
+   "rank": "35",
+   "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139"
+  },
+  {
+   "all_time_pnl": 206913.2,
+   "copyable_7d": 17,
+   "month_pnl": 425137.93,
+   "month_vol": 10244720.71,
+   "name": "AJSV",
+   "rank": "36",
+   "wallet": "0xad5353afe30c2da57709e2704ef3ccdcf67eef24"
+  },
+  {
+   "all_time_pnl": 706337.69,
+   "copyable_7d": 115,
+   "month_pnl": 418926.66,
+   "month_vol": 5988513.06,
+   "name": "PEYZ-BIGGEST-FAN",
+   "rank": "37",
+   "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9"
+  },
+  {
+   "all_time_pnl": 336125.43,
+   "copyable_7d": 58,
+   "month_pnl": 417536.57,
+   "month_vol": 1453060.74,
+   "name": "aHjCz",
+   "rank": "38",
+   "wallet": "0x2b5920274740ca61745eeb077587bf5bb4ff9db6"
+  },
+  {
+   "all_time_pnl": 293873.47,
+   "copyable_7d": 284,
+   "month_pnl": 415345.39,
+   "month_vol": 2643965.6,
+   "name": "Tokor",
+   "rank": "39",
+   "wallet": "0xa19cbababc312f9df185e49d7004c249ed1ade6b"
+  },
+  {
+   "all_time_pnl": 191210.96,
+   "copyable_7d": 187,
+   "month_pnl": 407577.09,
+   "month_vol": 9170295.25,
+   "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+   "rank": "40",
+   "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7"
+  },
+  {
+   "all_time_pnl": 99133.31,
+   "copyable_7d": 293,
+   "month_pnl": 406117.05,
+   "month_vol": 727524.62,
+   "name": "kaxel78",
+   "rank": "41",
+   "wallet": "0xc1b5f266564e6d4907cf84bdf5a8f91621ef5d85"
+  },
+  {
+   "all_time_pnl": 865657.74,
+   "copyable_7d": 48,
+   "month_pnl": 395238.7,
+   "month_vol": 5067243.5,
+   "name": "Jokerxing7",
+   "rank": "42",
+   "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6"
+  },
+  {
+   "all_time_pnl": 89873.15,
+   "copyable_7d": 250,
+   "month_pnl": 393397.4,
+   "month_vol": 694521.59,
+   "name": "akroll",
+   "rank": "43",
+   "wallet": "0x8bac34bb7b51b4d63b128eb711d76706efdc35ca"
+  },
+  {
+   "all_time_pnl": 21901.18,
+   "copyable_7d": 8,
+   "month_pnl": 383456.0,
+   "month_vol": 333986.29,
    "name": "MKSafe",
    "rank": "44",
    "wallet": "0xb4164e085a0503532989d487c4b4b19f4288dd7b"
   },
   {
-   "all_time_pnl": 524958.85,
-   "copyable_7d": 120,
-   "month_pnl": 381668.99,
-   "month_vol": 5048133.49,
-   "name": "ic4cream",
+   "all_time_pnl": 347275.82,
+   "copyable_7d": 107,
+   "month_pnl": 380888.79,
+   "month_vol": 3597063.8,
+   "name": "ArielFilipino",
    "rank": "45",
+   "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826"
+  },
+  {
+   "all_time_pnl": 527732.29,
+   "copyable_7d": 118,
+   "month_pnl": 377847.14,
+   "month_vol": 5039403.97,
+   "name": "ic4cream",
+   "rank": "47",
    "wallet": "0x27f738fe203827445690339104aae35b20bc44b0"
   },
   {
-   "all_time_pnl": 200334.54,
-   "copyable_7d": 199,
-   "month_pnl": 355717.63,
-   "month_vol": 8795585.27,
-   "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-   "rank": "49",
-   "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7"
-  },
-  {
-   "all_time_pnl": 362008.24,
-   "copyable_7d": 206,
-   "month_pnl": 344740.32,
-   "month_vol": 3621862.76,
-   "name": "keeptheblueflagflyinghigh",
-   "rank": "51",
-   "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98"
-  },
-  {
-   "all_time_pnl": 266051.56,
-   "copyable_7d": 309,
-   "month_pnl": 344597.06,
-   "month_vol": 2653492.29,
-   "name": "Tokor",
-   "rank": "52",
-   "wallet": "0xa19cbababc312f9df185e49d7004c249ed1ade6b"
-  },
-  {
-   "all_time_pnl": 351984.48,
-   "copyable_7d": 28,
-   "month_pnl": 318823.17,
-   "month_vol": 1817867.57,
-   "name": "DelidelaDele",
-   "rank": "55",
-   "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508"
-  },
-  {
-   "all_time_pnl": 81062.48,
-   "copyable_7d": 246,
-   "month_pnl": 315743.27,
-   "month_vol": 609878.21,
-   "name": "kaxel78",
-   "rank": "56",
-   "wallet": "0xc1b5f266564e6d4907cf84bdf5a8f91621ef5d85"
-  },
-  {
-   "all_time_pnl": 214012.48,
-   "copyable_7d": 3,
-   "month_pnl": 303246.02,
-   "month_vol": 4100236.07,
-   "name": "forgotmydinner",
-   "rank": "57",
-   "wallet": "0x4a0eecbf4d18cb6b868f30a7b6e75b7905b9a4b1"
-  },
-  {
-   "all_time_pnl": 361605.8,
-   "copyable_7d": 116,
-   "month_pnl": 290647.73,
-   "month_vol": 2606565.15,
-   "name": "rabbitfoot1",
-   "rank": "60",
-   "wallet": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b"
-  },
-  {
-   "all_time_pnl": 566576.57,
-   "copyable_7d": 49,
-   "month_pnl": 289269.07,
-   "month_vol": 6303089.9,
-   "name": "KaneAnalytics",
-   "rank": "61",
-   "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246"
-  },
-  {
-   "all_time_pnl": 76588.87,
-   "copyable_7d": 214,
-   "month_pnl": 284000.96,
-   "month_vol": 611345.07,
-   "name": "akroll",
-   "rank": "62",
-   "wallet": "0x8bac34bb7b51b4d63b128eb711d76706efdc35ca"
-  },
-  {
-   "all_time_pnl": 218498.32,
-   "copyable_7d": 5,
-   "month_pnl": 281846.64,
-   "month_vol": 1415336.75,
-   "name": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
-   "rank": "63",
-   "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b"
-  },
-  {
-   "all_time_pnl": 50045.31,
-   "copyable_7d": 153,
-   "month_pnl": 274700.43,
-   "month_vol": 746489.52,
-   "name": "VerilyWinningly",
-   "rank": "65",
-   "wallet": "0x6276ea490d6ca3a539f1d571a89d53d26e9f9db5"
-  },
-  {
-   "all_time_pnl": 68379.65,
-   "copyable_7d": 200,
-   "month_pnl": 265733.25,
-   "month_vol": 510007.98,
+   "all_time_pnl": 82312.21,
+   "copyable_7d": 258,
+   "month_pnl": 356287.28,
+   "month_vol": 611215.93,
    "name": "pollo07",
-   "rank": "66",
+   "rank": "50",
    "wallet": "0x72487021e3339827c476592585c15ae7f0fa7e72"
   },
   {
-   "all_time_pnl": 576725.09,
-   "copyable_7d": 81,
-   "month_pnl": 259951.43,
-   "month_vol": 2907359.04,
-   "name": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
-   "rank": "69",
-   "wallet": "0x20d6436849f930584892730c7f96ebb2ac763856"
-  },
-  {
-   "all_time_pnl": 237032.38,
-   "copyable_7d": 139,
-   "month_pnl": 253765.84,
-   "month_vol": 3864823.37,
-   "name": "dsasdaas",
-   "rank": "70",
-   "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43"
-  },
-  {
-   "all_time_pnl": 49939.71,
-   "copyable_7d": 74,
-   "month_pnl": 249949.66,
-   "month_vol": 1619624.63,
-   "name": "getbipped",
-   "rank": "72",
-   "wallet": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456"
-  },
-  {
-   "all_time_pnl": 239201.69,
+   "all_time_pnl": 568138.09,
    "copyable_7d": 56,
-   "month_pnl": 240935.8,
-   "month_vol": 1063830.36,
+   "month_pnl": 351085.46,
+   "month_vol": 6162546.48,
+   "name": "KaneAnalytics",
+   "rank": "51",
+   "wallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246"
+  },
+  {
+   "all_time_pnl": 422609.68,
+   "copyable_7d": 113,
+   "month_pnl": 347735.0,
+   "month_vol": 2732860.94,
+   "name": "rabbitfoot1",
+   "rank": "52",
+   "wallet": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b"
+  },
+  {
+   "all_time_pnl": 327779.4,
+   "copyable_7d": 55,
+   "month_pnl": 329193.94,
+   "month_vol": 1270980.36,
    "name": "yabanci",
-   "rank": "75",
+   "rank": "53",
    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f"
   },
   {
-   "all_time_pnl": 233718.69,
-   "copyable_7d": 152,
-   "month_pnl": 238565.12,
-   "month_vol": 2755250.71,
-   "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
-   "rank": "76",
-   "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165"
+   "all_time_pnl": 357978.53,
+   "copyable_7d": 34,
+   "month_pnl": 327115.73,
+   "month_vol": 1956949.94,
+   "name": "DelidelaDele",
+   "rank": "54",
+   "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508"
   },
   {
-   "all_time_pnl": 1288086.33,
-   "copyable_7d": 89,
-   "month_pnl": 236436.93,
-   "month_vol": 6176688.37,
-   "name": "wan123",
-   "rank": "77",
-   "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b"
-  },
-  {
-   "all_time_pnl": 314604.27,
-   "copyable_7d": 152,
-   "month_pnl": 235694.95,
-   "month_vol": 1713662.37,
-   "name": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
-   "rank": "78",
-   "wallet": "0xc7d02944a76b9f83b199e9090ecc92c82d241f8a"
-  },
-  {
-   "all_time_pnl": 798104.66,
-   "copyable_7d": 180,
-   "month_pnl": 223897.77,
-   "month_vol": 4459944.13,
-   "name": "Wiretransferxyz",
-   "rank": "80",
-   "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b"
-  },
-  {
-   "all_time_pnl": 127434.78,
-   "copyable_7d": 51,
-   "month_pnl": 219964.59,
-   "month_vol": 3393972.48,
-   "name": "lfg100k",
-   "rank": "81",
-   "wallet": "0xd3911bd5e070c9ad9a9519c966347802d8f3b109"
-  },
-  {
-   "all_time_pnl": 511092.25,
-   "copyable_7d": 60,
-   "month_pnl": 212664.21,
-   "month_vol": 5200496.1,
+   "all_time_pnl": 550755.99,
+   "copyable_7d": 46,
+   "month_pnl": 303950.57,
+   "month_vol": 5500970.72,
    "name": "glm4.1.fund",
-   "rank": "82",
+   "rank": "58",
    "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f"
   },
   {
-   "all_time_pnl": 74022.72,
-   "copyable_7d": 12,
-   "month_pnl": 209112.57,
-   "month_vol": 509426.77,
+   "all_time_pnl": 302171.54,
+   "copyable_7d": 195,
+   "month_pnl": 302917.59,
+   "month_vol": 4499674.25,
+   "name": "keeptheblueflagflyinghigh",
+   "rank": "59",
+   "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98"
+  },
+  {
+   "all_time_pnl": 51475.16,
+   "copyable_7d": 68,
+   "month_pnl": 286987.08,
+   "month_vol": 1551884.27,
+   "name": "getbipped",
+   "rank": "63",
+   "wallet": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456"
+  },
+  {
+   "all_time_pnl": 641401.15,
+   "copyable_7d": 63,
+   "month_pnl": 284042.19,
+   "month_vol": 9244493.91,
+   "name": "Sunshine.Smile",
+   "rank": "64",
+   "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e"
+  },
+  {
+   "all_time_pnl": 64312.8,
+   "copyable_7d": 258,
+   "month_pnl": 282369.51,
+   "month_vol": 461087.92,
+   "name": "Vale54holi",
+   "rank": "65",
+   "wallet": "0x9d0dcd0c8aa0526303fd9e17fff4666ef52d2e6d"
+  },
+  {
+   "all_time_pnl": 50362.32,
+   "copyable_7d": 139,
+   "month_pnl": 272826.87,
+   "month_vol": 733997.7,
+   "name": "VerilyWinningly",
+   "rank": "66",
+   "wallet": "0x6276ea490d6ca3a539f1d571a89d53d26e9f9db5"
+  },
+  {
+   "all_time_pnl": 63665.8,
+   "copyable_7d": 7,
+   "month_pnl": 271946.72,
+   "month_vol": 510886.27,
+   "name": "0x69f0C154a3412F2b3Fa7eB22c6d08E6B5B32FB27-1778811502354",
+   "rank": "67",
+   "wallet": "0x69f0c154a3412f2b3fa7eb22c6d08e6b5b32fb27"
+  },
+  {
+   "all_time_pnl": 601879.98,
+   "copyable_7d": 70,
+   "month_pnl": 256782.99,
+   "month_vol": 2906076.11,
+   "name": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
+   "rank": "71",
+   "wallet": "0x20d6436849f930584892730c7f96ebb2ac763856"
+  },
+  {
+   "all_time_pnl": 63659.21,
+   "copyable_7d": 253,
+   "month_pnl": 256522.78,
+   "month_vol": 498338.51,
+   "name": "Likaseent",
+   "rank": "72",
+   "wallet": "0x227f7ba7fcc35b7f8fc08aa6b075f5220da2a574"
+  },
+  {
+   "all_time_pnl": 208498.32,
+   "copyable_7d": 5,
+   "month_pnl": 253076.91,
+   "month_vol": 1775797.93,
+   "name": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
+   "rank": "73",
+   "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b"
+  },
+  {
+   "all_time_pnl": 236979.53,
+   "copyable_7d": 138,
+   "month_pnl": 246950.15,
+   "month_vol": 3848943.36,
+   "name": "dsasdaas",
+   "rank": "75",
+   "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43"
+  },
+  {
+   "all_time_pnl": 316475.19,
+   "copyable_7d": 154,
+   "month_pnl": 240899.69,
+   "month_vol": 1752461.76,
+   "name": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
+   "rank": "77",
+   "wallet": "0xc7d02944a76b9f83b199e9090ecc92c82d241f8a"
+  },
+  {
+   "all_time_pnl": 80059.77,
+   "copyable_7d": 5,
+   "month_pnl": 234105.14,
+   "month_vol": 520006.15,
    "name": "0x9b129aD05Bc0a8df3C73DfCC66fE75252DaEC2D5-1778811687225",
-   "rank": "83",
+   "rank": "79",
    "wallet": "0x9b129ad05bc0a8df3c73dfcc66fe75252daec2d5"
+  },
+  {
+   "all_time_pnl": 129875.35,
+   "copyable_7d": 44,
+   "month_pnl": 223356.69,
+   "month_vol": 3376508.14,
+   "name": "lfg100k",
+   "rank": "82",
+   "wallet": "0xd3911bd5e070c9ad9a9519c966347802d8f3b109"
+  },
+  {
+   "all_time_pnl": 215416.61,
+   "copyable_7d": 138,
+   "month_pnl": 220487.21,
+   "month_vol": 2849506.78,
+   "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+   "rank": "83",
+   "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165"
+  },
+  {
+   "all_time_pnl": 2331738.15,
+   "copyable_7d": 21,
+   "month_pnl": 210145.77,
+   "month_vol": 4368012.11,
+   "name": "aenews2",
+   "rank": "85",
+   "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
   },
   {
    "all_time_pnl": 203078.85,
@@ -527,267 +518,262 @@
    "month_pnl": 208568.37,
    "month_vol": 461990.27,
    "name": "pikachu2508",
-   "rank": "85",
+   "rank": "86",
    "wallet": "0x38891af2ad2f103ab8dc896c0243d2646deffe34"
   },
   {
-   "all_time_pnl": 40147.91,
-   "copyable_7d": 111,
-   "month_pnl": 207143.33,
-   "month_vol": 1144627.92,
-   "name": "SpringlyFawl",
-   "rank": "86",
-   "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665"
-  },
-  {
-   "all_time_pnl": 53803.42,
-   "copyable_7d": 75,
-   "month_pnl": 205581.17,
-   "month_vol": 672568.3,
-   "name": "123987456",
-   "rank": "87",
-   "wallet": "0x0130afd6f3efddf1c3e16e01217b172dd9befb49"
-  },
-  {
-   "all_time_pnl": 72549.49,
-   "copyable_7d": 73,
-   "month_pnl": 203596.33,
-   "month_vol": 5026344.75,
+   "all_time_pnl": 93121.12,
+   "copyable_7d": 74,
+   "month_pnl": 206153.57,
+   "month_vol": 5542478.12,
    "name": "robustmst",
-   "rank": "89",
+   "rank": "88",
    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63"
   },
   {
-   "all_time_pnl": 196179.88,
+   "all_time_pnl": 53707.53,
    "copyable_7d": 75,
-   "month_pnl": 203297.1,
-   "month_vol": 2776359.59,
-   "name": "ColdBlooded",
+   "month_pnl": 204521.24,
+   "month_vol": 672568.3,
+   "name": "123987456",
    "rank": "90",
+   "wallet": "0x0130afd6f3efddf1c3e16e01217b172dd9befb49"
+  },
+  {
+   "all_time_pnl": 196928.56,
+   "copyable_7d": 65,
+   "month_pnl": 204513.45,
+   "month_vol": 2924347.46,
+   "name": "ColdBlooded",
+   "rank": "91",
    "wallet": "0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c"
+  },
+  {
+   "all_time_pnl": 812779.47,
+   "copyable_7d": 177,
+   "month_pnl": 203142.58,
+   "month_vol": 4489162.0,
+   "name": "Wiretransferxyz",
+   "rank": "92",
+   "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b"
+  },
+  {
+   "all_time_pnl": 40550.09,
+   "copyable_7d": 90,
+   "month_pnl": 202989.42,
+   "month_vol": 1157862.12,
+   "name": "SpringlyFawl",
+   "rank": "93",
+   "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665"
   }
  ],
  "results": {
   "14": {
    "best": [
     {
-     "closed": 1791464726,
+     "closed": 1791564086,
      "cost": 60.196,
      "exit_price": 1.0,
-     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
-     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
-     "opened": 1791444508,
-     "outcome": "LGD Gaming",
-     "pnl": 94.6092,
-     "proceeds": 154.8052,
+     "leader": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+     "leader_name": "para-Vision",
+     "opened": 1791521398,
+     "outcome": "MOUZ",
+     "pnl": 117.7144,
+     "proceeds": 177.9104,
      "reason": "resolved",
-     "title": "Game Handicap: TY (-1.5) vs LGD Gaming (+1.5)",
-     "token": "35904948537306178256874201334797340153314959676992487536049515310995680369155"
-    },
-    {
-     "closed": 1791477702,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
-     "leader_name": "Wiretransferxyz",
-     "opened": 1791444145,
-     "outcome": "PURE",
-     "pnl": 84.6084,
-     "proceeds": 144.8044,
-     "reason": "resolved",
-     "title": "Counter-Strike: Esport Academy Copenhagen vs PURE (BO3) - Roman Imperium Cup Playoffs",
-     "token": "8210787029482538732531850582853070647766452852703637606609078173030190544104"
+     "title": "Map Handicap: MOUZ (-1.5) vs FURIA (+1.5)",
+     "token": "38557370983694413120498437539904196649189043004897290943062586449215926126769"
     },
     {
      "closed": 1791673626,
-     "cost": 59.804,
+     "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0x27f738fe203827445690339104aae35b20bc44b0",
      "leader_name": "ic4cream",
      "opened": 1791660495,
      "outcome": "Niko Price",
-     "pnl": 79.518,
-     "proceeds": 139.322,
+     "pnl": 78.9791,
+     "proceeds": 139.1751,
      "reason": "resolved",
      "title": "UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims)",
      "token": "38681180184694709686236777796702743512877658727639917721713899242429438503226"
     },
     {
-     "closed": 1791703049,
-     "cost": 20.2,
+     "closed": 1791607558,
+     "cost": 60.196,
      "exit_price": 1.0,
-     "leader": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
-     "leader_name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-     "opened": 1791675106,
-     "outcome": "Han Shi",
-     "pnl": 52.5273,
-     "proceeds": 72.7273,
+     "leader": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+     "leader_name": "para-Vision",
+     "opened": 1791552333,
+     "outcome": "Iowa",
+     "pnl": 62.6906,
+     "proceeds": 122.8866,
      "reason": "resolved",
-     "title": "Wuhan Tennis Open, Qualification: Han Shi vs Kamilla Rakhimova",
-     "token": "20756802997554682381033882267017357335258305876378651332484112632438568167158"
+     "title": "Spread: Washington (-2.5)",
+     "token": "60437944744218787478018602654656157484366691010171029707485875884234824479899"
     },
     {
-     "closed": 1792582208,
-     "cost": 60.052,
+     "closed": 1791749973,
+     "cost": 60.196,
      "exit_price": 1.0,
-     "leader": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
-     "leader_name": "yabanci",
-     "opened": 1792541276,
-     "outcome": "TheMongolz",
-     "pnl": 51.0834,
-     "proceeds": 111.1354,
+     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+     "opened": 1791727798,
+     "outcome": "Team Yandex",
+     "pnl": 58.2073,
+     "proceeds": 118.4033,
      "reason": "resolved",
-     "title": "Counter-Strike: magic vs TheMongolz (BO3) - 1win Private Club Playoffs",
-     "token": "34472353956817706231941944014116185898632659987089655256433812047431439938591"
+     "title": "Game Handicap: TY (-1.5) vs Team Spirit (+1.5)",
+     "token": "51127869361820420210416093827686522034935814542462408705100519983286758511220"
+    },
+    {
+     "closed": 1791543873,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+     "leader_name": "para-Vision",
+     "opened": 1791526607,
+     "outcome": "Aurora Gaming",
+     "pnl": 53.7176,
+     "proceeds": 94.1176,
+     "reason": "resolved",
+     "title": "Map Handicap: AUR (-1.5) vs 1WIN (+1.5)",
+     "token": "67860286172526889051384920890781590899102656428802838134698902877957295849353"
     }
    ],
-   "cash": 0.0,
-   "closed_positions": 225,
+   "cash": 18.63,
+   "closed_positions": 248,
    "curve": [
     [
-     1791431062,
+     1791517443,
      1000.0
     ],
     [
-     1791517462,
-     881.16
+     1791603843,
+     855.11
     ],
     [
-     1791603862,
-     860.15
+     1791690243,
+     933.85
     ],
     [
-     1791690262,
-     1076.58
+     1791776643,
+     708.49
     ],
     [
-     1791776662,
-     1073.05
+     1791863043,
+     696.55
     ],
     [
-     1791863062,
-     1019.7
+     1791949443,
+     609.69
     ],
     [
-     1791949462,
-     985.11
+     1792035843,
+     578.37
     ],
     [
-     1792035862,
-     926.87
+     1792122243,
+     563.0
     ],
     [
-     1792122262,
-     950.96
+     1792208643,
+     567.35
     ],
     [
-     1792208662,
-     943.62
+     1792295043,
+     519.41
     ],
     [
-     1792295062,
-     957.86
+     1792381443,
+     494.85
     ],
     [
-     1792381462,
-     942.7
+     1792467843,
+     477.1
     ],
     [
-     1792467862,
-     930.81
+     1792554243,
+     511.64
     ],
     [
-     1792554262,
-     993.33
+     1792640643,
+     551.23
     ],
     [
-     1792640662,
-     1033.97
+     1792727043,
+     529.12
     ]
    ],
    "days": 14,
-   "end_ts": 1792640662,
-   "final_equity": 1033.97,
-   "losses": 112,
-   "open_positions": 50,
-   "open_value": 1033.97,
+   "end_ts": 1792727043,
+   "final_equity": 529.12,
+   "losses": 129,
+   "open_positions": 28,
+   "open_value": 510.48,
    "per_leader": {
     "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357": {
      "buys": 1,
      "closed": 1,
-     "realized": 16.5,
+     "realized": -20.2,
      "unrealized": 0.0,
-     "wins": 1
+     "wins": 0
     },
     "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900": {
      "buys": 1,
      "closed": 1,
-     "realized": -12.36,
+     "realized": -20.2,
      "unrealized": 0.0,
      "wins": 0
     },
     "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625": {
-     "buys": 16,
-     "closed": 15,
-     "realized": -28.53,
-     "unrealized": -1.59,
-     "wins": 8
-    },
-    "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186": {
-     "buys": 16,
-     "closed": 16,
-     "realized": 60.27,
-     "unrealized": 0.0,
+     "buys": 18,
+     "closed": 17,
+     "realized": -22.38,
+     "unrealized": -0.19,
      "wins": 9
     },
+    "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186": {
+     "buys": 29,
+     "closed": 29,
+     "realized": 58.98,
+     "unrealized": 0.0,
+     "wins": 15
+    },
     "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495": {
-     "buys": 28,
-     "closed": 17,
-     "realized": -17.13,
-     "unrealized": -27.49,
-     "wins": 3
-    },
-    "123987456": {
-     "buys": 3,
-     "closed": 2,
-     "realized": 23.96,
-     "unrealized": 0.15,
-     "wins": 2
-    },
-    "AJSV": {
-     "buys": 3,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -2.9,
+     "buys": 13,
+     "closed": 6,
+     "realized": -10.9,
+     "unrealized": -1.53,
      "wins": 0
     },
+    "123987456": {
+     "buys": 8,
+     "closed": 3,
+     "realized": 5.06,
+     "unrealized": -28.17,
+     "wins": 3
+    },
     "ArielFilipino": {
-     "buys": 11,
-     "closed": 10,
-     "realized": 124.56,
-     "unrealized": -0.2,
+     "buys": 13,
+     "closed": 13,
+     "realized": 88.75,
+     "unrealized": 0.0,
      "wins": 9
     },
     "ColdBlooded": {
-     "buys": 20,
-     "closed": 19,
-     "realized": -50.55,
-     "unrealized": -1.39,
-     "wins": 11
+     "buys": 19,
+     "closed": 18,
+     "realized": -32.81,
+     "unrealized": -0.69,
+     "wins": 10
     },
     "Dragon-Evolution": {
-     "buys": 3,
-     "closed": 3,
-     "realized": -43.01,
+     "buys": 6,
+     "closed": 6,
+     "realized": -124.91,
      "unrealized": 0.0,
-     "wins": 1
-    },
-    "EdZachary": {
-     "buys": 5,
-     "closed": 4,
-     "realized": 97.85,
-     "unrealized": -7.21,
-     "wins": 4
+     "wins": 2
     },
     "Jokerxing7": {
      "buys": 1,
@@ -799,121 +785,100 @@
     "KaneAnalytics": {
      "buys": 1,
      "closed": 1,
-     "realized": -20.2,
+     "realized": -40.4,
      "unrealized": 0.0,
      "wins": 0
     },
-    "Mooseborzoiii": {
-     "buys": 2,
-     "closed": 2,
-     "realized": 31.16,
-     "unrealized": 0.0,
-     "wins": 1
-    },
     "PEYZ-BIGGEST-FAN": {
-     "buys": 9,
-     "closed": 9,
-     "realized": 34.56,
+     "buys": 11,
+     "closed": 11,
+     "realized": -11.93,
      "unrealized": 0.0,
      "wins": 5
     },
     "SpringlyFawl": {
      "buys": 2,
      "closed": 2,
-     "realized": -2.91,
+     "realized": -2.7,
      "unrealized": 0.0,
      "wins": 0
     },
     "Sunshine.Smile": {
-     "buys": 7,
-     "closed": 7,
-     "realized": -101.43,
+     "buys": 17,
+     "closed": 17,
+     "realized": -209.79,
      "unrealized": 0.0,
-     "wins": 0
+     "wins": 4
     },
     "Tokor": {
-     "buys": 33,
-     "closed": 23,
-     "realized": -92.74,
-     "unrealized": 50.17,
-     "wins": 15
+     "buys": 20,
+     "closed": 13,
+     "realized": -80.65,
+     "unrealized": 3.69,
+     "wins": 8
     },
     "VerilyWinningly": {
-     "buys": 8,
-     "closed": 6,
-     "realized": -14.46,
-     "unrealized": 20.87,
+     "buys": 6,
+     "closed": 5,
+     "realized": -13.47,
+     "unrealized": 9.67,
      "wins": 0
     },
     "Wiretransferxyz": {
-     "buys": 17,
-     "closed": 17,
-     "realized": 69.74,
-     "unrealized": 0.0,
-     "wins": 10
-    },
-    "donthackme": {
-     "buys": 1,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -6.45,
-     "wins": 0
-    },
-    "dromedaryy": {
-     "buys": 1,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": 3.35,
-     "wins": 0
-    },
-    "dsasdaas": {
-     "buys": 16,
-     "closed": 16,
-     "realized": 89.09,
+     "buys": 13,
+     "closed": 13,
+     "realized": 23.01,
      "unrealized": 0.0,
      "wins": 9
     },
-    "forgotmydinner": {
-     "buys": 1,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -0.92,
-     "wins": 0
+    "aenews2": {
+     "buys": 4,
+     "closed": 2,
+     "realized": 5.61,
+     "unrealized": -4.85,
+     "wins": 1
+    },
+    "dsasdaas": {
+     "buys": 21,
+     "closed": 21,
+     "realized": -275.29,
+     "unrealized": 0.0,
+     "wins": 7
     },
     "getbipped": {
-     "buys": 16,
-     "closed": 8,
-     "realized": -114.63,
-     "unrealized": -11.07,
-     "wins": 4
+     "buys": 9,
+     "closed": 6,
+     "realized": -82.24,
+     "unrealized": 9.04,
+     "wins": 1
     },
     "ic4cream": {
-     "buys": 11,
-     "closed": 10,
-     "realized": 1.88,
-     "unrealized": 0.49,
-     "wins": 4
+     "buys": 17,
+     "closed": 17,
+     "realized": 103.79,
+     "unrealized": 0.0,
+     "wins": 10
     },
     "lfg100k": {
-     "buys": 8,
-     "closed": 8,
-     "realized": -64.95,
+     "buys": 9,
+     "closed": 9,
+     "realized": 20.51,
      "unrealized": 0.0,
-     "wins": 3
+     "wins": 7
     },
     "paddaa": {
-     "buys": 12,
-     "closed": 6,
-     "realized": -1.61,
-     "unrealized": 1.22,
-     "wins": 2
+     "buys": 2,
+     "closed": 1,
+     "realized": 0.19,
+     "unrealized": -1.96,
+     "wins": 1
     },
     "para-Vision": {
-     "buys": 12,
-     "closed": 12,
-     "realized": -56.28,
+     "buys": 25,
+     "closed": 25,
+     "realized": 185.83,
      "unrealized": 0.0,
-     "wins": 6
+     "wins": 13
     },
     "pikachu2508": {
      "buys": 1,
@@ -923,245 +888,231 @@
      "wins": 1
     },
     "rabbitfoot1": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -16.21,
+     "buys": 6,
+     "closed": 6,
+     "realized": -42.98,
      "unrealized": 0.0,
-     "wins": 1
+     "wins": 2
     },
-    "theowalcott": {
+    "robustmst": {
      "buys": 1,
      "closed": 1,
-     "realized": 20.2,
+     "realized": -12.92,
      "unrealized": 0.0,
-     "wins": 1
+     "wins": 0
     },
     "yabanci": {
      "buys": 2,
      "closed": 2,
-     "realized": 30.88,
+     "realized": 20.2,
      "unrealized": 0.0,
-     "wins": 1
-    },
-    "zerone777": {
-     "buys": 2,
-     "closed": 1,
-     "realized": 15.95,
-     "unrealized": 1.42,
      "wins": 1
     }
    },
-   "pnl": 33.97,
-   "positions_taken": 275,
-   "realized_pnl": 15.52,
-   "return_pct": 3.4,
+   "pnl": -470.88,
+   "positions_taken": 276,
+   "realized_pnl": -455.9,
+   "return_pct": -47.09,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 46856,
-    "market already closed": 12,
-    "market ends too soon": 1297,
-    "no price data": 8274,
-    "per-market cap or out of cash": 2620,
-    "price ran away from leader's price": 891
+    "leader trade too small / extreme price / crypto up-down": 56812,
+    "market already closed": 17,
+    "market ends too soon": 1410,
+    "no price data": 9027,
+    "per-market cap or out of cash": 2259,
+    "price ran away from leader's price": 793
    },
-   "start_ts": 1791431062,
+   "start_ts": 1791517443,
    "starting_bankroll": 1000,
-   "wins": 113,
+   "wins": 119,
    "worst": [
     {
-     "closed": 1791473399,
+     "closed": 1791543882,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456",
-     "leader_name": "getbipped",
-     "opened": 1791447928,
-     "outcome": "No",
+     "leader": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a",
+     "leader_name": "Dragon-Evolution",
+     "opened": 1791525461,
+     "outcome": "1WIN",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Will Ethereum dip to $2,500 October 5-11?",
-     "token": "45315342314235632673277404857736234304088309363696167640986301571767752799567"
+     "title": "Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs",
+     "token": "42970288086651242892951185890206557847585238209962944865353749368654446676611"
     },
     {
-     "closed": 1791474749,
+     "closed": 1791549628,
      "cost": 60.196,
      "exit_price": 0.0,
-     "leader": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
-     "leader_name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
-     "opened": 1791434053,
-     "outcome": "JD Gaming",
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1791544180,
+     "outcome": "PARIVISION",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Game Handicap: JDG (-1.5) vs Natus Vincere (+1.5)",
-     "token": "110067468832368260357577297984483126865587113937877318219324867014348841729016"
+     "title": "Counter-Strike: Vitality vs PARIVISION - Map 1 Winner",
+     "token": "37472447230979827600438791022407343613424035321072808377857360717982375072827"
     },
     {
-     "closed": 1791481199,
+     "closed": 1791553953,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1791541693,
+     "outcome": "PARIVISION",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Vitality vs PARIVISION - Map 2 Winner",
+     "token": "40108843628764228308991127546863458024401517974728426209488102381607403391984"
+    },
+    {
+     "closed": 1791560400,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+     "leader_name": "dsasdaas",
+     "opened": 1791555594,
+     "outcome": "FURIA",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: FURIA vs MOUZ - Map 1 Winner",
+     "token": "69601865528350553157978541409735707089964771173737383490895725024590178609769"
+    },
+    {
+     "closed": 1791580292,
      "cost": 60.196,
      "exit_price": 0.0,
      "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
      "leader_name": "Wiretransferxyz",
-     "opened": 1791444319,
-     "outcome": "WBT",
+     "opened": 1791530431,
+     "outcome": "Nuclear TigeRES",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: WBT vs NAVI Junior (BO3) - Roman Imperium Cup Playoffs",
-     "token": "12567174572918313067099285296155252056328420132799925907800240311559858938240"
-    },
-    {
-     "closed": 1791511286,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-     "leader_name": "para-Vision",
-     "opened": 1791465546,
-     "outcome": "Canadiens",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Predators vs. Canadiens",
-     "token": "93214446126258986170863828714361256563995636081288662670360534035738495234980"
-    },
-    {
-     "closed": 1791515940,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
-     "leader_name": "ArielFilipino",
-     "opened": 1791440915,
-     "outcome": "South Florida",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Spread: UTSA (-6.5)",
-     "token": "87808425904900352432339811418814461236826420743888753481871207220276249806634"
+     "title": "Counter-Strike: PRIVATE vs Nuclear TigeRES (BO3) - 1win Private Club #2: Closed Qualifier Playoffs",
+     "token": "44703613018576754835288127236283868774430667249842793247367244769132849271288"
     }
    ]
   },
   "7": {
    "best": [
     {
-     "closed": 1792270595,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
-     "leader_name": "Mooseborzoiii",
-     "opened": 1792255134,
-     "outcome": "BetBoom Team",
-     "pnl": 95.1932,
-     "proceeds": 135.5932,
-     "reason": "resolved",
-     "title": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
-     "token": "38009478302610382064335258958689107486211614770248890993914277043780727541453"
-    },
-    {
-     "closed": 1792608849,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
-     "leader_name": "Jokerxing7",
-     "opened": 1792595364,
-     "outcome": "Over",
-     "pnl": 80.0393,
-     "proceeds": 140.2353,
-     "reason": "resolved",
-     "title": "Como 1907 vs. Manchester United FC: O/U 3.5",
-     "token": "5832339209244470183693879244354504520329836590199402834773721993462919415079"
-    },
-    {
-     "closed": 1792360980,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
-     "leader_name": "dsasdaas",
-     "opened": 1792292087,
-     "outcome": "BetBoom Team",
-     "pnl": 61.0245,
-     "proceeds": 121.2205,
-     "reason": "resolved",
-     "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
-     "token": "57543854020047079405051281486566454203743495016729657566665463956966153102368"
-    },
-    {
-     "closed": 1792593820,
+     "closed": 1792165530,
      "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
      "leader_name": "Wiretransferxyz",
-     "opened": 1792582773,
-     "outcome": "PRIVATE",
-     "pnl": 55.2093,
-     "proceeds": 115.4053,
+     "opened": 1792124854,
+     "outcome": "Team Nemesis",
+     "pnl": 43.4562,
+     "proceeds": 103.6522,
      "reason": "resolved",
-     "title": "Map Handicap: FNC (-1.5) vs PRIVATE (+1.5)",
-     "token": "23054198940585620344503578289834581500783287455291967460455007611064878201139"
+     "title": "Counter-Strike: Team Nemesis vs Nuclear TigeRES (BO3) - PGL Bucharest Closed Qualifier Playoffs",
+     "token": "70273079696269397478668992274377809564429930023671209205254449877823451920090"
     },
     {
      "closed": 1792582208,
-     "cost": 60.196,
+     "cost": 50.3609,
      "exit_price": 1.0,
      "leader": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
      "leader_name": "yabanci",
      "opened": 1792541276,
      "outcome": "TheMongolz",
-     "pnl": 51.2059,
-     "proceeds": 111.4019,
+     "pnl": 42.8397,
+     "proceeds": 93.2006,
      "reason": "resolved",
      "title": "Counter-Strike: magic vs TheMongolz (BO3) - 1win Private Club Playoffs",
      "token": "34472353956817706231941944014116185898632659987089655256433812047431439938591"
+    },
+    {
+     "closed": 1792320482,
+     "cost": 60.0555,
+     "exit_price": 1.0,
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1792267493,
+     "outcome": "LOUD",
+     "pnl": 39.8788,
+     "proceeds": 99.9342,
+     "reason": "resolved",
+     "title": "Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs",
+     "token": "106598857364664686748903930750313078779526168246297782366265664971577158678074"
+    },
+    {
+     "closed": 1792293002,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+     "leader_name": "ArielFilipino",
+     "opened": 1792125291,
+     "outcome": "Under",
+     "pnl": 38.0389,
+     "proceeds": 78.4389,
+     "reason": "resolved",
+     "title": "Kentucky vs. Oklahoma: O/U 43.5",
+     "token": "14777575707190957051337905923527910420592545252597732802613435216848185226126"
+    },
+    {
+     "closed": 1792410002,
+     "cost": 57.9371,
+     "exit_price": 1.0,
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1792363965,
+     "outcome": "TheMongolz",
+     "pnl": 32.3991,
+     "proceeds": 90.3362,
+     "reason": "resolved",
+     "title": "Counter-Strike: Alliance vs TheMongolz (BO3) - 1win Private Club #2 Playoffs",
+     "token": "70816108370301861337296052890955824314897871591797048263115728006294115763459"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 157,
+   "closed_positions": 130,
    "curve": [
     [
-     1792035862,
+     1792122243,
      1000.0
     ],
     [
-     1792122262,
-     865.8
+     1792208643,
+     949.61
     ],
     [
-     1792208662,
-     895.69
+     1792295043,
+     870.05
     ],
     [
-     1792295062,
-     1005.71
+     1792381443,
+     829.71
     ],
     [
-     1792381462,
-     1015.9
+     1792467843,
+     895.03
     ],
     [
-     1792467862,
-     1078.36
+     1792554243,
+     964.59
     ],
     [
-     1792554262,
-     1160.83
+     1792640643,
+     1021.06
     ],
     [
-     1792640662,
-     1311.14
+     1792727043,
+     920.61
     ]
    ],
    "days": 7,
-   "end_ts": 1792640662,
-   "final_equity": 1311.14,
-   "losses": 80,
-   "open_positions": 60,
-   "open_value": 1311.14,
+   "end_ts": 1792727043,
+   "final_equity": 920.61,
+   "losses": 72,
+   "open_positions": 51,
+   "open_value": 920.61,
    "per_leader": {
-    "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357": {
-     "buys": 3,
-     "closed": 2,
-     "realized": 15.09,
-     "unrealized": 17.88,
-     "wins": 1
-    },
     "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900": {
      "buys": 1,
      "closed": 1,
@@ -1170,193 +1121,172 @@
      "wins": 0
     },
     "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625": {
-     "buys": 12,
-     "closed": 8,
-     "realized": 56.93,
-     "unrealized": -5.14,
-     "wins": 6
+     "buys": 10,
+     "closed": 7,
+     "realized": 66.7,
+     "unrealized": -2.93,
+     "wins": 5
     },
     "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -48.54,
+     "buys": 5,
+     "closed": 5,
+     "realized": -26.36,
      "unrealized": 0.0,
      "wins": 1
     },
     "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495": {
-     "buys": 16,
-     "closed": 12,
-     "realized": -16.82,
-     "unrealized": -1.78,
-     "wins": 1
+     "buys": 26,
+     "closed": 16,
+     "realized": -13.06,
+     "unrealized": 5.73,
+     "wins": 3
     },
     "123987456": {
-     "buys": 3,
+     "buys": 1,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -0.61,
-     "wins": 0
-    },
-    "AJSV": {
-     "buys": 5,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -3.5,
+     "unrealized": -0.21,
      "wins": 0
     },
     "ArielFilipino": {
-     "buys": 22,
-     "closed": 21,
-     "realized": 159.25,
-     "unrealized": -0.98,
-     "wins": 15
+     "buys": 15,
+     "closed": 15,
+     "realized": 122.04,
+     "unrealized": 0.0,
+     "wins": 11
     },
     "ColdBlooded": {
-     "buys": 10,
-     "closed": 7,
-     "realized": -11.75,
-     "unrealized": -1.84,
-     "wins": 3
+     "buys": 7,
+     "closed": 4,
+     "realized": 62.75,
+     "unrealized": -1.09,
+     "wins": 4
     },
     "Dragon-Evolution": {
-     "buys": 3,
-     "closed": 3,
-     "realized": 29.69,
-     "unrealized": 0.0,
-     "wins": 2
-    },
-    "EdZachary": {
-     "buys": 1,
-     "closed": 1,
-     "realized": 15.47,
+     "buys": 2,
+     "closed": 2,
+     "realized": -31.01,
      "unrealized": 0.0,
      "wins": 1
     },
     "Jokerxing7": {
-     "buys": 1,
-     "closed": 1,
-     "realized": 80.04,
+     "buys": 2,
+     "closed": 2,
+     "realized": 25.31,
      "unrealized": 0.0,
      "wins": 1
     },
-    "Mooseborzoiii": {
-     "buys": 3,
-     "closed": 3,
-     "realized": 70.13,
-     "unrealized": 0.0,
-     "wins": 1
+    "Likaseent": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.71,
+     "wins": 0
     },
     "PEYZ-BIGGEST-FAN": {
-     "buys": 6,
+     "buys": 7,
      "closed": 6,
-     "realized": -33.99,
-     "unrealized": 0.0,
+     "realized": -11.85,
+     "unrealized": -0.19,
      "wins": 3
     },
     "SpringlyFawl": {
-     "buys": 10,
-     "closed": 9,
-     "realized": -6.07,
-     "unrealized": 0.06,
-     "wins": 3
+     "buys": 12,
+     "closed": 10,
+     "realized": -14.13,
+     "unrealized": -0.54,
+     "wins": 1
     },
     "Sunshine.Smile": {
-     "buys": 6,
-     "closed": 6,
-     "realized": -105.69,
+     "buys": 1,
+     "closed": 1,
+     "realized": -20.2,
      "unrealized": 0.0,
-     "wins": 1
-    },
-    "THEHIGHLIFE": {
-     "buys": 2,
-     "closed": 2,
-     "realized": 0.22,
-     "unrealized": 0.0,
-     "wins": 1
+     "wins": 0
     },
     "Tokor": {
-     "buys": 32,
-     "closed": 16,
-     "realized": -85.78,
-     "unrealized": 79.42,
-     "wins": 9
+     "buys": 28,
+     "closed": 13,
+     "realized": -45.32,
+     "unrealized": -8.26,
+     "wins": 8
     },
     "VerilyWinningly": {
-     "buys": 2,
-     "closed": 1,
-     "realized": -1.26,
-     "unrealized": 9.01,
+     "buys": 5,
+     "closed": 3,
+     "realized": -5.58,
+     "unrealized": 6.07,
      "wins": 0
     },
     "Wiretransferxyz": {
-     "buys": 12,
-     "closed": 12,
-     "realized": 116.18,
+     "buys": 14,
+     "closed": 14,
+     "realized": -35.43,
      "unrealized": 0.0,
      "wins": 7
     },
-    "dromedaryy": {
+    "aHjCz": {
      "buys": 1,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": 10.91,
+     "unrealized": -0.38,
+     "wins": 0
+    },
+    "aenews2": {
+     "buys": 1,
+     "closed": 1,
+     "realized": -1.0,
+     "unrealized": 0.0,
+     "wins": 0
+    },
+    "akroll": {
+     "buys": 2,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.57,
      "wins": 0
     },
     "dsasdaas": {
-     "buys": 10,
-     "closed": 10,
-     "realized": 41.57,
+     "buys": 5,
+     "closed": 5,
+     "realized": -83.02,
      "unrealized": 0.0,
-     "wins": 6
+     "wins": 1
     },
     "getbipped": {
-     "buys": 7,
-     "closed": 4,
-     "realized": 20.49,
-     "unrealized": 13.45,
-     "wins": 3
-    },
-    "glm4.1.fund": {
-     "buys": 1,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": 0.25,
+     "buys": 2,
+     "closed": 1,
+     "realized": -20.2,
+     "unrealized": 8.11,
      "wins": 0
     },
     "ic4cream": {
      "buys": 6,
      "closed": 3,
-     "realized": -25.18,
-     "unrealized": -13.63,
+     "realized": -25.3,
+     "unrealized": -20.14,
      "wins": 1
     },
     "kaxel78": {
-     "buys": 4,
+     "buys": 1,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -2.09,
-     "wins": 0
-    },
-    "lfg100k": {
-     "buys": 2,
-     "closed": 2,
-     "realized": -30.73,
-     "unrealized": 0.0,
+     "unrealized": -0.08,
      "wins": 0
     },
     "paddaa": {
-     "buys": 13,
-     "closed": 7,
-     "realized": -11.2,
-     "unrealized": -5.17,
+     "buys": 11,
+     "closed": 8,
+     "realized": -18.39,
+     "unrealized": -3.74,
      "wins": 4
     },
     "para-Vision": {
-     "buys": 4,
-     "closed": 4,
-     "realized": 64.49,
+     "buys": 3,
+     "closed": 3,
+     "realized": 36.52,
      "unrealized": 0.0,
-     "wins": 3
+     "wins": 2
     },
     "pikachu2508": {
      "buys": 1,
@@ -1367,125 +1297,118 @@
     },
     "rabbitfoot1": {
      "buys": 4,
-     "closed": 3,
-     "realized": -54.98,
-     "unrealized": 0.18,
-     "wins": 0
+     "closed": 4,
+     "realized": 3.56,
+     "unrealized": 0.0,
+     "wins": 2
     },
     "robustmst": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -29.17,
+     "buys": 3,
+     "closed": 3,
+     "realized": -36.97,
      "unrealized": 0.0,
      "wins": 1
     },
-    "wan123": {
-     "buys": 2,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": -9.56,
-     "wins": 0
-    },
     "yabanci": {
-     "buys": 3,
-     "closed": 3,
-     "realized": 10.81,
+     "buys": 2,
+     "closed": 2,
+     "realized": 22.64,
      "unrealized": 0.0,
      "wins": 1
     },
     "zerone777": {
-     "buys": 1,
-     "closed": 1,
-     "realized": 16.2,
-     "unrealized": 0.0,
-     "wins": 1
+     "buys": 2,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -1.04,
+     "wins": 0
     }
    },
-   "pnl": 311.14,
-   "positions_taken": 217,
-   "realized_pnl": 224.28,
-   "return_pct": 31.11,
+   "pnl": -79.39,
+   "positions_taken": 181,
+   "realized_pnl": -59.41,
+   "return_pct": -7.94,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 40276,
-    "market already closed": 7,
-    "market ends too soon": 931,
-    "no price data": 6087,
-    "per-market cap or out of cash": 1483,
-    "price ran away from leader's price": 557
+    "leader trade too small / extreme price / crypto up-down": 48609,
+    "market already closed": 12,
+    "market ends too soon": 1091,
+    "no price data": 6201,
+    "per-market cap or out of cash": 1249,
+    "price ran away from leader's price": 475
    },
-   "start_ts": 1792035862,
+   "start_ts": 1792122243,
    "starting_bankroll": 1000,
-   "wins": 77,
+   "wins": 58,
    "worst": [
     {
-     "closed": 1792360980,
-     "cost": 60.0668,
-     "exit_price": 0.0,
-     "leader": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
-     "leader_name": "dsasdaas",
-     "opened": 1792292262,
-     "outcome": "BetBoom Team",
-     "pnl": -60.0668,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Counter-Strike: FURIA vs BetBoom Team (BO5) - Thunderpick World Championship Playoffs",
-     "token": "93840696472530069073904947789241694751887633693546468304434257067074309492450"
-    },
-    {
-     "closed": 1792059059,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
-     "leader_name": "Sunshine.Smile",
-     "opened": 1792050934,
-     "outcome": "salamit",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Dota 2: Spirit Academy vs salamit - Game 1 Winner",
-     "token": "37541717712920195476903218359267617575908114336095316919078831322433218913859"
-    },
-    {
-     "closed": 1792070396,
-     "cost": 40.4,
+     "closed": 1792158537,
+     "cost": 60.196,
      "exit_price": 0.0,
      "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
      "leader_name": "Wiretransferxyz",
-     "opened": 1792064398,
-     "outcome": "BC.Game Esports",
-     "pnl": -40.4,
+     "opened": 1792130824,
+     "outcome": "Voca",
+     "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Counter-Strike: MIBR vs BC.Game Esports - Map 2 Winner",
-     "token": "100996791919571256237159498355679216782406189830451269693395696086141399380485"
+     "title": "Counter-Strike: Voca vs HAVU (BO1) - Elisa BreakOut Series #2 Group B",
+     "token": "24940631824606248598992697202571922995935098347648135272311885799970166436870"
     },
     {
      "closed": 1792360980,
-     "cost": 40.4,
+     "cost": 56.7871,
      "exit_price": 0.0,
      "leader": "0x3eb31daa061a19855cbf0a4884c202fb86976a2a",
      "leader_name": "Dragon-Evolution",
-     "opened": 1792304766,
+     "opened": 1792303116,
      "outcome": "FURIA",
-     "pnl": -40.4,
+     "pnl": -56.7871,
      "proceeds": 0.0,
      "reason": "resolved",
      "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
      "token": "32351405341002377995443896387542144122836803356189638993229442460127317633647"
     },
     {
-     "closed": 1792118097,
-     "cost": 39.996,
+     "closed": 1792270502,
+     "cost": 42.215,
      "exit_price": 0.0,
-     "leader": "0xdaef2be2a19ad331737d06545f85615b094554e9",
-     "leader_name": "PEYZ-BIGGEST-FAN",
-     "opened": 1792037293,
-     "outcome": "Under",
-     "pnl": -39.996,
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1792256385,
+     "outcome": "MIBR",
+     "pnl": -42.215,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Colorado State vs. Texas State: O/U 69.5",
-     "token": "66460236770069289761737302141637283546084359673945881025577332939599392903658"
+     "title": "Counter-Strike: NIP vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
+     "token": "70401661262736459041411547975808290904208023942923780613748881416672507908899"
+    },
+    {
+     "closed": 1792147407,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+     "leader_name": "Wiretransferxyz",
+     "opened": 1792124500,
+     "outcome": "Voca",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: Voca vs Phantom (BO1) - Elisa BreakOut Series #2 Group B",
+     "token": "18665325101458095105301682407302632096082338142130472457822698813019037453000"
+    },
+    {
+     "closed": 1792493702,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0xa19cbababc312f9df185e49d7004c249ed1ade6b",
+     "leader_name": "Tokor",
+     "opened": 1792148505,
+     "outcome": "No",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?",
+     "token": "47344467987221320276662561060499913996004551890876070899566170663286402490265"
     }
    ]
   }

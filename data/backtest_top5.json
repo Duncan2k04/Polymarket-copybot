@@ -24,51 +24,51 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792641425,
+ "generated": 1792727812,
  "leaders": [
   {
-   "all_time_pnl": 6949617.18,
-   "copyable_7d": 15,
-   "month_pnl": 7201192.82,
-   "month_vol": 44111176.52,
-   "name": "joseph00677",
-   "rank": "1",
-   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
-  },
-  {
-   "all_time_pnl": 8945110.76,
-   "copyable_7d": 123,
-   "month_pnl": 7182988.82,
-   "month_vol": 60228188.31,
+   "all_time_pnl": 9464119.22,
+   "copyable_7d": 130,
+   "month_pnl": 7561295.9,
+   "month_vol": 62470667.38,
    "name": "BreakTheBank",
-   "rank": "2",
+   "rank": "1",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
+   "all_time_pnl": 6949617.18,
+   "copyable_7d": 9,
+   "month_pnl": 7201192.82,
+   "month_vol": 44111176.52,
+   "name": "joseph00677",
+   "rank": "2",
+   "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+  },
+  {
    "all_time_pnl": 1673254.59,
-   "copyable_7d": 50,
-   "month_pnl": 3387661.93,
-   "month_vol": 44691989.93,
+   "copyable_7d": 30,
+   "month_pnl": 3260547.96,
+   "month_vol": 43196416.44,
    "name": "Diabolical-Prize",
    "rank": "3",
    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
   },
   {
-   "all_time_pnl": 967218.11,
-   "copyable_7d": 55,
-   "month_pnl": 3003227.27,
-   "month_vol": 2109408.49,
+   "all_time_pnl": 999288.35,
+   "copyable_7d": 86,
+   "month_pnl": 3154570.26,
+   "month_vol": 2255947.35,
    "name": "e46m3",
    "rank": "4",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 286695.39,
-   "copyable_7d": 84,
-   "month_pnl": 1252633.16,
-   "month_vol": 5960826.13,
-   "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-   "rank": "9",
+   "all_time_pnl": 286054.41,
+   "copyable_7d": 74,
+   "month_pnl": 1252209.41,
+   "month_vol": 5961820.99,
+   "name": "RichieRicher",
+   "rank": "10",
    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
   }
  ],
@@ -146,90 +146,83 @@
      "token": "62813604754427508641245639139740674925348067927945159093643391364730231238161"
     }
    ],
-   "cash": 0.0,
-   "closed_positions": 104,
+   "cash": 26.06,
+   "closed_positions": 107,
    "curve": [
     [
-     1791431825,
+     1791518212,
      1000.0
     ],
     [
-     1791518225,
-     1000.0
-    ],
-    [
-     1791604625,
+     1791604612,
      972.62
     ],
     [
-     1791691025,
+     1791691012,
      938.18
     ],
     [
-     1791777425,
+     1791777412,
      825.0
     ],
     [
-     1791863825,
+     1791863812,
      792.4
     ],
     [
-     1791950225,
+     1791950212,
      708.36
     ],
     [
-     1792036625,
+     1792036612,
      618.44
     ],
     [
-     1792123025,
+     1792123012,
      625.56
     ],
     [
-     1792209425,
-     927.38
+     1792209412,
+     938.32
     ],
     [
-     1792295825,
-     1046.82
+     1792295812,
+     1085.3
     ],
     [
-     1792382225,
-     1046.09
+     1792382212,
+     1056.71
     ],
     [
-     1792468625,
-     1030.66
+     1792468612,
+     1037.71
     ],
     [
-     1792555025,
-     755.49
+     1792555012,
+     766.11
     ],
     [
-     1792641425,
-     719.71
+     1792641412,
+     643.01
+    ],
+    [
+     1792727812,
+     666.36
     ]
    ],
    "days": 14,
-   "end_ts": 1792641425,
-   "final_equity": 719.71,
-   "losses": 58,
-   "open_positions": 22,
-   "open_value": 719.71,
+   "end_ts": 1792727812,
+   "final_equity": 666.36,
+   "losses": 60,
+   "open_positions": 20,
+   "open_value": 640.3,
    "per_leader": {
-    "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
-     "buys": 39,
-     "closed": 39,
-     "realized": 55.83,
-     "unrealized": 0.0,
-     "wins": 23
-    },
     "BreakTheBank": {
-     "buys": 26,
-     "closed": 18,
-     "realized": -184.4,
-     "unrealized": -36.5,
-     "wins": 7
+     "buys": 25,
+     "closed": 20,
+     "realized": -228.05,
+     "unrealized": -41.92,
+     "wins": 8
     },
     "Diabolical-Prize": {
      "buys": 38,
@@ -238,11 +231,18 @@
      "unrealized": 0.0,
      "wins": 14
     },
+    "RichieRicher": {
+     "buys": 40,
+     "closed": 40,
+     "realized": 35.63,
+     "unrealized": 0.0,
+     "wins": 23
+    },
     "e46m3": {
-     "buys": 15,
+     "buys": 16,
      "closed": 1,
      "realized": -20.2,
-     "unrealized": -13.9,
+     "unrealized": 2.02,
      "wins": 0
     },
     "joseph00677": {
@@ -253,19 +253,19 @@
      "wins": 2
     }
    },
-   "pnl": -280.29,
-   "positions_taken": 126,
-   "realized_pnl": -229.89,
-   "return_pct": -28.03,
+   "pnl": -333.64,
+   "positions_taken": 127,
+   "realized_pnl": -293.74,
+   "return_pct": -33.36,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4832,
-    "market ends too soon": 264,
-    "per-market cap or out of cash": 365,
-    "price ran away from leader's price": 56
+    "leader trade too small / extreme price / crypto up-down": 4789,
+    "market ends too soon": 283,
+    "per-market cap or out of cash": 381,
+    "price ran away from leader's price": 61
    },
-   "start_ts": 1791431825,
+   "start_ts": 1791518212,
    "starting_bankroll": 1000,
-   "wins": 46,
+   "wins": 47,
    "worst": [
     {
      "closed": 1791580724,
@@ -370,29 +370,15 @@
      "token": "38725776711339163495106479361322692996264843388509719981628391206131107874952"
     },
     {
-     "closed": 1792343103,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792268834,
-     "outcome": "Texans",
-     "pnl": 60.208,
-     "proceeds": 120.404,
-     "reason": "resolved",
-     "title": "Spread: Jaguars (-2.5)",
-     "token": "64198878324319945512387287171779273420917130153942170268101661917928788237790"
-    },
-    {
      "closed": 1792357374,
      "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792312749,
+     "opened": 1792327077,
      "outcome": "Steelers",
-     "pnl": 55.5322,
-     "proceeds": 115.7282,
+     "pnl": 56.2858,
+     "proceeds": 116.4818,
      "reason": "resolved",
      "title": "Spread: Steelers (-2.5)",
      "token": "53248798886619335232352667333520040541793957903905874364194618120759372288331"
@@ -410,100 +396,114 @@
      "reason": "resolved",
      "title": "Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5)",
      "token": "36175510947853949367078806485953660845800544169370844412638833403605402729886"
+    },
+    {
+     "closed": 1792467561,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792437434,
+     "outcome": "Under",
+     "pnl": 44.716,
+     "proceeds": 85.116,
+     "reason": "resolved",
+     "title": "Commanders vs. 49ers: O/U 50.5",
+     "token": "33733071101799895733311675156003702691962446303972518728277170973264836817364"
     }
    ],
-   "cash": 0.0,
-   "closed_positions": 71,
+   "cash": 27.45,
+   "closed_positions": 59,
    "curve": [
     [
-     1792036625,
+     1792123012,
      1000.0
     ],
     [
-     1792123025,
-     1007.12
+     1792209412,
+     1316.68
     ],
     [
-     1792209425,
-     1308.94
+     1792295812,
+     1471.58
     ],
     [
-     1792295825,
-     1428.37
+     1792382212,
+     1442.99
     ],
     [
-     1792382225,
-     1427.65
+     1792468612,
+     1423.99
     ],
     [
-     1792468625,
-     1412.21
+     1792555012,
+     1152.39
     ],
     [
-     1792555025,
-     1137.05
+     1792641412,
+     1017.86
     ],
     [
-     1792641425,
-     1071.53
+     1792727812,
+     1050.32
     ]
    ],
    "days": 7,
-   "end_ts": 1792641425,
-   "final_equity": 1071.53,
-   "losses": 39,
-   "open_positions": 33,
-   "open_value": 1071.53,
+   "end_ts": 1792727812,
+   "final_equity": 1050.32,
+   "losses": 32,
+   "open_positions": 32,
+   "open_value": 1022.87,
    "per_leader": {
-    "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
-     "buys": 31,
-     "closed": 31,
-     "realized": -47.34,
-     "unrealized": 0.0,
-     "wins": 16
-    },
     "BreakTheBank": {
-     "buys": 26,
-     "closed": 18,
-     "realized": -184.4,
-     "unrealized": -36.5,
-     "wins": 7
+     "buys": 25,
+     "closed": 20,
+     "realized": -227.47,
+     "unrealized": -41.92,
+     "wins": 8
     },
     "Diabolical-Prize": {
-     "buys": 15,
-     "closed": 15,
-     "realized": 424.79,
+     "buys": 7,
+     "closed": 7,
+     "realized": 406.89,
      "unrealized": 0.0,
-     "wins": 7
+     "wins": 4
+    },
+    "RichieRicher": {
+     "buys": 27,
+     "closed": 27,
+     "realized": -22.3,
+     "unrealized": 0.0,
+     "wins": 14
     },
     "e46m3": {
-     "buys": 26,
+     "buys": 28,
      "closed": 1,
      "realized": -20.2,
-     "unrealized": -23.44,
+     "unrealized": -0.89,
      "wins": 0
     },
     "joseph00677": {
-     "buys": 6,
-     "closed": 6,
-     "realized": -41.38,
+     "buys": 4,
+     "closed": 4,
+     "realized": -43.8,
      "unrealized": 0.0,
-     "wins": 2
+     "wins": 1
     }
    },
-   "pnl": 71.53,
-   "positions_taken": 104,
-   "realized_pnl": 131.47,
-   "return_pct": 7.15,
+   "pnl": 50.32,
+   "positions_taken": 91,
+   "realized_pnl": 93.12,
+   "return_pct": 5.03,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4678,
-    "market ends too soon": 242,
-    "per-market cap or out of cash": 321,
-    "price ran away from leader's price": 27
+    "leader trade too small / extreme price / crypto up-down": 4616,
+    "market ends too soon": 261,
+    "per-market cap or out of cash": 332,
+    "price ran away from leader's price": 21
    },
-   "start_ts": 1792036625,
+   "start_ts": 1792123012,
    "starting_bankroll": 1000,
-   "wins": 32,
+   "wins": 27,
    "worst": [
     {
      "closed": 1792356666,
@@ -520,26 +520,12 @@
      "token": "82914188951367172748889970099274188856470123976613269922741757092429595203588"
     },
     {
-     "closed": 1792367342,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792325772,
-     "outcome": "Bills",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Spread: Bills (-5.5)",
-     "token": "94075593196789530084405345554962428181194102842583443422288415987241260296384"
-    },
-    {
      "closed": 1792382642,
      "cost": 60.196,
      "exit_price": 0.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792276091,
+     "opened": 1792337141,
      "outcome": "Cowboys",
      "pnl": -60.196,
      "proceeds": 0.0,
@@ -574,6 +560,20 @@
      "reason": "resolved",
      "title": "76ers vs. Knicks",
      "token": "66905676566583664317573429201649106692138646973280275919092487111590728334465"
+    },
+    {
+     "closed": 1792549028,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792529394,
+     "outcome": "Knicks",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Spread: Knicks (-4.5)",
+     "token": "114258347255488282455745774597540209087687781232281357706074888711909686154305"
     }
    ]
   }

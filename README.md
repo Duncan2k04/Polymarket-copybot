@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,257.03 | +$257.03 (+25.7%) | 118 (26/47) | +$311.14 (+31%) | +$33.97 (+3%) |
-| [Top 5 traders making $500k+/month](#top5) | $769.79 | -$230.21 (-23.0%) | 37 (0/6) | +$71.53 (+7%) | -$280.29 (-28%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,257.03 | +$257.03 (+25.7%) | 118 (26/47) | -$79.39 (-8%) | -$470.88 (-47%) |
+| [Top 5 traders making $500k+/month](#top5) | $769.79 | -$230.21 (-23.0%) | 37 (0/6) | +$50.32 (+5%) | -$333.64 (-33%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -73,51 +73,45 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 22 Oct 2026 03:44 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 23 Oct 2026 03:44 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $1,311.14 | **+$311.14 (+31.1%)** | 217 | 77 / 80 |
-| 14 days ago | $1,000.00 | $1,033.97 | **+$33.97 (+3.4%)** | 275 | 113 / 112 |
+| 7 days ago | $1,000.00 | $920.61 | **-$79.39 (-7.9%)** | 181 | 58 / 72 |
+| 14 days ago | $1,000.00 | $529.12 | **-$470.88 (-47.1%)** | 276 | 119 / 129 |
 
 ![backtest](data/backtest_wide_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
-| ArielFilipino | 11 | +$124.36 |
-| EdZachary | 5 | +$90.64 |
-| dsasdaas | 16 | +$89.09 |
-| Wiretransferxyz | 17 | +$69.74 |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | 16 | +$60.27 |
-| PEYZ-BIGGEST-FAN | 9 | +$34.56 |
-| Mooseborzoiii | 2 | +$31.16 |
-| yabanci | 2 | +$30.88 |
+| para-Vision | 25 | +$185.83 |
+| ic4cream | 17 | +$103.79 |
+| ArielFilipino | 13 | +$88.75 |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | 29 | +$58.98 |
 | Jokerxing7 | 1 | +$26.86 |
-| 123987456 | 3 | +$24.11 |
-| theowalcott | 1 | +$20.20 |
-| zerone777 | 2 | +$17.37 |
-| 0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357 | 1 | +$16.50 |
+| Wiretransferxyz | 13 | +$23.01 |
+| lfg100k | 9 | +$20.51 |
+| yabanci | 2 | +$20.20 |
 | pikachu2508 | 1 | +$9.07 |
-| VerilyWinningly | 8 | +$6.41 |
-| dromedaryy | 1 | +$3.35 |
-| ic4cream | 11 | +$2.37 |
-| paddaa | 12 | -$0.39 |
-| forgotmydinner | 1 | -$0.92 |
-| AJSV | 3 | -$2.90 |
-| SpringlyFawl | 2 | -$2.91 |
-| donthackme | 1 | -$6.45 |
-| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | 1 | -$12.36 |
-| rabbitfoot1 | 4 | -$16.21 |
-| KaneAnalytics | 1 | -$20.20 |
-| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 16 | -$30.12 |
-| Tokor | 33 | -$42.57 |
-| Dragon-Evolution | 3 | -$43.01 |
-| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 28 | -$44.62 |
-| ColdBlooded | 20 | -$51.94 |
-| para-Vision | 12 | -$56.28 |
-| lfg100k | 8 | -$64.95 |
-| Sunshine.Smile | 7 | -$101.43 |
-| getbipped | 16 | -$125.70 |
+| aenews2 | 4 | +$0.76 |
+| paddaa | 2 | -$1.77 |
+| SpringlyFawl | 2 | -$2.70 |
+| VerilyWinningly | 6 | -$3.80 |
+| PEYZ-BIGGEST-FAN | 11 | -$11.93 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 13 | -$12.43 |
+| robustmst | 1 | -$12.92 |
+| 0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357 | 1 | -$20.20 |
+| 0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900 | 1 | -$20.20 |
+| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 18 | -$22.57 |
+| 123987456 | 8 | -$23.11 |
+| ColdBlooded | 19 | -$33.50 |
+| KaneAnalytics | 1 | -$40.40 |
+| rabbitfoot1 | 6 | -$42.98 |
+| getbipped | 9 | -$73.20 |
+| Tokor | 20 | -$76.96 |
+| Dragon-Evolution | 6 | -$124.91 |
+| Sunshine.Smile | 17 | -$209.79 |
+| dsasdaas | 21 | -$275.29 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
@@ -159,22 +153,22 @@ _Last calculated 22 Oct 2026 03:44 UTC. Copies each trade 20 min late, at a wors
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 22 Oct 2026 03:57 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 23 Oct 2026 03:56 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $1,071.53 | **+$71.53 (+7.2%)** | 104 | 32 / 39 |
-| 14 days ago | $1,000.00 | $719.71 | **-$280.29 (-28.0%)** | 126 | 46 / 58 |
+| 7 days ago | $1,000.00 | $1,050.32 | **+$50.32 (+5.0%)** | 91 | 27 / 32 |
+| 14 days ago | $1,000.00 | $666.36 | **-$333.64 (-33.4%)** | 127 | 47 / 60 |
 
 ![backtest](data/backtest_top5_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
-| 0x361b16e3ddfe1d415d41008daac2631d94ab74fe | 39 | +$55.83 |
+| RichieRicher | 40 | +$35.63 |
 | Diabolical-Prize | 38 | +$0.66 |
-| e46m3 | 15 | -$34.10 |
+| e46m3 | 16 | -$18.18 |
 | joseph00677 | 8 | -$81.78 |
-| BreakTheBank | 26 | -$220.90 |
+| BreakTheBank | 25 | -$269.97 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
