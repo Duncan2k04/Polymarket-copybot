@@ -190,3 +190,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-23 17:10,BUY,omnibus-076daa,Will Albacete Balompié win on 2026-10-25?,No,0.582,0.58,26.77,15.53,,leader spent $160
 2026-10-23 17:46,SELL,paddaa,"NATO x Russia military clash by November 30, 2026?",No,0.75,0.74,13.67,10.01,0.21,copied leader exit
 2026-10-23 17:46,BUY,balthazar,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,Yes,0.414,0.41,24.18,9.91,,leader spent $128
+2026-10-23 18:56,RESOLVED,omnibus-076daa,W100 Wrexham: Marina Bassols Ribera vs Jodie Anna Burrage,Jodie Anna Burrage,,1.0,35.09,35.09,14.89,won
