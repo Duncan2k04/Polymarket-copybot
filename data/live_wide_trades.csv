@@ -175,3 +175,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-23 02:20,RESOLVED,BreakTheBank,Cavaliers vs. 76ers,76ers,,1.0,35.09,35.09,14.89,won
 2026-10-23 03:00,BUY,omnibus-076daa,W15 Singapore: Alexandra Malova vs Thasaporn Naklo,Thasaporn Naklo,0.612,0.41,48.78,20,,leader spent $168
 2026-10-23 03:00,BUY,qwen4.1.fund,Will the highest temperature in Shanghai be 23°C on October 23?,No,0.93,0.94,15.68,14.74,,leader spent $161
+2026-10-23 04:38,RESOLVED,BreakTheBank,Spread: Thunder (-9.5),Thunder,,1.0,43.48,43.48,23.28,won
