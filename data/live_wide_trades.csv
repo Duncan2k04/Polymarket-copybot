@@ -176,3 +176,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-23 03:00,BUY,omnibus-076daa,W15 Singapore: Alexandra Malova vs Thasaporn Naklo,Thasaporn Naklo,0.612,0.41,48.78,20,,leader spent $168
 2026-10-23 03:00,BUY,qwen4.1.fund,Will the highest temperature in Shanghai be 23°C on October 23?,No,0.93,0.94,15.68,14.74,,leader spent $161
 2026-10-23 04:38,RESOLVED,BreakTheBank,Spread: Thunder (-9.5),Thunder,,1.0,43.48,43.48,23.28,won
+2026-10-23 05:10,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?,No,0.799,0.78,25.64,20,,leader spent $123
+2026-10-23 05:10,BUY,takeormake,Mavericks vs. Pacers: O/U 236.5,Over,0.53,0.54,37.04,20,,leader spent $331
+2026-10-23 05:10,BUY,donthackme,Will Moonshot have the best Chinese AI model at the end of October 2026?,No,0.802,0.8,3.81,3.05,,leader spent $197
