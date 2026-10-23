@@ -179,3 +179,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-23 05:10,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?,No,0.799,0.78,25.64,20,,leader spent $123
 2026-10-23 05:10,BUY,takeormake,Mavericks vs. Pacers: O/U 236.5,Over,0.53,0.54,37.04,20,,leader spent $331
 2026-10-23 05:10,BUY,donthackme,Will Moonshot have the best Chinese AI model at the end of October 2026?,No,0.802,0.8,3.81,3.05,,leader spent $197
+2026-10-23 07:05,RESOLVED,omnibus-076daa,W15 Singapore: Alexandra Malova vs Thasaporn Naklo,Thasaporn Naklo,,0.0,48.78,0.0,-20.2,lost
