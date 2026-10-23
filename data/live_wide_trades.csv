@@ -191,3 +191,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-23 17:46,SELL,paddaa,"NATO x Russia military clash by November 30, 2026?",No,0.75,0.74,13.67,10.01,0.21,copied leader exit
 2026-10-23 17:46,BUY,balthazar,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,Yes,0.414,0.41,24.18,9.91,,leader spent $128
 2026-10-23 18:56,RESOLVED,omnibus-076daa,W100 Wrexham: Marina Bassols Ribera vs Jodie Anna Burrage,Jodie Anna Burrage,,1.0,35.09,35.09,14.89,won
+2026-10-23 19:26,BUY,donthackme,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.68,0.69,28.99,20,,leader spent $272
+2026-10-23 19:26,BUY,donthackme,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.945,0.942,15.65,14.74,,leader spent $191
