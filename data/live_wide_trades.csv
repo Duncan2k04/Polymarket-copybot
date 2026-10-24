@@ -199,3 +199,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-24 15:02,RESOLVED,Tokor,"Will Bitcoin dip to $80,000 in October?",Yes,,1.0,27.4,27.4,7.2,won
 2026-10-24 15:31,BUY,BreakTheBank,Will the Republican Party hold exactly 51 Senate seats after the 2026 midterm elections?,No,0.9,0.92,21.74,20,,leader spent $178
 2026-10-24 15:31,BUY,PEYZ-BIGGEST-FAN,Tennessee vs. South Carolina,South Carolina,0.557,0.55,12.96,7.13,,"leader spent $22,297"
+2026-10-24 17:02,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Sergio Massa win the 2027 Argentina presidential election?,No,0.903,0.866,20.75,17.79,-1.65,copied leader exit
+2026-10-24 17:02,BUY,VerilyWinningly,Will Dune: Messiah get the most Oscar nominations at the 99th Academy Awards?,No,0.848,0.845,20.85,17.62,,leader spent $331
+2026-10-24 17:02,SELL,VerilyWinningly,Will Dune: Messiah get the most Oscar nominations at the 99th Academy Awards?,No,0.835,0.829,20.85,17.11,-0.68,copied leader exit
+2026-10-24 17:02,BUY,PEYZ-BIGGEST-FAN,Spread: Cavaliers (-11.5),Nets,0.52,0.53,31.96,16.94,,"leader spent $1,143"
