@@ -212,3 +212,13 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-24 20:30,BUY,takeormake,LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage,LYON,0.415,0.17,117.65,20,,leader spent $692
 2026-10-24 20:30,BUY,Lucerys,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.79,0.795,20.75,16.5,,leader spent $166
 2026-10-24 22:43,RESOLVED,takeormake,LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage,LYON,,1.0,117.65,117.65,97.45,won
+2026-10-24 23:06,BUY,paddaa,"Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the U",No,0.56,0.58,34.48,20,,leader spent $504
+2026-10-24 23:06,BUY,0x448861155279dbf833d041b963e3ac854599e319,Spread: Utah (-6.5),Utah,0.52,0.53,37.74,20,,"leader spent $1,046"
+2026-10-24 23:06,BUY,HVAB,Fort Worth: Jenson Brooksby vs Gabriel Debru,Jenson Brooksby,0.78,0.46,43.48,20,,"leader spent $4,983"
+2026-10-24 23:06,BUY,SpringlyFawl,Will Gen.G win Worlds 2026?,No,0.64,0.64,31.25,20,,leader spent $180
+2026-10-24 23:06,SELL,HVAB,Fort Worth: Jenson Brooksby vs Gabriel Debru,Jenson Brooksby,0.437,0.436,43.48,18.79,-1.41,copied leader exit
+2026-10-24 23:06,SELL,SpringlyFawl,Will Gen.G win Worlds 2026?,No,0.639,0.63,31.25,19.49,-0.71,copied leader exit
+2026-10-24 23:06,BUY,HVAB,Fort Worth: Jenson Brooksby vs Gabriel Debru,Gabriel Debru,0.553,0.562,35.58,20,,"leader spent $23,061"
+2026-10-24 23:06,BUY,SpringlyFawl,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.62,0.6,33.33,20,,leader spent $118
+2026-10-24 23:06,BUY,lfg100k,LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage,Bilibili Gaming,0.769,0.76,26.32,20,,"leader spent $3,935"
+2026-10-24 23:06,BUY,omnibus-076daa,LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage,T1,0.582,0.57,25.23,14.38,,leader spent $179
