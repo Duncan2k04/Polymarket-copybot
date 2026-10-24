@@ -24,20 +24,20 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792727812,
+ "generated": 1792814464,
  "leaders": [
   {
-   "all_time_pnl": 9464119.22,
-   "copyable_7d": 130,
-   "month_pnl": 7561295.9,
-   "month_vol": 62470667.38,
+   "all_time_pnl": 9648323.36,
+   "copyable_7d": 102,
+   "month_pnl": 7708042.37,
+   "month_vol": 70681484.46,
    "name": "BreakTheBank",
    "rank": "1",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "all_time_pnl": 6949617.18,
-   "copyable_7d": 9,
+   "copyable_7d": 7,
    "month_pnl": 7201192.82,
    "month_vol": 44111176.52,
    "name": "joseph00677",
@@ -45,28 +45,28 @@
    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
   },
   {
-   "all_time_pnl": 1673254.59,
-   "copyable_7d": 30,
-   "month_pnl": 3260547.96,
-   "month_vol": 43196416.44,
-   "name": "Diabolical-Prize",
-   "rank": "3",
-   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
-  },
-  {
-   "all_time_pnl": 999288.35,
-   "copyable_7d": 86,
-   "month_pnl": 3154570.26,
-   "month_vol": 2255947.35,
+   "all_time_pnl": 1027085.02,
+   "copyable_7d": 94,
+   "month_pnl": 3302734.39,
+   "month_vol": 2371245.64,
    "name": "e46m3",
-   "rank": "4",
+   "rank": "3",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 286054.41,
-   "copyable_7d": 74,
-   "month_pnl": 1252209.41,
-   "month_vol": 5961820.99,
+   "all_time_pnl": 1673254.59,
+   "copyable_7d": 9,
+   "month_pnl": 2851407.26,
+   "month_vol": 41989592.34,
+   "name": "Diabolical-Prize",
+   "rank": "4",
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "all_time_pnl": 289592.24,
+   "copyable_7d": 71,
+   "month_pnl": 1253821.97,
+   "month_vol": 5971931.07,
    "name": "RichieRicher",
    "rank": "10",
    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
@@ -146,90 +146,90 @@
      "token": "62813604754427508641245639139740674925348067927945159093643391364730231238161"
     }
    ],
-   "cash": 26.06,
-   "closed_positions": 107,
+   "cash": 0.0,
+   "closed_positions": 97,
    "curve": [
     [
-     1791518212,
+     1791604864,
      1000.0
     ],
     [
-     1791604612,
-     972.62
+     1791691264,
+     965.56
     ],
     [
-     1791691012,
-     938.18
+     1791777664,
+     852.38
     ],
     [
-     1791777412,
-     825.0
+     1791864064,
+     819.78
     ],
     [
-     1791863812,
-     792.4
+     1791950464,
+     735.74
     ],
     [
-     1791950212,
-     708.36
+     1792036864,
+     645.82
     ],
     [
-     1792036612,
-     618.44
+     1792123264,
+     652.94
     ],
     [
-     1792123012,
-     625.56
+     1792209664,
+     965.7
     ],
     [
-     1792209412,
-     938.32
+     1792296064,
+     1112.68
     ],
     [
-     1792295812,
-     1085.3
+     1792382464,
+     1129.49
     ],
     [
-     1792382212,
-     1056.71
+     1792468864,
+     1068.89
     ],
     [
-     1792468612,
-     1037.71
+     1792555264,
+     850.42
     ],
     [
-     1792555012,
-     766.11
+     1792641664,
+     743.3
     ],
     [
-     1792641412,
-     643.01
+     1792728064,
+     719.47
     ],
     [
-     1792727812,
-     666.36
+     1792814464,
+     738.31
     ]
    ],
    "days": 14,
-   "end_ts": 1792727812,
-   "final_equity": 666.36,
-   "losses": 60,
-   "open_positions": 20,
-   "open_value": 640.3,
+   "end_ts": 1792814464,
+   "final_equity": 738.31,
+   "losses": 56,
+   "open_positions": 25,
+   "open_value": 738.31,
    "per_leader": {
     "BreakTheBank": {
-     "buys": 25,
-     "closed": 20,
-     "realized": -228.05,
-     "unrealized": -41.92,
-     "wins": 8
+     "buys": 19,
+     "closed": 13,
+     "realized": -229.08,
+     "unrealized": -15.78,
+     "wins": 3
     },
     "Diabolical-Prize": {
-     "buys": 38,
-     "closed": 38,
-     "realized": 0.66,
+     "buys": 36,
+     "closed": 36,
+     "realized": 28.04,
      "unrealized": 0.0,
-     "wins": 14
+     "wins": 13
     },
     "RichieRicher": {
      "buys": 40,
@@ -239,10 +239,10 @@
      "wins": 23
     },
     "e46m3": {
-     "buys": 16,
-     "closed": 1,
-     "realized": -20.2,
-     "unrealized": 2.02,
+     "buys": 19,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": 1.27,
      "wins": 0
     },
     "joseph00677": {
@@ -253,34 +253,20 @@
      "wins": 2
     }
    },
-   "pnl": -333.64,
-   "positions_taken": 127,
-   "realized_pnl": -293.74,
-   "return_pct": -33.36,
+   "pnl": -261.69,
+   "positions_taken": 122,
+   "realized_pnl": -247.18,
+   "return_pct": -26.17,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4789,
-    "market ends too soon": 283,
-    "per-market cap or out of cash": 381,
-    "price ran away from leader's price": 61
+    "leader trade too small / extreme price / crypto up-down": 4768,
+    "market ends too soon": 244,
+    "per-market cap or out of cash": 403,
+    "price ran away from leader's price": 66
    },
-   "start_ts": 1791518212,
+   "start_ts": 1791604864,
    "starting_bankroll": 1000,
-   "wins": 47,
+   "wins": 41,
    "worst": [
-    {
-     "closed": 1791580724,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1791569975,
-     "outcome": "LGD Gaming",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Dota 2: LGD Gaming vs Aurora (BO3) - BLAST Slam Playoffs",
-     "token": "85034396298440633338171072666586351293899013855918229655300957719642111646700"
-    },
     {
      "closed": 1791633478,
      "cost": 60.196,
@@ -336,32 +322,32 @@
      "reason": "resolved",
      "title": "LoL: KT Rolster vs Team Vitality (BO5) - Demacia Cup Global Invitational Playoffs",
      "token": "30805550162306832510103159302957419049644091567091195765292908082336687429686"
+    },
+    {
+     "closed": 1791824702,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+     "leader_name": "Diabolical-Prize",
+     "opened": 1791763257,
+     "outcome": "JD Gaming",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+     "token": "10817555726764769333140491984428889286385580849565804860586285531556946198156"
     }
    ]
   },
   "7": {
    "best": [
     {
-     "closed": 1792198740,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1792175087,
-     "outcome": "FURIA Esports",
-     "pnl": 291.1926,
-     "proceeds": 351.3886,
-     "reason": "resolved",
-     "title": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
-     "token": "13864490261439877402782058454800294514135228899012388119905836367840432355391"
-    },
-    {
      "closed": 1792236602,
      "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
      "leader_name": "Diabolical-Prize",
-     "opened": 1792210163,
+     "opened": 1792211399,
      "outcome": "Team Vitality",
      "pnl": 117.7144,
      "proceeds": 177.9104,
@@ -370,117 +356,131 @@
      "token": "38725776711339163495106479361322692996264843388509719981628391206131107874952"
     },
     {
-     "closed": 1792357374,
+     "closed": 1792636360,
      "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792327077,
-     "outcome": "Steelers",
-     "pnl": 56.2858,
-     "proceeds": 116.4818,
+     "opened": 1792614579,
+     "outcome": "Hornets",
+     "pnl": 51.2059,
+     "proceeds": 111.4019,
      "reason": "resolved",
-     "title": "Spread: Steelers (-2.5)",
-     "token": "53248798886619335232352667333520040541793957903905874364194618120759372288331"
+     "title": "Hornets vs. Nets",
+     "token": "58802458597374928740225519735423162012398763515664846118442539672822667668833"
     },
     {
-     "closed": 1792200119,
+     "closed": 1792637589,
      "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-     "leader_name": "Diabolical-Prize",
-     "opened": 1792182594,
-     "outcome": "FURIA Esports",
-     "pnl": 51.5671,
-     "proceeds": 111.7631,
-     "reason": "resolved",
-     "title": "Game Handicap: C9 (-2.5) vs FURIA Esports (+2.5)",
-     "token": "36175510947853949367078806485953660845800544169370844412638833403605402729886"
-    },
-    {
-     "closed": 1792467561,
-     "cost": 40.4,
      "exit_price": 1.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792437434,
-     "outcome": "Under",
-     "pnl": 44.716,
-     "proceeds": 85.116,
+     "opened": 1792614923,
+     "outcome": "Grizzlies",
+     "pnl": 49.1618,
+     "proceeds": 109.3578,
      "reason": "resolved",
-     "title": "Commanders vs. 49ers: O/U 50.5",
-     "token": "33733071101799895733311675156003702691962446303972518728277170973264836817364"
+     "title": "Jazz vs. Grizzlies",
+     "token": "92026908821928990759307387761911364987540060356600925155085252262202735890787"
+    },
+    {
+     "closed": 1792532980,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+     "leader_name": "RichieRicher",
+     "opened": 1792510395,
+     "outcome": "Over",
+     "pnl": 44.0718,
+     "proceeds": 104.2678,
+     "reason": "resolved",
+     "title": "Manchester City FC vs. AEK: O/U 3.5",
+     "token": "18197622251802874452128604302016972429827732339331707042349134256516992393846"
+    },
+    {
+     "closed": 1792264130,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+     "leader_name": "RichieRicher",
+     "opened": 1792246832,
+     "outcome": "Over",
+     "pnl": 33.6623,
+     "proceeds": 93.8583,
+     "reason": "resolved",
+     "title": "Real Betis Balompi\u00e9 vs. FC Barcelona: O/U 3.5",
+     "token": "54402910696020561973455792197029712869845289974306316037718833446311400691073"
     }
    ],
-   "cash": 27.45,
-   "closed_positions": 59,
+   "cash": 0.0,
+   "closed_positions": 42,
    "curve": [
     [
-     1792123012,
+     1792209664,
      1000.0
     ],
     [
-     1792209412,
-     1316.68
+     1792296064,
+     1159.1
     ],
     [
-     1792295812,
-     1471.58
+     1792382464,
+     1175.91
     ],
     [
-     1792382212,
-     1442.99
+     1792468864,
+     1115.31
     ],
     [
-     1792468612,
-     1423.99
+     1792555264,
+     896.84
     ],
     [
-     1792555012,
-     1152.39
+     1792641664,
+     789.24
     ],
     [
-     1792641412,
-     1017.86
+     1792728064,
+     765.16
     ],
     [
-     1792727812,
-     1050.32
+     1792814464,
+     784.1
     ]
    ],
    "days": 7,
-   "end_ts": 1792727812,
-   "final_equity": 1050.32,
-   "losses": 32,
-   "open_positions": 32,
-   "open_value": 1022.87,
+   "end_ts": 1792814464,
+   "final_equity": 784.1,
+   "losses": 25,
+   "open_positions": 26,
+   "open_value": 784.1,
    "per_leader": {
     "BreakTheBank": {
-     "buys": 25,
-     "closed": 20,
-     "realized": -227.47,
-     "unrealized": -41.92,
-     "wins": 8
+     "buys": 19,
+     "closed": 13,
+     "realized": -229.08,
+     "unrealized": -13.57,
+     "wins": 3
     },
     "Diabolical-Prize": {
-     "buys": 7,
-     "closed": 7,
-     "realized": 406.89,
+     "buys": 1,
+     "closed": 1,
+     "realized": 117.71,
      "unrealized": 0.0,
-     "wins": 4
+     "wins": 1
     },
     "RichieRicher": {
-     "buys": 27,
-     "closed": 27,
-     "realized": -22.3,
+     "buys": 24,
+     "closed": 24,
+     "realized": -45.6,
      "unrealized": 0.0,
-     "wins": 14
+     "wins": 12
     },
     "e46m3": {
-     "buys": 28,
-     "closed": 1,
-     "realized": -20.2,
-     "unrealized": -0.89,
+     "buys": 20,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -1.57,
      "wins": 0
     },
     "joseph00677": {
@@ -491,62 +491,20 @@
      "wins": 1
     }
    },
-   "pnl": 50.32,
-   "positions_taken": 91,
-   "realized_pnl": 93.12,
-   "return_pct": 5.03,
+   "pnl": -215.9,
+   "positions_taken": 68,
+   "realized_pnl": -200.76,
+   "return_pct": -21.59,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4616,
-    "market ends too soon": 261,
-    "per-market cap or out of cash": 332,
-    "price ran away from leader's price": 21
+    "leader trade too small / extreme price / crypto up-down": 4587,
+    "market ends too soon": 219,
+    "per-market cap or out of cash": 367,
+    "price ran away from leader's price": 23
    },
-   "start_ts": 1792123012,
+   "start_ts": 1792209664,
    "starting_bankroll": 1000,
-   "wins": 27,
+   "wins": 17,
    "worst": [
-    {
-     "closed": 1792356666,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792337343,
-     "outcome": "Eagles",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Panthers vs. Eagles",
-     "token": "82914188951367172748889970099274188856470123976613269922741757092429595203588"
-    },
-    {
-     "closed": 1792382642,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792337141,
-     "outcome": "Cowboys",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Cowboys vs. Packers",
-     "token": "62216093420049586863764473589072732611021099987810862636177687263075853891357"
-    },
-    {
-     "closed": 1792533309,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792513055,
-     "outcome": "Celtics",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Celtics vs. Pistons",
-     "token": "67105986151420762389444558710598385187601372419417593599928887317008220174126"
-    },
     {
      "closed": 1792549028,
      "cost": 60.196,
@@ -567,13 +525,55 @@
      "exit_price": 0.0,
      "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
      "leader_name": "BreakTheBank",
-     "opened": 1792529394,
+     "opened": 1792530431,
      "outcome": "Knicks",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
      "title": "Spread: Knicks (-4.5)",
      "token": "114258347255488282455745774597540209087687781232281357706074888711909686154305"
+    },
+    {
+     "closed": 1792635127,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792598946,
+     "outcome": "Magic",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Hawks vs. Magic",
+     "token": "17467605151473494662545556567107818232983710767751217862985172203041132078695"
+    },
+    {
+     "closed": 1792636538,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+     "leader_name": "BreakTheBank",
+     "opened": 1792603418,
+     "outcome": "Heat",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Spread: Heat (-1.5)",
+     "token": "40490292086617581434681310190623681206252192577974139175751852160001943141024"
+    },
+    {
+     "closed": 1792255022,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+     "leader_name": "RichieRicher",
+     "opened": 1792218275,
+     "outcome": "Manchester City FC",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Spread: Manchester City FC (-1.5)",
+     "token": "44766866263808723743069582511050023894124124166333664216950725003247502638896"
     }
    ]
   }
