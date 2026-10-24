@@ -211,3 +211,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-24 20:30,SELL,Lucerys,Will voter turnout in the second round of the 2026 Brazil presidential election be 78-80%?,No,0.43,0.432,46.51,19.9,-0.3,copied leader exit
 2026-10-24 20:30,BUY,takeormake,LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage,LYON,0.415,0.17,117.65,20,,leader spent $692
 2026-10-24 20:30,BUY,Lucerys,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.79,0.795,20.75,16.5,,leader spent $166
+2026-10-24 22:43,RESOLVED,takeormake,LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage,LYON,,1.0,117.65,117.65,97.45,won
