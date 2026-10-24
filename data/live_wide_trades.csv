@@ -207,3 +207,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-24 18:56,BUY,ic4cream,Spread: Spurs (-13.5),Mavericks,0.47,0.47,42.55,20,,leader spent $198
 2026-10-24 18:56,BUY,THEHIGHLIFE,LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage,CTBC Flying Oyster,0.211,0.001,1977.78,1.98,,"leader spent $4,524"
 2026-10-24 20:03,SELL,THEHIGHLIFE,LoL: CTBC Flying Oyster vs Movistar KOI (BO1) - Worlds Group Stage,CTBC Flying Oyster,0.001,0.001,1977.78,0.98,-1.02,copied leader exit
+2026-10-24 20:30,SELL,Lucerys,Will voter turnout in the second round of the 2026 Brazil presidential election be 76-78%?,No,0.67,0.67,24.1,15.98,-4.22,copied leader exit
+2026-10-24 20:30,SELL,Lucerys,Will voter turnout in the second round of the 2026 Brazil presidential election be 78-80%?,No,0.43,0.432,46.51,19.9,-0.3,copied leader exit
+2026-10-24 20:30,BUY,takeormake,LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage,LYON,0.415,0.17,117.65,20,,leader spent $692
+2026-10-24 20:30,BUY,Lucerys,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.79,0.795,20.75,16.5,,leader spent $166
