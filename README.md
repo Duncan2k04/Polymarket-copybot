@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,228.11 | +$228.11 (+22.8%) | 128 (32/57) | -$396.36 (-40%) | -$232.62 (-23%) |
-| [Top 5 traders making $500k+/month](#top5) | $777.87 | -$222.13 (-22.2%) | 37 (0/6) | -$215.90 (-22%) | -$261.69 (-26%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,227.79 | +$227.79 (+22.8%) | 128 (32/57) | -$396.36 (-40%) | -$232.62 (-23%) |
+| [Top 5 traders making $500k+/month](#top5) | $775.98 | -$224.02 (-22.4%) | 37 (0/6) | -$215.90 (-22%) | -$261.69 (-26%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -16,12 +16,12 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | | |
 |---|---|
-| **Account value** | **$1,228.11** (started with $1,000.00) |
-| **Profit / loss** | **+$228.11 (+22.8%)** |
+| **Account value** | **$1,227.79** (started with $1,000.00) |
+| **Profit / loss** | **+$227.79 (+22.8%)** |
 | Running for | 3.5 days (since 20 Oct 2026 18:24 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 24 Oct 2026 06:01 UTC ✅ |
-| Cash / in open bets | $0.00 / $1,228.11 |
+| Last update | 24 Oct 2026 06:38 UTC ✅ |
+| Cash / in open bets | $0.00 / $1,227.79 |
 | Bets opened | 128 (71 still open) |
 | Finished bets won / lost | 32 / 25 (56% win rate) |
 
@@ -39,22 +39,22 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 | 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 2 | 2 (2) | +$29.80 |
 | para-Vision | 1 | 1 (1) | +$28.58 |
 | ArielFilipino | 1 | 1 (1) | +$20.62 |
-| donthackme | 10 | 2 (2) | +$13.12 |
-| Lucerys | 6 | 0 (0) | +$6.28 |
-| balthazar | 7 | 1 (1) | +$4.22 |
+| donthackme | 10 | 2 (2) | +$13.13 |
+| Lucerys | 6 | 0 (0) | +$3.99 |
+| balthazar | 7 | 1 (1) | +$3.61 |
 | VerilyWinningly | 1 | 1 (1) | +$1.97 |
 | Tokor | 1 | 0 (0) | +$1.85 |
+| Bigggggggg | 2 | 1 (1) | +$0.48 |
 | paddaa | 1 | 1 (1) | +$0.21 |
-| Bigggggggg | 2 | 1 (1) | +$0.18 |
 | 0x448861155279dbf833d041b963e3ac854599e319 | 1 | 0 (0) | -$0.43 |
 | flawfence | 1 | 1 (0) | -$0.72 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 4 | 2 (0) | -$2.56 |
 | SpringlyFawl | 3 | 3 (0) | -$2.82 |
-| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 4 | 2 (0) | -$3.00 |
 | ic4cream | 2 | 0 (0) | -$4.16 |
-| e46m3 | 6 | 0 (0) | -$7.77 |
-| zerone777 | 8 | 0 (0) | -$10.11 |
+| e46m3 | 6 | 0 (0) | -$7.75 |
+| zerone777 | 8 | 0 (0) | -$9.48 |
 | wan123 | 2 | 0 (0) | -$10.54 |
-| alex20011 | 14 | 0 (0) | -$15.80 |
+| alex20011 | 14 | 0 (0) | -$14.64 |
 | Wiretransferxyz | 1 | 1 (0) | -$20.20 |
 | takeormake | 4 | 4 (2) | -$27.13 |
 | PEYZ-BIGGEST-FAN | 2 | 2 (1) | -$28.20 |
@@ -64,9 +64,9 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 66525
-- per-market cap or out of cash: 6733
-- market ends too soon: 2803
+- leader trade too small / extreme price / crypto up-down: 66914
+- per-market cap or out of cash: 6771
+- market ends too soon: 2804
 - market already closed: 52
 - price ran away from leader's price: 19
 - order book too thin: 3
@@ -126,12 +126,12 @@ _Last calculated 24 Oct 2026 03:43 UTC. Copies each trade 20 min late, at a wors
 
 | | |
 |---|---|
-| **Account value** | **$777.87** (started with $1,000.00) |
-| **Profit / loss** | **-$222.13 (-22.2%)** |
+| **Account value** | **$775.98** (started with $1,000.00) |
+| **Profit / loss** | **-$224.02 (-22.4%)** |
 | Running for | 3.5 days (since 20 Oct 2026 18:32 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 24 Oct 2026 06:02 UTC ✅ |
-| Cash / in open bets | $0.00 / $777.87 |
+| Last update | 24 Oct 2026 06:38 UTC ✅ |
+| Cash / in open bets | $0.00 / $775.98 |
 | Bets opened | 37 (31 still open) |
 | Finished bets won / lost | 0 / 6 (0% win rate) |
 
@@ -141,15 +141,15 @@ _Last calculated 24 Oct 2026 03:43 UTC. Copies each trade 20 min late, at a wors
 
 | Trader | Bets copied | Finished (won) | Profit/loss so far |
 |---|---:|---:|---:|
-| e46m3 | 29 | 2 (0) | -$73.57 |
-| BreakTheBank | 8 | 4 (0) | -$148.56 |
+| e46m3 | 29 | 2 (0) | -$74.35 |
+| BreakTheBank | 8 | 4 (0) | -$149.67 |
 
 **Currently copying 5 traders** (re-picked every 7 days, last on 20 Oct 2026 18:32 UTC): [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Diabolical-Prize](https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb), [Kch-Temp](https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e)
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 8796
-- per-market cap or out of cash: 602
+- leader trade too small / extreme price / crypto up-down: 8800
+- per-market cap or out of cash: 603
 - market ends too soon: 239
 - price ran away from leader's price: 1
 
