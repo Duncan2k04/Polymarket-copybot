@@ -251,3 +251,8 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 20:05,BUY,balthazar,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,No,0.752,0.76,2.72,2.07,,leader spent $902
 2026-10-25 20:29,RESOLVED,ic4cream,Spread: Ravens (-1.5),Ravens,,0.0,40.0,0.0,-20.2,lost
 2026-10-25 20:29,RESOLVED,ic4cream,Spread: Bengals (-1.5),Ravens,,0.0,35.71,0.0,-20.2,lost
+2026-10-25 22:31,SELL,balthazar,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,No,0.341,0.248,2.72,0.67,-1.42,copied leader exit
+2026-10-25 22:31,SELL,balthazar,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.945,0.937,30.3,28.1,7.9,copied leader exit
+2026-10-25 22:31,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,Yes,0.25,0.248,80.65,20,,leader spent $929
+2026-10-25 22:31,BUY,alwaysfade,Grizzlies vs. Kings,Kings,0.4,0.41,20.7,8.49,,leader spent $504
+2026-10-25 22:31,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,Yes,0.26,0.2,80.65,15.97,-4.23,copied leader exit
