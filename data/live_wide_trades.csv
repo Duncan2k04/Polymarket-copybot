@@ -242,3 +242,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 03:24,BUY,donthackme,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.62,0.62,32.26,20,,leader spent $248
 2026-10-25 03:24,BUY,omnibus-076daa,LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage,G2 Esports,0.552,0.54,21.57,11.65,,leader spent $103
 2026-10-25 06:39,RESOLVED,0x448861155279dbf833d041b963e3ac854599e319,Spread: Utah (-6.5),Utah,,1.0,37.74,37.74,17.54,won
+2026-10-25 07:19,BUY,omnibus-076daa,CA Estudiantes vs. Club Atletico Los Andes: O/U 1.5,Over,0.602,0.61,32.79,20,,leader spent $120
+2026-10-25 07:19,BUY,omnibus-076daa,Will CA Temperley win on 2026-10-25?,No,0.562,0.55,31.57,17.36,,leader spent $193
