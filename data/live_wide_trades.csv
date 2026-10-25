@@ -226,3 +226,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-24 23:28,BUY,PiEDawg,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.844,0.837,21.29,17.82,,leader spent $220
 2026-10-24 23:49,SELL,HVAB,Fort Worth: Jenson Brooksby vs Gabriel Debru,Gabriel Debru,0.261,0.07,35.58,2.47,-17.73,copied leader exit
 2026-10-24 23:49,BUY,omnibus-076daa,LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage,Bilibili Gaming,0.769,0.76,3.21,2.44,,leader spent $102
+2026-10-25 00:41,SELL,PiEDawg,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.814,0.819,21.29,17.26,-0.74,copied leader exit
+2026-10-25 00:41,RESOLVED,omnibus-076daa,Will SC Internacional win on 2026-10-24?,No,,0.0,39.22,0.0,-20.2,lost
+2026-10-25 00:41,RESOLVED,PEYZ-BIGGEST-FAN,Tennessee vs. South Carolina,South Carolina,,1.0,12.96,12.96,5.76,won
