@@ -245,3 +245,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 07:19,BUY,omnibus-076daa,CA Estudiantes vs. Club Atletico Los Andes: O/U 1.5,Over,0.602,0.61,32.79,20,,leader spent $120
 2026-10-25 07:19,BUY,omnibus-076daa,Will CA Temperley win on 2026-10-25?,No,0.562,0.55,31.57,17.36,,leader spent $193
 2026-10-25 19:21,RESOLVED,omnibus-076daa,Will Albacete Balompié win on 2026-10-25?,No,,0.0,26.77,0.0,-15.68,lost
+2026-10-25 19:49,RESOLVED,omnibus-076daa,LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage,G2 Esports,,0.0,21.57,0.0,-11.76,lost
