@@ -256,3 +256,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 22:31,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,Yes,0.25,0.248,80.65,20,,leader spent $929
 2026-10-25 22:31,BUY,alwaysfade,Grizzlies vs. Kings,Kings,0.4,0.41,20.7,8.49,,leader spent $504
 2026-10-25 22:31,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,Yes,0.26,0.2,80.65,15.97,-4.23,copied leader exit
+2026-10-25 22:57,BUY,balthazar,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,0.221,0.223,70.83,15.81,,leader spent $221
+2026-10-25 22:57,SELL,balthazar,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,0.3,0.22,70.83,15.43,-0.54,copied leader exit
+2026-10-25 22:57,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,Yes,0.115,0.14,109.17,15.27,,leader spent $105
+2026-10-25 22:57,RESOLVED,omnibus-076daa,CA Estudiantes vs. Club Atletico Los Andes: O/U 1.5,Over,,1.0,32.79,32.79,12.59,won
