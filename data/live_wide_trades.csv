@@ -229,3 +229,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 00:41,SELL,PiEDawg,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.814,0.819,21.29,17.26,-0.74,copied leader exit
 2026-10-25 00:41,RESOLVED,omnibus-076daa,Will SC Internacional win on 2026-10-24?,No,,0.0,39.22,0.0,-20.2,lost
 2026-10-25 00:41,RESOLVED,PEYZ-BIGGEST-FAN,Tennessee vs. South Carolina,South Carolina,,1.0,12.96,12.96,5.76,won
+2026-10-25 01:19,BUY,balthazar,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,0.67,0.66,30.3,20,,leader spent $158
+2026-10-25 01:19,BUY,donthackme,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,0.86,0.85,11.67,9.92,,leader spent $818
+2026-10-25 01:19,RESOLVED,omnibus-076daa,LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage,T1,,0.0,25.23,0.0,-14.52,lost
