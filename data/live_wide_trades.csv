@@ -246,3 +246,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 07:19,BUY,omnibus-076daa,Will CA Temperley win on 2026-10-25?,No,0.562,0.55,31.57,17.36,,leader spent $193
 2026-10-25 19:21,RESOLVED,omnibus-076daa,Will Albacete Balompié win on 2026-10-25?,No,,0.0,26.77,0.0,-15.68,lost
 2026-10-25 19:49,RESOLVED,omnibus-076daa,LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage,G2 Esports,,0.0,21.57,0.0,-11.76,lost
+2026-10-25 20:05,SELL,paddaa,"Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the U",No,0.665,0.653,34.48,22.29,2.09,copied leader exit
+2026-10-25 20:05,BUY,e46m3,Will Andrey Gyurov win the most votes in the first round of the 2026 Bulgaria presidential,No,0.939,0.936,21.37,20,,leader spent $437
+2026-10-25 20:05,BUY,balthazar,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,No,0.752,0.76,2.72,2.07,,leader spent $902
