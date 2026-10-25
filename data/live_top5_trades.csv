@@ -56,3 +56,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-21 08:20,BUY,e46m3,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,0.943,0.947,12.76,12.08,,leader spent $126
 2026-10-22 03:21,RESOLVED,e46m3,Golden State Valkyries vs. Atlanta Dream,Golden State Valkyries,,0.0,46.51,0.0,-20.2,lost
 2026-10-22 03:21,RESOLVED,e46m3,Golden State Valkyries vs. Atlanta Dream,Golden State Valkyries,,0.0,45.45,0.0,-20.2,lost
+2026-10-25 07:54,RESOLVED,e46m3,Will NDP win the most seats in the 2026 British Columbia general election?,No,,1.0,22.22,22.22,2.02,won
