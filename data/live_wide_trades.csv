@@ -319,3 +319,10 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 11:05,RESOLVED,Wiretransferxyz,Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5),TheMongolz,,0.0,37.04,0.0,-20.2,lost
 2026-10-26 11:45,RESOLVED,Mooseborzoiii,Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage,Nemiga,,0.0,68.97,0.0,-20.2,lost
 2026-10-26 14:07,RESOLVED,omnibus-076daa,W75 Poitiers: Margaux Maquet vs Diana Marcinkevica,Margaux Maquet,,1.0,24.69,24.69,4.49,won
+2026-10-26 15:39,SELL,balthazar,Will Lamine Yamal win the 2026 Ballon d'Or?,No,0.934,0.933,24.66,22.78,2.58,copied leader exit
+2026-10-26 15:39,BUY,zerone777,Will there be a Hormuz agreement and the Democrats win the Senate?,No,0.948,0.948,20.68,19.6,,leader spent $458
+2026-10-26 15:39,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Lamine Yamal win the 2026 Ballon d'Or?,No,0.924,0.94,21.28,20,,"leader spent $1,386"
+2026-10-26 15:39,BUY,omnibus-076daa,Sestao River Club vs. RCD Espanyol de Barcelona: O/U 2.5,Over,0.592,0.58,12.76,7.4,,leader spent $133
+2026-10-26 15:39,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Lamine Yamal win the 2026 Ballon d'Or?,No,0.936,0.933,21.28,19.65,-0.55,copied leader exit
+2026-10-26 15:39,BUY,Lucerys,Will Lamine Yamal win the 2026 Ballon d'Or?,No,0.932,0.938,20.74,19.46,,leader spent $963
+2026-10-26 15:39,RESOLVED,e46m3,Will Andrey Gyurov win the most votes in the first round of the 2026 Bulgaria presidential,No,,1.0,21.37,21.37,1.17,won
