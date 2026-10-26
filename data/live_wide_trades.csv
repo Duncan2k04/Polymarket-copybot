@@ -277,3 +277,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 04:07,BUY,balthazar,"Will there be no Hormuz agreement by October 23 or oil at least $80, and the Democrats win",Yes,0.648,0.666,28.58,19.03,,leader spent $318
 2026-10-26 04:07,RESOLVED,takeormake,Chiefs vs. Seahawks,Chiefs,,0.0,29.67,0.0,-12.59,lost
 2026-10-26 04:07,RESOLVED,alwaysfade,Grizzlies vs. Kings,Kings,,0.0,20.7,0.0,-8.57,lost
+2026-10-26 05:14,RESOLVED,donthackme,Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential el,No,,1.0,6.8,6.8,4.74,won
+2026-10-26 05:14,RESOLVED,Lucerys,Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential el,No,,1.0,25.64,25.64,5.44,won
+2026-10-26 05:14,RESOLVED,alex20011,Will Lula win the most votes in the second round of the Brazil presidential election from ,No,,0.0,28.17,0.0,-20.2,lost
