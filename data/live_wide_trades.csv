@@ -272,3 +272,8 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 03:23,RESOLVED,donthackme,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,,1.0,28.99,28.99,8.79,won
 2026-10-26 03:23,RESOLVED,Lucerys,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,,1.0,24.04,24.04,8.5,won
 2026-10-26 03:23,RESOLVED,alex20011,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,,1.0,6.52,6.52,2.3,won
+2026-10-26 04:07,BUY,qwen4.1.fund,Will the Democrats win the Tennessee governor race in 2026?,No,0.931,0.934,21.41,20,,leader spent $345
+2026-10-26 04:07,BUY,BreakTheBank,Will the Republican Party control the House after the 2026 Midterm elections?,Yes,0.07,0.09,222.22,20,,"leader spent $6,855"
+2026-10-26 04:07,BUY,balthazar,"Will there be no Hormuz agreement by October 23 or oil at least $80, and the Democrats win",Yes,0.648,0.666,28.58,19.03,,leader spent $318
+2026-10-26 04:07,RESOLVED,takeormake,Chiefs vs. Seahawks,Chiefs,,0.0,29.67,0.0,-12.59,lost
+2026-10-26 04:07,RESOLVED,alwaysfade,Grizzlies vs. Kings,Kings,,0.0,20.7,0.0,-8.57,lost
