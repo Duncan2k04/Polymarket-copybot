@@ -24,20 +24,20 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1792900917,
+ "generated": 1792987497,
  "leaders": [
   {
-   "all_time_pnl": 9097439.14,
-   "copyable_7d": 107,
-   "month_pnl": 7089532.08,
-   "month_vol": 73641514.42,
+   "all_time_pnl": 10840542.37,
+   "copyable_7d": 112,
+   "month_pnl": 8265841.28,
+   "month_vol": 87312734.61,
    "name": "BreakTheBank",
    "rank": "1",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "all_time_pnl": 5325561.67,
-   "copyable_7d": 10,
+   "copyable_7d": 6,
    "month_pnl": 5614973.94,
    "month_vol": 47146017.14,
    "name": "joseph00677",
@@ -45,92 +45,36 @@
    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
   },
   {
-   "all_time_pnl": 1067548.27,
-   "copyable_7d": 79,
-   "month_pnl": 3607215.81,
-   "month_vol": 2507937.91,
+   "all_time_pnl": 1164399.64,
+   "copyable_7d": 100,
+   "month_pnl": 4439804.59,
+   "month_vol": 2722579.58,
    "name": "e46m3",
    "rank": "3",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 747008.12,
-   "copyable_7d": 122,
-   "month_pnl": 1520501.06,
-   "month_vol": 5163109.97,
+   "all_time_pnl": 960787.22,
+   "copyable_7d": 98,
+   "month_pnl": 4277613.58,
+   "month_vol": 6057262.34,
    "name": "Bigggggggg",
-   "rank": "8",
+   "rank": "4",
    "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
   },
   {
-   "all_time_pnl": 3207173.92,
-   "copyable_7d": 37,
-   "month_pnl": 1276597.55,
-   "month_vol": 12456855.53,
-   "name": "Kch-Temp",
+   "all_time_pnl": 1301693.49,
+   "copyable_7d": 96,
+   "month_pnl": 1900241.73,
+   "month_vol": 6072000.89,
+   "name": "balthazar",
    "rank": "10",
-   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e"
+   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318"
   }
  ],
  "results": {
   "14": {
    "best": [
-    {
-     "closed": 1792684935,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792266074,
-     "outcome": "No",
-     "pnl": 59.7408,
-     "proceeds": 100.1408,
-     "reason": "resolved",
-     "title": "Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?",
-     "token": "74591572110746212338597092259420893380525117595259102762431407006828981117223"
-    },
-    {
-     "closed": 1791754831,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1791733168,
-     "outcome": "Giants",
-     "pnl": 34.3664,
-     "proceeds": 74.7664,
-     "reason": "resolved",
-     "title": "Spread: Commanders (-3.5)",
-     "token": "98977643118119624063178504120265507449201347893059162836411460709063235532674"
-    },
-    {
-     "closed": 1792467578,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792406993,
-     "outcome": "Under",
-     "pnl": 32.9945,
-     "proceeds": 73.3945,
-     "reason": "resolved",
-     "title": "Commanders vs. 49ers: O/U 52.5",
-     "token": "1974626067922523312646543542996001058383024338256565918689189278462464164762"
-    },
-    {
-     "closed": 1792034354,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1791986147,
-     "outcome": "Missouri State",
-     "pnl": 30.3965,
-     "proceeds": 70.7965,
-     "reason": "resolved",
-     "title": "Spread: Kennesaw State (-3.5)",
-     "token": "76299660122963220151136968527771969244867616478171521652701196025807982136107"
-    },
     {
      "closed": 1792090651,
      "cost": 60.196,
@@ -144,230 +88,6 @@
      "reason": "leader sold",
      "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
      "token": "95285260737263798444112551659703206447506000400989126316034606634999623167529"
-    }
-   ],
-   "cash": 0.0,
-   "closed_positions": 37,
-   "curve": [
-    [
-     1791691317,
-     1000.0
-    ],
-    [
-     1791777717,
-     1102.56
-    ],
-    [
-     1791864117,
-     1119.73
-    ],
-    [
-     1791950517,
-     1117.56
-    ],
-    [
-     1792036917,
-     1029.35
-    ],
-    [
-     1792123317,
-     1031.77
-    ],
-    [
-     1792209717,
-     1031.77
-    ],
-    [
-     1792296117,
-     1024.49
-    ],
-    [
-     1792382517,
-     999.45
-    ],
-    [
-     1792468917,
-     947.74
-    ],
-    [
-     1792555317,
-     935.59
-    ],
-    [
-     1792641717,
-     908.35
-    ],
-    [
-     1792728117,
-     894.9
-    ],
-    [
-     1792814517,
-     885.45
-    ],
-    [
-     1792900917,
-     899.8
-    ]
-   ],
-   "days": 14,
-   "end_ts": 1792900917,
-   "final_equity": 899.8,
-   "losses": 16,
-   "open_positions": 41,
-   "open_value": 899.8,
-   "per_leader": {
-    "Bigggggggg": {
-     "buys": 43,
-     "closed": 10,
-     "realized": -3.92,
-     "unrealized": -55.43,
-     "wins": 7
-    },
-    "BreakTheBank": {
-     "buys": 3,
-     "closed": 1,
-     "realized": -20.2,
-     "unrealized": -0.48,
-     "wins": 0
-    },
-    "Kch-Temp": {
-     "buys": 18,
-     "closed": 18,
-     "realized": 58.93,
-     "unrealized": 0.0,
-     "wins": 12
-    },
-    "e46m3": {
-     "buys": 6,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": 2.69,
-     "wins": 0
-    },
-    "joseph00677": {
-     "buys": 8,
-     "closed": 8,
-     "realized": -81.78,
-     "unrealized": 0.0,
-     "wins": 2
-    }
-   },
-   "pnl": -100.2,
-   "positions_taken": 78,
-   "realized_pnl": -46.97,
-   "return_pct": -10.02,
-   "skips": {
-    "leader trade too small / extreme price / crypto up-down": 5117,
-    "market ends too soon": 228,
-    "per-market cap or out of cash": 641,
-    "price ran away from leader's price": 111
-   },
-   "start_ts": 1791691317,
-   "starting_bankroll": 1000,
-   "wins": 21,
-   "worst": [
-    {
-     "closed": 1791962008,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1791921598,
-     "outcome": "Botic van de Zandschulp",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
-     "token": "8829948779588139289486687404644337030316668887593366568269848303232641234747"
-    },
-    {
-     "closed": 1792291353,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792259379,
-     "outcome": "Over",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Kent State vs. South Florida: O/U 45.5",
-     "token": "21329894004759297824911445879484489149426378323025610878335003597524549885530"
-    },
-    {
-     "closed": 1792432994,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792362797,
-     "outcome": "No",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Will Elon Musk post 40-64 tweets from October 17 to October 19, 2026?",
-     "token": "46560907656851995490060190131328153540127189769438970881808393025376844125182"
-    },
-    {
-     "closed": 1791739933,
-     "cost": 20.2,
-     "exit_price": 0.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1791719162,
-     "outcome": "Eagles",
-     "pnl": -20.2,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Eagles vs. Jaguars",
-     "token": "10186989480552148019256953810076645337654417739483524090679152288705629993128"
-    },
-    {
-     "closed": 1791983609,
-     "cost": 20.2,
-     "exit_price": 0.0,
-     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-     "leader_name": "joseph00677",
-     "opened": 1791964388,
-     "outcome": "KT Rolster",
-     "pnl": -20.2,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
-     "token": "109112036491996714677433752733054968853400297505032280250664724585068447151793"
-    }
-   ]
-  },
-  "7": {
-   "best": [
-    {
-     "closed": 1792467578,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792406993,
-     "outcome": "Under",
-     "pnl": 32.9945,
-     "proceeds": 73.3945,
-     "reason": "resolved",
-     "title": "Commanders vs. 49ers: O/U 52.5",
-     "token": "1974626067922523312646543542996001058383024338256565918689189278462464164762"
-    },
-    {
-     "closed": 1792684935,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792332488,
-     "outcome": "No",
-     "pnl": 27.9928,
-     "proceeds": 48.1928,
-     "reason": "resolved",
-     "title": "Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?",
-     "token": "74591572110746212338597092259420893380525117595259102762431407006828981117223"
     },
     {
      "closed": 1792335213,
@@ -384,168 +104,392 @@
      "token": "84518819913964152527507553069384722562110220338873347628048170033408286829113"
     },
     {
-     "closed": 1792861038,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792825052,
-     "outcome": "Yes",
-     "pnl": 8.9971,
-     "proceeds": 29.1971,
-     "reason": "resolved",
-     "title": "Will Arsenal FC win on 2026-10-24?",
-     "token": "114460869056021695126097471762228510096841940195417663873021964330022095891387"
-    },
-    {
-     "closed": 1792519308,
+     "closed": 1792758704,
      "cost": 20.2,
      "exit_price": 1.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1792420478,
+     "opened": 1792612706,
      "outcome": "No",
-     "pnl": 6.8088,
-     "proceeds": 27.0088,
+     "pnl": 4.6447,
+     "proceeds": 24.8447,
      "reason": "resolved",
-     "title": "Will Elon Musk post 360-379 tweets from October 13 to October 20, 2026?",
-     "token": "51011197525642534840925897937479118531408081793833882525063579320334156734338"
+     "title": "Will the Bank of Russia decrease the key rate after the October Meeting?",
+     "token": "31781379601311807133850360692097371653462734730366372276023555613586655340665"
+    },
+    {
+     "closed": 1792429382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415141,
+     "outcome": "Over",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Games Total: O/U 2.5",
+     "token": "2088275875006555239924033728362224404915446166948344111270008510746180459578"
+    },
+    {
+     "closed": 1792429382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415279,
+     "outcome": "Liquid",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs",
+     "token": "106037571641133193679988564641700279048616391627382571184544757809378127736587"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 18,
+   "closed_positions": 10,
    "curve": [
     [
-     1792296117,
+     1791777897,
      1000.0
     ],
     [
-     1792382517,
-     976.42
+     1791864297,
+     1000.0
     ],
     [
-     1792468917,
-     921.53
+     1791950697,
+     1000.0
     ],
     [
-     1792555317,
-     902.06
+     1792037097,
+     959.6
     ],
     [
-     1792641717,
-     871.88
+     1792123497,
+     962.02
     ],
     [
-     1792728117,
-     866.35
+     1792209897,
+     962.02
     ],
     [
-     1792814517,
-     864.69
+     1792296297,
+     962.02
     ],
     [
-     1792900917,
-     876.27
+     1792382697,
+     978.82
+    ],
+    [
+     1792469097,
+     918.22
+    ],
+    [
+     1792555497,
+     917.39
+    ],
+    [
+     1792641897,
+     861.46
+    ],
+    [
+     1792728297,
+     877.48
+    ],
+    [
+     1792814697,
+     872.82
+    ],
+    [
+     1792901097,
+     881.52
+    ],
+    [
+     1792987497,
+     1042.18
     ]
    ],
-   "days": 7,
-   "end_ts": 1792900917,
-   "final_equity": 876.27,
-   "losses": 8,
-   "open_positions": 40,
-   "open_value": 876.27,
+   "days": 14,
+   "end_ts": 1792987497,
+   "final_equity": 1042.18,
+   "losses": 7,
+   "open_positions": 34,
+   "open_value": 1042.18,
    "per_leader": {
     "Bigggggggg": {
-     "buys": 42,
-     "closed": 9,
-     "realized": -15.47,
-     "unrealized": -47.53,
-     "wins": 7
+     "buys": 35,
+     "closed": 2,
+     "realized": -35.76,
+     "unrealized": 160.67,
+     "wins": 1
     },
     "BreakTheBank": {
-     "buys": 3,
-     "closed": 1,
-     "realized": -20.2,
-     "unrealized": -0.48,
-     "wins": 0
-    },
-    "Kch-Temp": {
-     "buys": 4,
-     "closed": 4,
-     "realized": 1.59,
-     "unrealized": 0.0,
-     "wins": 2
-    },
-    "e46m3": {
-     "buys": 5,
+     "buys": 1,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": 2.16,
+     "unrealized": -0.95,
      "wins": 0
     },
     "joseph00677": {
-     "buys": 4,
-     "closed": 4,
-     "realized": -43.8,
+     "buys": 8,
+     "closed": 8,
+     "realized": -81.78,
      "unrealized": 0.0,
-     "wins": 1
+     "wins": 2
     }
    },
-   "pnl": -123.73,
-   "positions_taken": 58,
-   "realized_pnl": -77.87,
-   "return_pct": -12.37,
+   "pnl": 42.18,
+   "positions_taken": 44,
+   "realized_pnl": -117.53,
+   "return_pct": 4.22,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 5049,
-    "market ends too soon": 207,
-    "per-market cap or out of cash": 639,
-    "price ran away from leader's price": 108
+    "leader trade too small / extreme price / crypto up-down": 6037,
+    "market ends too soon": 222,
+    "per-market cap or out of cash": 869,
+    "price ran away from leader's price": 294
    },
-   "start_ts": 1792296117,
+   "start_ts": 1791777897,
    "starting_bankroll": 1000,
-   "wins": 10,
+   "wins": 3,
    "worst": [
     {
-     "closed": 1792432994,
+     "closed": 1792610386,
      "cost": 40.4,
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1792362797,
+     "opened": 1792578720,
      "outcome": "No",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Will Elon Musk post 40-64 tweets from October 17 to October 19, 2026?",
-     "token": "46560907656851995490060190131328153540127189769438970881808393025376844125182"
+     "title": "Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",
+     "token": "3539653509992832239325609444948671098702807521751111924584827646544696543846"
     },
     {
-     "closed": 1792354562,
+     "closed": 1791983609,
      "cost": 20.2,
      "exit_price": 0.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792330529,
-     "outcome": "Under",
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1791964388,
+     "outcome": "KT Rolster",
      "pnl": -20.2,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Bears vs. Falcons: O/U 52.5",
-     "token": "21008979940353256144503935544250653186353322542026332591388122526743916039985"
+     "title": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
+     "token": "109112036491996714677433752733054968853400297505032280250664724585068447151793"
     },
     {
-     "closed": 1792354806,
+     "closed": 1792035224,
      "cost": 20.2,
      "exit_price": 0.0,
-     "leader": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-     "leader_name": "Kch-Temp",
-     "opened": 1792328045,
-     "outcome": "Under",
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792013739,
+     "outcome": "Los Angeles Dodgers",
      "pnl": -20.2,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Titans vs. Colts: O/U 44.5",
-     "token": "72926272721443753114182470089845936489635136464712637631305377519156681079859"
+     "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+     "token": "104103054398571380121001824206616284884547588474384348064395533931287945987036"
+    },
+    {
+     "closed": 1792078919,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792042531,
+     "outcome": "HANJIN BRION",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+     "token": "38405726300880758892177407213770040336491517741996805164894710502887319362573"
+    },
+    {
+     "closed": 1792426382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415247,
+     "outcome": "Liquid",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: fnatic vs Liquid - Map 1 Winner",
+     "token": "82281679381923351567418199716152282452650502653440791174837823116755712490706"
+    }
+   ]
+  },
+  "7": {
+   "best": [
+    {
+     "closed": 1792758704,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792612706,
+     "outcome": "No",
+     "pnl": 4.6447,
+     "proceeds": 24.8447,
+     "reason": "resolved",
+     "title": "Will the Bank of Russia decrease the key rate after the October Meeting?",
+     "token": "31781379601311807133850360692097371653462734730366372276023555613586655340665"
+    },
+    {
+     "closed": 1792429382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415141,
+     "outcome": "Over",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Games Total: O/U 2.5",
+     "token": "2088275875006555239924033728362224404915446166948344111270008510746180459578"
+    },
+    {
+     "closed": 1792429382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415279,
+     "outcome": "Liquid",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs",
+     "token": "106037571641133193679988564641700279048616391627382571184544757809378127736587"
+    },
+    {
+     "closed": 1792426382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415247,
+     "outcome": "Liquid",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: fnatic vs Liquid - Map 1 Winner",
+     "token": "82281679381923351567418199716152282452650502653440791174837823116755712490706"
+    },
+    {
+     "closed": 1792610386,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792578720,
+     "outcome": "No",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",
+     "token": "3539653509992832239325609444948671098702807521751111924584827646544696543846"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 5,
+   "curve": [
+    [
+     1792382697,
+     1000.0
+    ],
+    [
+     1792469097,
+     939.4
+    ],
+    [
+     1792555497,
+     938.57
+    ],
+    [
+     1792641897,
+     882.01
+    ],
+    [
+     1792728297,
+     895.59
+    ],
+    [
+     1792814697,
+     888.96
+    ],
+    [
+     1792901097,
+     898.21
+    ],
+    [
+     1792987497,
+     1057.7
+    ]
+   ],
+   "days": 7,
+   "end_ts": 1792987497,
+   "final_equity": 1057.7,
+   "losses": 4,
+   "open_positions": 35,
+   "open_value": 1057.7,
+   "per_leader": {
+    "Bigggggggg": {
+     "buys": 36,
+     "closed": 2,
+     "realized": -35.76,
+     "unrealized": 155.01,
+     "wins": 1
+    },
+    "BreakTheBank": {
+     "buys": 1,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.95,
+     "wins": 0
+    },
+    "joseph00677": {
+     "buys": 3,
+     "closed": 3,
+     "realized": -60.6,
+     "unrealized": 0.0,
+     "wins": 0
+    }
+   },
+   "pnl": 57.7,
+   "positions_taken": 40,
+   "realized_pnl": -96.36,
+   "return_pct": 5.77,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 6034,
+    "market ends too soon": 214,
+    "per-market cap or out of cash": 867,
+    "price ran away from leader's price": 293
+   },
+   "start_ts": 1792382697,
+   "starting_bankroll": 1000,
+   "wins": 1,
+   "worst": [
+    {
+     "closed": 1792610386,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792578720,
+     "outcome": "No",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Elon Musk post 65-89 tweets from October 19 to October 21, 2026?",
+     "token": "3539653509992832239325609444948671098702807521751111924584827646544696543846"
     },
     {
      "closed": 1792426382,
@@ -574,6 +518,34 @@
      "reason": "resolved",
      "title": "Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs",
      "token": "106037571641133193679988564641700279048616391627382571184544757809378127736587"
+    },
+    {
+     "closed": 1792429382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415141,
+     "outcome": "Over",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Games Total: O/U 2.5",
+     "token": "2088275875006555239924033728362224404915446166948344111270008510746180459578"
+    },
+    {
+     "closed": 1792758704,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792612706,
+     "outcome": "No",
+     "pnl": 4.6447,
+     "proceeds": 24.8447,
+     "reason": "resolved",
+     "title": "Will the Bank of Russia decrease the key rate after the October Meeting?",
+     "token": "31781379601311807133850360692097371653462734730366372276023555613586655340665"
     }
    ]
   }
