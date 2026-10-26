@@ -68,3 +68,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 05:51,RESOLVED,e46m3,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,No,,1.0,3.71,3.71,1.69,won
 2026-10-26 06:27,BUY,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,0.29,0.29,12.66,3.67,,leader spent $174
 2026-10-26 09:45,RESOLVED,e46m3,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,,0.0,48.49,0.0,-40.4,lost
+2026-10-26 20:04,SELL,BreakTheBank,Will Mary Peltola win the Alaska Senate race in 2026?,No,0.27,0.27,76.92,20.56,0.36,copied leader exit
+2026-10-26 20:04,BUY,e46m3,Will the Republicans win the Nevada governor race in 2026?,No,0.69,0.69,28.99,20,,leader spent $345
