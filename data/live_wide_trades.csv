@@ -268,3 +268,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-25 23:42,BUY,0x448861155279dbf833d041b963e3ac854599e319,Will the Democrats win the Texas Senate race in 2026?,Yes,0.62,0.63,31.75,20,,leader spent $399
 2026-10-25 23:42,BUY,donthackme,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,No,0.94,0.94,11.97,11.26,,leader spent $376
 2026-10-25 23:42,SELL,balthazar,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by ,Yes,0.012,0.003,24.18,0.07,-9.94,copied leader exit
+2026-10-26 00:03,RESOLVED,omnibus-076daa,Spread: Broncos (-4.5),Cardinals,,0.0,38.46,0.0,-20.2,lost
