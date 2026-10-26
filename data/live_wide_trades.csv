@@ -312,3 +312,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 06:27,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Kylian Mbappé win the 2026 Ballon d'Or?,Yes,0.235,0.212,93.9,19.71,-0.49,copied leader exit
 2026-10-26 06:27,BUY,Mooseborzoiii,Counter-Strike: Nemiga vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage,Nemiga,0.3,0.29,68.97,20,,"leader spent $24,024"
 2026-10-26 07:25,BUY,donthackme,Will the highest temperature in Seoul (Incheon) be 15°C on October 27?,No,0.921,0.91,19.66,17.89,,leader spent $163
+2026-10-26 09:44,RESOLVED,donthackme,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,,0.0,36.06,0.0,-30.22,lost
+2026-10-26 09:44,RESOLVED,omnibus-076daa,M15 Singapore: Eric Jr Olivarez vs Azuma Visaya,Eric Jr Olivarez,,0.0,117.22,0.0,-20.2,lost
+2026-10-26 09:44,RESOLVED,Lucerys,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,,0.0,11.01,0.0,-9.23,lost
+2026-10-26 09:44,RESOLVED,alex20011,Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential ele,No,,0.0,23.81,0.0,-20.2,lost
