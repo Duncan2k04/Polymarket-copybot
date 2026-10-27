@@ -84,3 +84,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 05:49,BUY,e46m3,Will the Yang-Mills existence and mass gap problem be the next Millennium Prize Problem so,No,0.79,0.79,25.32,20,,leader spent $106
 2026-10-27 09:59,BUY,e46m3,Will Anthropic have the best AI model at the end of October 2026?,No,0.889,0.899,6.0,5.39,,leader spent $533
 2026-10-27 13:23,SELL,BreakTheBank,Will the Democratic Party control the House after the 2026 Midterm elections?,No,0.09,0.08,662.22,52.45,-7.75,copied leader exit
+2026-10-27 14:14,BUY,BreakTheBank,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,0.155,0.16,125.0,20,,"leader spent $5,902"
