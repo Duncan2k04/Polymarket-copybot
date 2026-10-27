@@ -85,3 +85,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 09:59,BUY,e46m3,Will Anthropic have the best AI model at the end of October 2026?,No,0.889,0.899,6.0,5.39,,leader spent $533
 2026-10-27 13:23,SELL,BreakTheBank,Will the Democratic Party control the House after the 2026 Midterm elections?,No,0.09,0.08,662.22,52.45,-7.75,copied leader exit
 2026-10-27 14:14,BUY,BreakTheBank,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,0.155,0.16,125.0,20,,"leader spent $5,902"
+2026-10-27 15:03,BUY,BreakTheBank,Will the Democrats win the Iowa Senate race in 2026?,Yes,0.41,0.42,47.62,20,,leader spent $510
+2026-10-27 15:03,BUY,BreakTheBank,Will the Republicans win the Iowa Senate race in 2026?,No,0.41,0.42,28.4,11.93,,leader spent $229
