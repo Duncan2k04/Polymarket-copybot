@@ -335,3 +335,11 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 01:44,BUY,alex20011,Will there be no Hormuz agreement?,No,0.066,0.075,268.08,20,,leader spent $134
 2026-10-27 01:44,BUY,e46m3,Will the Republicans win the Nebraska Senate race in 2026?,No,0.28,0.29,68.97,20,,leader spent $224
 2026-10-27 01:44,BUY,donthackme,Will the Democrats win the Florida governor race in 2026?,No,0.8,0.81,5.87,4.76,,leader spent $240
+2026-10-27 02:17,RESOLVED,donthackme,Will Lamine Yamal win the 2026 Ballon d'Or?,No,,1.0,10.33,10.33,1.95,won
+2026-10-27 02:17,RESOLVED,donthackme,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,,1.0,25.38,25.38,5.18,won
+2026-10-27 02:17,RESOLVED,Lucerys,Will Lamine Yamal win the 2026 Ballon d'Or?,No,,1.0,20.74,20.74,1.09,won
+2026-10-27 02:17,RESOLVED,Lucerys,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,,1.0,22.41,22.41,4.58,won
+2026-10-27 02:17,RESOLVED,e46m3,Will Lamine Yamal win the 2026 Ballon d'Or?,No,,1.0,13.97,13.97,2.64,won
+2026-10-27 02:17,RESOLVED,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,,0.0,74.91,0.0,-20.2,lost
+2026-10-27 02:17,RESOLVED,Bigggggggg,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,,1.0,15.66,15.66,3.42,won
+2026-10-27 02:17,RESOLVED,qwen4.1.fund,Will Lamine Yamal win the 2026 Ballon d'Or?,No,,1.0,24.91,24.91,4.71,won

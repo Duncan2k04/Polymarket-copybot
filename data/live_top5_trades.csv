@@ -73,3 +73,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 01:05,RESOLVED,e46m3,Will Harry Kane finish 2nd in the 2026 Ballon d'Or?,No,,1.0,22.78,22.78,2.58,won
 2026-10-27 01:45,BUY,e46m3,Will the Republicans win the Nebraska Senate race in 2026?,No,0.28,0.29,68.97,20,,leader spent $224
 2026-10-27 01:45,BUY,e46m3,Will a team from LPL (China) win LoL Worlds 2026?,No,0.82,0.83,3.51,2.92,,leader spent $419
+2026-10-27 02:17,RESOLVED,e46m3,Will Lamine Yamal win the 2026 Ballon d'Or?,No,,1.0,73.67,73.67,13.48,won
+2026-10-27 02:17,RESOLVED,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,,0.0,222.41,0.0,-60.2,lost
