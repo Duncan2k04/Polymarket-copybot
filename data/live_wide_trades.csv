@@ -372,3 +372,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 20:07,SELL,wan123,Will Benjamin Netanyahu be the next Prime Minister of Israel?,No,0.78,0.69,27.4,18.72,-1.48,copied leader exit
 2026-10-27 20:07,BUY,e46m3,Will Naftali Bennett be the next Prime Minister of Israel?,No,0.94,0.93,19.92,18.53,,leader spent $564
 2026-10-27 20:07,RESOLVED,0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625,Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5),Natus Vincere,,0.0,35.09,0.0,-20.2,lost
+2026-10-27 22:59,RESOLVED,omnibus-076daa,Sestao River Club vs. RCD Espanyol de Barcelona: O/U 2.5,Over,,1.0,12.76,12.76,5.28,won
