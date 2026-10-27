@@ -367,3 +367,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 15:47,RESOLVED,donthackme,Will the highest temperature in Seoul (Incheon) be 15°C on October 27?,No,,1.0,19.66,19.66,1.59,won
 2026-10-27 16:30,BUY,ic4cream,Delaware vs. Western Kentucky: O/U 57.5,Under,0.507,0.52,37.44,19.47,,leader spent $486
 2026-10-27 16:30,RESOLVED,omnibus-076daa,Courmayeur: Gaia Maduzzi vs Linda Klimovicova,Gaia Maduzzi,,0.0,925.31,0.0,-20.2,lost
+2026-10-27 18:46,RESOLVED,omnibus-076daa,Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs,fnatic,,1.0,15.02,15.02,8.19,won

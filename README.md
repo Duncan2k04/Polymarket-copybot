@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,127.03 | +$127.03 (+12.7%) | 208 (73/143) | +$148.21 (+15%) | -$411.73 (-41%) |
-| [Top 5 traders making $500k+/month](#top5) | $651.95 | -$348.05 (-34.8%) | 47 (7/19) | +$40.18 (+4%) | -$117.70 (-12%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,125.91 | +$125.91 (+12.6%) | 208 (74/144) | +$148.21 (+15%) | -$411.73 (-41%) |
+| [Top 5 traders making $500k+/month](#top5) | $655.39 | -$344.61 (-34.5%) | 47 (7/19) | +$40.18 (+4%) | -$117.70 (-12%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -16,14 +16,14 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | | |
 |---|---|
-| **Account value** | **$1,127.03** (started with $1,000.00) |
-| **Profit / loss** | **+$127.03 (+12.7%)** |
+| **Account value** | **$1,125.91** (started with $1,000.00) |
+| **Profit / loss** | **+$125.91 (+12.6%)** |
 | Running for | 7.0 days (since 20 Oct 2026 18:24 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 27 Oct 2026 18:04 UTC ✅ |
-| Cash / in open bets | $0.00 / $1,127.03 |
-| Bets opened | 208 (65 still open) |
-| Finished bets won / lost | 73 / 70 (51% win rate) |
+| Last update | 27 Oct 2026 18:46 UTC ✅ |
+| Cash / in open bets | $15.02 / $1,110.89 |
+| Bets opened | 208 (64 still open) |
+| Finished bets won / lost | 74 / 70 (51% win rate) |
 
 ![live](data/live_wide_equity.svg)
 
@@ -33,46 +33,46 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 |---|---:|---:|---:|
 | alwaysfade | 2 | 2 (1) | +$84.05 |
 | OhWhenTheReds | 2 | 2 (2) | +$66.04 |
-| takeormake | 7 | 6 (3) | +$58.30 |
+| takeormake | 7 | 6 (3) | +$57.79 |
 | Bigggggggg | 3 | 3 (3) | +$48.75 |
 | Elaran1993 | 2 | 2 (2) | +$42.29 |
 | BreakTheBank | 6 | 4 (2) | +$31.78 |
-| donthackme | 20 | 10 (9) | +$30.36 |
+| donthackme | 20 | 10 (9) | +$30.48 |
 | para-Vision | 1 | 1 (1) | +$28.58 |
-| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 3 | 2 (2) | +$24.17 |
-| zerone777 | 10 | 2 (1) | +$21.78 |
-| 0x448861155279dbf833d041b963e3ac854599e319 | 3 | 1 (1) | +$18.31 |
+| zerone777 | 10 | 2 (1) | +$20.79 |
+| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 3 | 2 (2) | +$18.73 |
+| 0x448861155279dbf833d041b963e3ac854599e319 | 3 | 1 (1) | +$18.00 |
 | Tokor | 1 | 1 (1) | +$7.20 |
 | lfg100k | 1 | 1 (1) | +$6.12 |
 | paddaa | 2 | 2 (2) | +$2.30 |
-| alex20011 | 15 | 6 (4) | +$0.73 |
 | ArielFilipino | 2 | 2 (1) | +$0.42 |
+| alex20011 | 15 | 6 (4) | -$0.31 |
 | PiEDawg | 1 | 1 (0) | -$0.74 |
 | aenews2 | 1 | 0 (0) | -$0.74 |
 | THEHIGHLIFE | 1 | 1 (0) | -$1.02 |
-| VerilyWinningly | 4 | 3 (1) | -$2.00 |
-| flawfence | 2 | 1 (0) | -$5.23 |
+| VerilyWinningly | 4 | 3 (1) | -$1.91 |
+| flawfence | 2 | 1 (0) | -$4.16 |
 | SpringlyFawl | 5 | 5 (0) | -$5.74 |
-| Lucerys | 14 | 10 (6) | -$6.25 |
+| Lucerys | 14 | 10 (6) | -$6.01 |
 | PEYZ-BIGGEST-FAN | 4 | 4 (3) | -$7.59 |
-| balthazar | 14 | 11 (7) | -$8.44 |
-| wan123 | 2 | 0 (0) | -$8.63 |
-| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 8 | 7 (0) | -$16.64 |
+| balthazar | 14 | 11 (7) | -$8.36 |
+| wan123 | 2 | 0 (0) | -$9.95 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 8 | 7 (0) | -$16.66 |
 | HVAB | 2 | 2 (0) | -$19.15 |
 | Mooseborzoiii | 1 | 1 (0) | -$20.20 |
-| omnibus-076daa | 40 | 36 (15) | -$26.66 |
+| omnibus-076daa | 40 | 37 (16) | -$22.07 |
 | Wiretransferxyz | 3 | 3 (1) | -$33.57 |
-| e46m3 | 8 | 4 (2) | -$44.33 |
-| ic4cream | 4 | 3 (0) | -$60.23 |
-| qwen4.1.fund | 14 | 4 (2) | -$77.00 |
+| e46m3 | 8 | 4 (2) | -$42.71 |
+| ic4cream | 4 | 3 (0) | -$59.86 |
+| qwen4.1.fund | 14 | 4 (2) | -$76.66 |
 
-**Currently copying 60 traders** (re-picked every 7 days, last on 20 Oct 2026 18:24 UTC): [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Diabolical-Prize](https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb), [Kch-Temp](https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e), [0x361b16e3ddfe1d415d41008daac2631d94ab74fe](https://polymarket.com/profile/0x361b16e3ddfe1d415d41008daac2631d94ab74fe), [omnibus-076daa](https://polymarket.com/profile/0x076daa87c4fe1a85402a9b6b8e0a866224388d4c), [Mooseborzoiii](https://polymarket.com/profile/0x57a85952044f2c8e4d31b475aab6987d2f98ebc2), [OhWhenTheReds](https://polymarket.com/profile/0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63), [primm](https://polymarket.com/profile/0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029), [Bigggggggg](https://polymarket.com/profile/0x511f9c771449162349795d17becf8b37031acbe1), [takeormake](https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d), [juice-fruit](https://polymarket.com/profile/0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747), [theowalcott](https://polymarket.com/profile/0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa), [THEHIGHLIFE](https://polymarket.com/profile/0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5), [Jsram](https://polymarket.com/profile/0x83720820a8aa6c3f20ad71850e7a1a17d16c5223), [donthackme](https://polymarket.com/profile/0x03805a13a0b3e058f55f6c6af95389d4f431073d), [dromedaryy](https://polymarket.com/profile/0x6575759174ad221bba9947bc3f18750ec769b198), [ic4cream](https://polymarket.com/profile/0x27f738fe203827445690339104aae35b20bc44b0), [para-Vision](https://polymarket.com/profile/0x676c1bb692c76b57b06f1b93817515acfa5ce139), [Dragon-Evolution](https://polymarket.com/profile/0x3eb31daa061a19855cbf0a4884c202fb86976a2a), [balthazar](https://polymarket.com/profile/0x5a218c7ad04135830a45c41aaed7294df7809318), [alwaysfade](https://polymarket.com/profile/0xe5b70fd855af9258d9463992e4f1ed7987905ee3), [Jokerxing7](https://polymarket.com/profile/0xe221be3b45dfe5ed562ee9dc16f47205728e06f6), [ArielFilipino](https://polymarket.com/profile/0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826), [PEYZ-BIGGEST-FAN](https://polymarket.com/profile/0xdaef2be2a19ad331737d06545f85615b094554e9), [MKSafe](https://polymarket.com/profile/0xb4164e085a0503532989d487c4b4b19f4288dd7b), [DelidelaDele](https://polymarket.com/profile/0x95c6c9a6727ed203e97230dda61ab19a020e1508), [KaneAnalytics](https://polymarket.com/profile/0x7e3a1f95c558f39a51ff334d789e3e039b553246), [alex20011](https://polymarket.com/profile/0x4868c31e81040e002b41984842b84bae8923a1c1), [Siddhartha1](https://polymarket.com/profile/0xc95ed399d2fbaec9461f2abd70e0d96df1921288), [paddaa](https://polymarket.com/profile/0x60a92c8620846d81f5ea17b0564e0d4b7c545a71), [Lucerys](https://polymarket.com/profile/0x1387d145aaf01f6e33b66525dda6e1f51f6955f8), [Tokor](https://polymarket.com/profile/0xa19cbababc312f9df185e49d7004c249ed1ade6b), [jonjones1993](https://polymarket.com/profile/0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c), [0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900](https://polymarket.com/profile/0xa2a78bb796f56b1b174b29eff72af4f0c558627b), [dsasdaas](https://polymarket.com/profile/0x1e52bbdf389526f57abc62641d518868f4c5eb43), [forgotmydinner](https://polymarket.com/profile/0x4a0eecbf4d18cb6b868f30a7b6e75b7905b9a4b1), [flawfence](https://polymarket.com/profile/0x23d81ba9371e576015c1e562db09c689f56b0288), [aenews2](https://polymarket.com/profile/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1), [0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495](https://polymarket.com/profile/0xc7d02944a76b9f83b199e9090ecc92c82d241f8a), [VerilyWinningly](https://polymarket.com/profile/0x6276ea490d6ca3a539f1d571a89d53d26e9f9db5), [0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625](https://polymarket.com/profile/0x446884aa55e3dcf7123d9a3d6243c4e34b70b165), [lfg100k](https://polymarket.com/profile/0xd3911bd5e070c9ad9a9519c966347802d8f3b109), [mde4life1986](https://polymarket.com/profile/0x54ce7dd357766fc3255645e55ef41edd51cc9f80), [zerone777](https://polymarket.com/profile/0xe949065b6c64308369c26dc590121623a5a4dea6), [qwen4.1.fund](https://polymarket.com/profile/0xb0c85813a7a4428f1139ff91d3118a92c391fe7f), [HVAB](https://polymarket.com/profile/0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8), [0x448861155279dbf833d041b963e3ac854599e319](https://polymarket.com/profile/0x448861155279dbf833d041b963e3ac854599e319), [wan123](https://polymarket.com/profile/0xde7be6d489bce070a959e0cb813128ae659b5f4b), [Elaran1993](https://polymarket.com/profile/0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d), [ColdBlooded](https://polymarket.com/profile/0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c), [getbipped](https://polymarket.com/profile/0x252d7bae5ec87553dcafb23e275c202ac0d3c456), [Wiretransferxyz](https://polymarket.com/profile/0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b), [SpringlyFawl](https://polymarket.com/profile/0xfbedb045813457be883ad83dd1078e88a2a1a665), [0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357](https://polymarket.com/profile/0x20d6436849f930584892730c7f96ebb2ac763856), [0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513](https://polymarket.com/profile/0x2ce8505aa641791eb8460f6ac6bf5c0511e34527), [robustmst](https://polymarket.com/profile/0xebfdb8164f0e0748818d6c7a9ac85a323267fd63), [PiEDawg](https://polymarket.com/profile/0xcf43b3b62f7881c831e2d2370b870f5e8a08b321), [LonnieHawkins](https://polymarket.com/profile/0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede)
+**Currently copying 60 traders** (re-picked every 7 days, last on 27 Oct 2026 18:46 UTC): [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Bigggggggg](https://polymarket.com/profile/0x511f9c771449162349795d17becf8b37031acbe1), [takeormake](https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d), [juice-fruit](https://polymarket.com/profile/0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747), [Abkha](https://polymarket.com/profile/0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d), [balthazar](https://polymarket.com/profile/0x5a218c7ad04135830a45c41aaed7294df7809318), [eventalpha26](https://polymarket.com/profile/0x2e7bf3e7b8ba0351b737897197fd5cc34fbfbd8c), [dromedaryy](https://polymarket.com/profile/0x6575759174ad221bba9947bc3f18750ec769b198), [flawfence](https://polymarket.com/profile/0x23d81ba9371e576015c1e562db09c689f56b0288), [Jsram](https://polymarket.com/profile/0x83720820a8aa6c3f20ad71850e7a1a17d16c5223), [primm](https://polymarket.com/profile/0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029), [theowalcott](https://polymarket.com/profile/0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa), [monkeymashingkeyboard](https://polymarket.com/profile/0x684baa57c338c2549aec0aa3f034f695d72a8409), [THEHIGHLIFE](https://polymarket.com/profile/0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5), [ArielFilipino](https://polymarket.com/profile/0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826), [Lucerys](https://polymarket.com/profile/0x1387d145aaf01f6e33b66525dda6e1f51f6955f8), [alex20011](https://polymarket.com/profile/0x4868c31e81040e002b41984842b84bae8923a1c1), [paddaa](https://polymarket.com/profile/0x60a92c8620846d81f5ea17b0564e0d4b7c545a71), [Tokor](https://polymarket.com/profile/0xa19cbababc312f9df185e49d7004c249ed1ade6b), [xtxpleasecallme](https://polymarket.com/profile/0xad5353afe30c2da57709e2704ef3ccdcf67eef24), [PEYZ-BIGGEST-FAN](https://polymarket.com/profile/0xdaef2be2a19ad331737d06545f85615b094554e9), [0x448861155279dbf833d041b963e3ac854599e319](https://polymarket.com/profile/0x448861155279dbf833d041b963e3ac854599e319), [0x9b129aD05Bc0a8df3C73DfCC66fE75252DaEC2D5-1778811687225](https://polymarket.com/profile/0x9b129ad05bc0a8df3c73dfcc66fe75252daec2d5), [para-Vision](https://polymarket.com/profile/0x676c1bb692c76b57b06f1b93817515acfa5ce139), [donthackme](https://polymarket.com/profile/0x03805a13a0b3e058f55f6c6af95389d4f431073d), [ic4cream](https://polymarket.com/profile/0x27f738fe203827445690339104aae35b20bc44b0), [0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4](https://polymarket.com/profile/0x5e6e2c3f06686f2607b86c90e35f536e81a1be00), [getbipped](https://polymarket.com/profile/0x252d7bae5ec87553dcafb23e275c202ac0d3c456), [88888x88888](https://polymarket.com/profile/0x640b954ebc87c7b68749c763d8f611c3421554b5), [mr.ozi](https://polymarket.com/profile/0x614dc8d3542c12103d2c6a3553fd761e391d1546), [Siddhartha1](https://polymarket.com/profile/0xc95ed399d2fbaec9461f2abd70e0d96df1921288), [Elaran1993](https://polymarket.com/profile/0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d), [yabanci](https://polymarket.com/profile/0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f), [defillama7](https://polymarket.com/profile/0x4c8cdcdd4c92bf44e74a642254f7414de14de36f), [0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900](https://polymarket.com/profile/0xa2a78bb796f56b1b174b29eff72af4f0c558627b), [kaxel78](https://polymarket.com/profile/0xc1b5f266564e6d4907cf84bdf5a8f91621ef5d85), [OhWhenTheReds](https://polymarket.com/profile/0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63), [0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357](https://polymarket.com/profile/0x20d6436849f930584892730c7f96ebb2ac763856), [qwen300.fund](https://polymarket.com/profile/0xb0c85813a7a4428f1139ff91d3118a92c391fe7f), [aenews2](https://polymarket.com/profile/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1), [ColdBlooded](https://polymarket.com/profile/0xbcc321b6336117432f4e9d2d28b20d8b6795ac9c), [rabbitfoot1](https://polymarket.com/profile/0x10a6fadcbacd66330862206f6199b197e3ad4d8b), [0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495](https://polymarket.com/profile/0xc7d02944a76b9f83b199e9090ecc92c82d241f8a), [pollo07](https://polymarket.com/profile/0x72487021e3339827c476592585c15ae7f0fa7e72), [zerone777](https://polymarket.com/profile/0xe949065b6c64308369c26dc590121623a5a4dea6), [TheReturnOfDarthMaul](https://polymarket.com/profile/0x3a8aa345d5db7ec5138298c8c4f4540259be7699), [scootergene](https://polymarket.com/profile/0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd), [Eugycom](https://polymarket.com/profile/0x64ceab3becc143e1b97a8e16dc270c2297566015), [0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625](https://polymarket.com/profile/0x446884aa55e3dcf7123d9a3d6243c4e34b70b165), [Contestable-Parfait](https://polymarket.com/profile/0xc301c1e034e71e1a6ce9684f029c4674a00466aa), [pikachu2508](https://polymarket.com/profile/0x38891af2ad2f103ab8dc896c0243d2646deffe34), [lava-lava](https://polymarket.com/profile/0x629bc4a1e53e1d475beb7ea3d388791e96dd995a), [0xC9BFc7986767173b4f1c3FC9B2c6b255F](https://polymarket.com/profile/0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0), [Likaseent](https://polymarket.com/profile/0x227f7ba7fcc35b7f8fc08aa6b075f5220da2a574), [Vale54holi](https://polymarket.com/profile/0x9d0dcd0c8aa0526303fd9e17fff4666ef52d2e6d), [GAMBLINGISCANCER69](https://polymarket.com/profile/0x9c56304c8840621ef4c1e707b4c7d708d09878d1), [dsasdaas](https://polymarket.com/profile/0x1e52bbdf389526f57abc62641d518868f4c5eb43), [wisewisewind](https://polymarket.com/profile/0xcdfb742c864b7011725b3b851291e326971497a0)
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 136308
-- per-market cap or out of cash: 16077
-- market ends too soon: 7354
+- leader trade too small / extreme price / crypto up-down: 136773
+- per-market cap or out of cash: 16154
+- market ends too soon: 7361
 - signal too old (run was delayed): 219
 - market already closed: 161
 - price ran away from leader's price: 29
@@ -130,12 +130,12 @@ _Last calculated 27 Oct 2026 03:45 UTC. Copies each trade 20 min late, at a wors
 
 | | |
 |---|---|
-| **Account value** | **$651.95** (started with $1,000.00) |
-| **Profit / loss** | **-$348.05 (-34.8%)** |
+| **Account value** | **$655.39** (started with $1,000.00) |
+| **Profit / loss** | **-$344.61 (-34.5%)** |
 | Running for | 7.0 days (since 20 Oct 2026 18:32 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 27 Oct 2026 18:04 UTC ✅ |
-| Cash / in open bets | $0.00 / $651.95 |
+| Last update | 27 Oct 2026 18:48 UTC ✅ |
+| Cash / in open bets | $0.00 / $655.39 |
 | Bets opened | 47 (28 still open) |
 | Finished bets won / lost | 7 / 12 (37% win rate) |
 
@@ -145,15 +145,15 @@ _Last calculated 27 Oct 2026 03:45 UTC. Copies each trade 20 min late, at a wors
 
 | Trader | Bets copied | Finished (won) | Profit/loss so far |
 |---|---:|---:|---:|
-| BreakTheBank | 12 | 7 (1) | -$155.82 |
-| e46m3 | 35 | 12 (6) | -$192.23 |
+| BreakTheBank | 12 | 7 (1) | -$155.58 |
+| e46m3 | 35 | 12 (6) | -$189.03 |
 
-**Currently copying 5 traders** (re-picked every 7 days, last on 20 Oct 2026 18:32 UTC): [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Diabolical-Prize](https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb), [Kch-Temp](https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e)
+**Currently copying 5 traders** (re-picked every 7 days, last on 27 Oct 2026 18:48 UTC): [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Bigggggggg](https://polymarket.com/profile/0x511f9c771449162349795d17becf8b37031acbe1), [takeormake](https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d)
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 15536
-- per-market cap or out of cash: 1195
+- leader trade too small / extreme price / crypto up-down: 15601
+- per-market cap or out of cash: 1203
 - market ends too soon: 450
 - signal too old (run was delayed): 28
 - price ran away from leader's price: 3
