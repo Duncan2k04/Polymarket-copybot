@@ -79,3 +79,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 02:54,RESOLVED,e46m3,Will Carolyn Parrish win the 2026 Mississauga mayoral election?,No,,1.0,31.25,31.25,11.05,won
 2026-10-27 03:23,BUY,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,0.3,0.3,66.67,20,,leader spent $264
 2026-10-27 04:09,BUY,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,0.29,0.3,61.64,18.49,,leader spent $161
+2026-10-27 05:12,BUY,BreakTheBank,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,0.21,0.22,90.91,20,,leader spent $181
