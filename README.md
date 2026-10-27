@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,155.75 | +$155.75 (+15.6%) | 201 (69/135) | -$268.06 (-27%) | -$580.20 (-58%) |
-| [Top 5 traders making $500k+/month](#top5) | $665.24 | -$334.76 (-33.5%) | 41 (7/18) | +$57.70 (+6%) | +$42.18 (+4%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,155.75 | +$155.75 (+15.6%) | 201 (69/135) | +$148.21 (+15%) | -$411.73 (-41%) |
+| [Top 5 traders making $500k+/month](#top5) | $665.24 | -$334.76 (-33.5%) | 41 (7/18) | +$40.18 (+4%) | -$117.70 (-12%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -82,39 +82,44 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 26 Oct 2026 03:46 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 27 Oct 2026 03:45 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $731.94 | **-$268.06 (-26.8%)** | 137 | 44 / 53 |
-| 14 days ago | $1,000.00 | $419.80 | **-$580.20 (-58.0%)** | 127 | 45 / 56 |
+| 7 days ago | $1,000.00 | $1,148.21 | **+$148.21 (+14.8%)** | 179 | 64 / 59 |
+| 14 days ago | $1,000.00 | $588.27 | **-$411.73 (-41.2%)** | 89 | 22 / 35 |
 
 ![backtest](data/backtest_wide_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
-| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | 3 | +$92.25 |
-| 0x448861155279dbf833d041b963e3ac854599e319 | 7 | +$34.33 |
-| ArielFilipino | 2 | +$31.55 |
-| Siddhartha1 | 2 | +$23.07 |
-| theowalcott | 1 | +$20.20 |
-| paddaa | 5 | -$1.46 |
-| zerone777 | 3 | -$3.62 |
-| 0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357 | 1 | -$5.72 |
-| TheReturnOfDarthMaul | 3 | -$7.05 |
-| VerilyWinningly | 2 | -$7.94 |
-| kaxel78 | 1 | -$9.04 |
-| WarriorH | 2 | -$14.42 |
-| yabanci | 1 | -$14.45 |
-| PEYZ-BIGGEST-FAN | 2 | -$16.98 |
-| timetowander | 6 | -$22.20 |
-| ic4cream | 12 | -$34.69 |
-| scootergene | 4 | -$44.03 |
-| ColdBlooded | 15 | -$67.23 |
-| para-Vision | 10 | -$94.53 |
-| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 15 | -$95.71 |
-| getbipped | 8 | -$150.60 |
-| Tokor | 22 | -$191.92 |
+| ColdBlooded | 4 | +$40.73 |
+| 0xC9BFc7986767173b4f1c3FC9B2c6b255F | 9 | +$35.84 |
+| 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | 2 | +$19.90 |
+| scootergene | 1 | +$9.43 |
+| monkeymashingkeyboard | 2 | +$0.80 |
+| Likaseent | 1 | +$0.49 |
+| Vale54holi | 1 | +$0.49 |
+| paddaa | 1 | +$0.40 |
+| zerone777 | 2 | +$0.12 |
+| kaxel78 | 7 | -$0.03 |
+| Contestable-Parfait | 1 | -$0.20 |
+| lava-lava | 1 | -$0.91 |
+| alex20011 | 6 | -$1.02 |
+| aenews2 | 2 | -$1.19 |
+| rabbitfoot1 | 2 | -$2.30 |
+| mr.ozi | 1 | -$2.98 |
+| TheReturnOfDarthMaul | 3 | -$11.10 |
+| Siddhartha1 | 1 | -$15.45 |
+| dromedaryy | 2 | -$15.66 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 1 | -$19.29 |
+| 0x448861155279dbf833d041b963e3ac854599e319 | 3 | -$22.38 |
+| getbipped | 3 | -$24.59 |
+| ic4cream | 3 | -$27.93 |
+| Tokor | 12 | -$62.08 |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | 5 | -$74.18 |
+| para-Vision | 3 | -$80.80 |
+| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 10 | -$157.81 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
@@ -157,20 +162,22 @@ _Last calculated 26 Oct 2026 03:46 UTC. Copies each trade 20 min late, at a wors
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 26 Oct 2026 04:04 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 27 Oct 2026 04:06 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $1,057.70 | **+$57.70 (+5.8%)** | 40 | 1 / 4 |
-| 14 days ago | $1,000.00 | $1,042.18 | **+$42.18 (+4.2%)** | 44 | 3 / 7 |
+| 7 days ago | $1,000.00 | $1,040.18 | **+$40.18 (+4.0%)** | 63 | 14 / 9 |
+| 14 days ago | $1,000.00 | $882.30 | **-$117.70 (-11.8%)** | 72 | 17 / 18 |
 
 ![backtest](data/backtest_top5_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
-| Bigggggggg | 35 | +$124.91 |
-| BreakTheBank | 1 | -$0.95 |
+| BreakTheBank | 7 | +$74.35 |
+| e46m3 | 5 | -$3.29 |
+| juice-fruit | 8 | -$13.50 |
 | joseph00677 | 8 | -$81.78 |
+| Bigggggggg | 44 | -$93.49 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
