@@ -329,3 +329,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-26 16:30,BUY,ArielFilipino,Spread: Rockets (-5.5),Hawks,0.535,0.54,37.04,20,,"leader spent $11,655"
 2026-10-26 16:30,BUY,Lucerys,Will Kylian Mbappé win the 2026 Ballon d'Or?,No,0.687,0.695,1.66,1.15,,leader spent $128
 2026-10-26 20:03,RESOLVED,Lucerys,Will voter turnout in the second round of the 2026 Brazil presidential election be 80-82%?,No,,0.0,23.53,0.0,-20.2,lost
+2026-10-27 01:04,RESOLVED,balthazar,Will Lamine Yamal finish 2nd in the 2026 Ballon d'Or?,No,,1.0,22.99,22.99,2.79,won
+2026-10-27 01:04,RESOLVED,balthazar,Will Lamine Yamal finish 3rd in the 2026 Ballon d'Or?,No,,0.0,83.85,0.0,-26.1,lost
+2026-10-27 01:04,RESOLVED,balthazar,Will Kylian Mbappé finish in the top 3 of the 2026 Ballon d'Or?,Yes,,1.0,22.22,22.22,2.69,won
