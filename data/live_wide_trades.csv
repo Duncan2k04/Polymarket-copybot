@@ -332,3 +332,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 01:04,RESOLVED,balthazar,Will Lamine Yamal finish 2nd in the 2026 Ballon d'Or?,No,,1.0,22.99,22.99,2.79,won
 2026-10-27 01:04,RESOLVED,balthazar,Will Lamine Yamal finish 3rd in the 2026 Ballon d'Or?,No,,0.0,83.85,0.0,-26.1,lost
 2026-10-27 01:04,RESOLVED,balthazar,Will Kylian Mbappé finish in the top 3 of the 2026 Ballon d'Or?,Yes,,1.0,22.22,22.22,2.69,won
+2026-10-27 01:44,BUY,alex20011,Will there be no Hormuz agreement?,No,0.066,0.075,268.08,20,,leader spent $134
+2026-10-27 01:44,BUY,e46m3,Will the Republicans win the Nebraska Senate race in 2026?,No,0.28,0.29,68.97,20,,leader spent $224
+2026-10-27 01:44,BUY,donthackme,Will the Democrats win the Florida governor race in 2026?,No,0.8,0.81,5.87,4.76,,leader spent $240
