@@ -355,3 +355,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 04:08,RESOLVED,omnibus-076daa,Seoul: August Holmgren vs Jay Dylan Friend,August Holmgren,,0.0,95.24,0.0,-20.2,lost
 2026-10-27 06:19,RESOLVED,Lucerys,Will the highest temperature in Chicago be between 60-61°F on October 26?,No,,1.0,28.99,28.99,8.79,won
 2026-10-27 06:19,RESOLVED,balthazar,Will the highest temperature in Chicago be between 60-61°F on October 26?,No,,1.0,28.99,28.99,8.79,won
+2026-10-27 07:11,BUY,takeormake,Pistons vs. Knicks,Pistons,0.39,0.39,51.28,20,,"leader spent $4,979"
+2026-10-27 07:11,BUY,Wiretransferxyz,Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage,Aurora Gaming,0.73,0.74,27.03,20,,leader spent $500
+2026-10-27 07:11,BUY,omnibus-076daa,LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage,LYON,0.402,0.39,44.61,17.4,,leader spent $167
