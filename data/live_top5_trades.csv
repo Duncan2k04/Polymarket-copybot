@@ -77,3 +77,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 02:17,RESOLVED,e46m3,Will Harry Kane win the 2026 Ballon d'Or?,No,,0.0,222.41,0.0,-60.2,lost
 2026-10-27 02:54,RESOLVED,e46m3,Will Alvin Tedjo win the 2026 Mississauga mayoral election?,No,,0.0,45.82,0.0,-40.4,lost
 2026-10-27 02:54,RESOLVED,e46m3,Will Carolyn Parrish win the 2026 Mississauga mayoral election?,No,,1.0,31.25,31.25,11.05,won
+2026-10-27 03:23,BUY,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,0.3,0.3,66.67,20,,leader spent $264
