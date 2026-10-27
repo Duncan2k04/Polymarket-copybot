@@ -362,3 +362,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 13:22,SELL,BreakTheBank,Will the Democratic Party control the House after the 2026 Midterm elections?,No,0.09,0.08,222.22,17.6,-2.6,copied leader exit
 2026-10-27 13:22,BUY,donthackme,Will the Democratic Party win the NC-09 House seat?,No,0.7,0.72,24.2,17.43,,leader spent $188
 2026-10-27 15:02,RESOLVED,Wiretransferxyz,Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage,Aurora Gaming,,1.0,27.03,27.03,6.83,won
+2026-10-27 15:47,BUY,omnibus-076daa,Courmayeur: Gaia Maduzzi vs Linda Klimovicova,Gaia Maduzzi,0.341,0.022,925.31,20,,leader spent $258
+2026-10-27 15:47,BUY,omnibus-076daa,Counter-Strike: Astralis vs fnatic (BO3) - Stake Ranked Episode 5 Playoffs,fnatic,0.529,0.45,15.02,6.76,,leader spent $611
+2026-10-27 15:47,RESOLVED,donthackme,Will the highest temperature in Seoul (Incheon) be 15°C on October 27?,No,,1.0,19.66,19.66,1.59,won
