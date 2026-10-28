@@ -388,3 +388,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 07:37,RESOLVED,omnibus-076daa,Pan Pacific Open: Cristina Bucsa vs Maya Joint,Maya Joint,,1.0,37.74,37.74,17.54,won
 2026-10-28 08:24,BUY,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Map Handicap: EF (-1.5) vs Team Nemesis (+1.5),Team Nemesis,0.472,0.47,42.55,20,,leader spent $392
 2026-10-28 08:24,BUY,xtxpleasecallme,"Will Flávio Bolsonaro return to Brazil by November 30, 2026?",No,0.265,0.27,64.3,17.36,,leader spent $124
+2026-10-28 10:03,RESOLVED,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Counter-Strike: Abyssal vs Rooster (BO3) - DFRAG Invitational Group B,Abyssal,,1.0,16.51,16.51,8.34,won
