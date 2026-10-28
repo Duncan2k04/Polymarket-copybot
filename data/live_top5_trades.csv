@@ -89,3 +89,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-27 15:03,BUY,BreakTheBank,Will the Republicans win the Iowa Senate race in 2026?,No,0.41,0.42,28.4,11.93,,leader spent $229
 2026-10-28 07:37,SELL,BreakTheBank,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,0.18,0.17,125.0,21.04,0.84,copied leader exit
 2026-10-28 07:37,BUY,takeormake,Hornets vs. Pistons,Pistons,0.68,0.69,28.99,20,,leader spent $428
+2026-10-28 18:49,SELL,BreakTheBank,Will Dan Sullivan win the Alaska Senate race in 2026?,Yes,0.27,0.26,229.23,59.0,-1.19,copied leader exit

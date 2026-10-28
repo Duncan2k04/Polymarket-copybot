@@ -400,3 +400,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 14:42,BUY,0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4,Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B,Envy,0.43,0.44,31.68,13.94,,leader spent $123
 2026-10-28 18:01,RESOLVED,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Counter-Strike: Team Nemesis vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs,Team Nemesis,,0.0,73.57,0.0,-14.12,lost
 2026-10-28 18:01,RESOLVED,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Map Handicap: EF (-1.5) vs Team Nemesis (+1.5),Team Nemesis,,1.0,42.55,42.55,22.35,won
+2026-10-28 18:48,BUY,balthazar,Another Fed rate hike in 2026?,Yes,0.81,0.82,24.39,20,,leader spent $518
+2026-10-28 18:48,BUY,omnibus-076daa,Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage,Spirit,0.492,0.001,20000.0,20,,leader spent $111
+2026-10-28 18:48,BUY,Lucerys,Will there be no change in Fed interest rates after the December 2026 meeting?,No,0.839,0.82,2.6,2.13,,"leader spent $1,788"
