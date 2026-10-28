@@ -90,3 +90,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 07:37,SELL,BreakTheBank,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,0.18,0.17,125.0,21.04,0.84,copied leader exit
 2026-10-28 07:37,BUY,takeormake,Hornets vs. Pistons,Pistons,0.68,0.69,28.99,20,,leader spent $428
 2026-10-28 18:49,SELL,BreakTheBank,Will Dan Sullivan win the Alaska Senate race in 2026?,Yes,0.27,0.26,229.23,59.0,-1.19,copied leader exit
+2026-10-28 19:32,BUY,takeormake,Spread: Pistons (-6.5),Hornets,0.45,0.46,43.48,20,,leader spent $104
+2026-10-28 19:32,BUY,takeormake,Spread: Spurs (-6.5),Jazz,0.29,0.31,64.52,20,,leader spent $279
+2026-10-28 19:32,BUY,e46m3,Will Otzma win 8-9 seats in the 2026 Knesset elections?,No,0.86,0.836,23.03,19.25,,leader spent $295
