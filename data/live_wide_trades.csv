@@ -379,3 +379,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 01:35,BUY,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5),Nemiga,0.73,0.71,28.17,20,,leader spent $121
 2026-10-28 01:35,BUY,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage,Nemiga,0.442,0.43,46.51,20,,leader spent $112
 2026-10-28 01:35,BUY,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Counter-Strike: Abyssal vs Rooster (BO3) - DFRAG Invitational Group B,Abyssal,0.493,0.49,16.51,8.09,,leader spent $191
+2026-10-28 03:09,RESOLVED,ic4cream,Delaware vs. Western Kentucky: O/U 57.5,Under,,1.0,37.44,37.44,17.78,won
+2026-10-28 03:09,RESOLVED,takeormake,Pistons vs. Knicks,Pistons,,0.0,51.28,0.0,-20.2,lost
