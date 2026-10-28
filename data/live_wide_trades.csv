@@ -404,3 +404,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 18:48,BUY,omnibus-076daa,Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage,Spirit,0.492,0.001,20000.0,20,,leader spent $111
 2026-10-28 18:48,BUY,Lucerys,Will there be no change in Fed interest rates after the December 2026 meeting?,No,0.839,0.82,2.6,2.13,,"leader spent $1,788"
 2026-10-28 19:31,RESOLVED,omnibus-076daa,Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage,Spirit,,0.0,20000.0,0.0,-20.2,lost
+2026-10-28 20:17,RESOLVED,donthackme,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,No,,1.0,11.97,11.97,0.61,won
+2026-10-28 20:17,RESOLVED,wan123,Will there be no change in Fed interest rates after the October 2026 meeting?,No,,0.0,153.85,0.0,-20.2,lost
