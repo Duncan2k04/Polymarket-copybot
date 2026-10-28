@@ -381,3 +381,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 01:35,BUY,0xC9BFc7986767173b4f1c3FC9B2c6b255F,Counter-Strike: Abyssal vs Rooster (BO3) - DFRAG Invitational Group B,Abyssal,0.493,0.49,16.51,8.09,,leader spent $191
 2026-10-28 03:09,RESOLVED,ic4cream,Delaware vs. Western Kentucky: O/U 57.5,Under,,1.0,37.44,37.44,17.78,won
 2026-10-28 03:09,RESOLVED,takeormake,Pistons vs. Knicks,Pistons,,0.0,51.28,0.0,-20.2,lost
+2026-10-28 03:49,BUY,omnibus-076daa,Pan Pacific Open: Cristina Bucsa vs Maya Joint,Maya Joint,0.542,0.53,37.74,20,,"leader spent $1,579"
+2026-10-28 03:49,BUY,omnibus-076daa,LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage,LYON,0.361,0.35,48.77,17.07,,"leader spent $1,327"
