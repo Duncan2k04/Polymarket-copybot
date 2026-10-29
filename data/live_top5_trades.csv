@@ -102,3 +102,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-29 03:21,BUY,takeormake,Spread: Pelicans (-3.5),Pelicans,0.589,0.59,14.74,8.7,,leader spent $386
 2026-10-29 03:21,RESOLVED,takeormake,Nuggets vs. Pelicans: O/U 235.5,Over,,0.0,3.63,0.0,-2.27,lost
 2026-10-29 04:12,RESOLVED,takeormake,Spread: Spurs (-6.5),Jazz,,1.0,64.52,64.52,44.32,won
+2026-10-29 05:00,BUY,takeormake,Grizzlies vs. Trail Blazers,Grizzlies,0.29,0.3,66.67,20,,leader spent $316
+2026-10-29 05:00,BUY,takeormake,Spread: Trail Blazers (-4.5),Grizzlies,0.4,0.42,47.62,20,,leader spent $188
+2026-10-29 05:00,BUY,takeormake,Grizzlies vs. Trail Blazers,Grizzlies,0.29,0.3,66.67,20,,leader spent $589
+2026-10-29 05:00,BUY,takeormake,Spread: Trail Blazers (-8.5),Grizzlies,0.56,0.57,6.8,3.88,,"leader spent $4,462"
