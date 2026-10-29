@@ -96,3 +96,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 20:17,RESOLVED,e46m3,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,No,,1.0,22.47,22.47,2.27,won
 2026-10-28 21:00,BUY,BreakTheBank,Will an independent win the Nebraska Senate race in 2026?,No,0.7,0.73,27.4,20,,leader spent $230
 2026-10-28 21:00,BUY,takeormake,Nuggets vs. Pelicans: O/U 235.5,Over,0.61,0.62,3.63,2.25,,leader spent $125
+2026-10-29 02:31,RESOLVED,takeormake,Spread: Pistons (-6.5),Hornets,,0.0,43.48,0.0,-20.2,lost
+2026-10-29 02:31,RESOLVED,takeormake,Hornets vs. Pistons,Pistons,,1.0,28.99,28.99,8.79,won

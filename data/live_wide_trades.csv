@@ -411,3 +411,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-28 21:33,BUY,omnibus-076daa,Spread: Cavaliers (-9.5),Cavaliers,0.5,0.52,38.46,20,,leader spent $108
 2026-10-28 21:33,BUY,donthackme,Will Otzma win 8-9 seats in the 2026 Knesset elections?,No,0.805,0.83,13.7,11.37,,leader spent $145
 2026-10-28 22:52,RESOLVED,PEYZ-BIGGEST-FAN,LoL: Movistar KOI vs T1 - Game 1 Winner,Movistar KOI,,0.0,11855.0,0.0,-11.97,lost
+2026-10-29 02:30,RESOLVED,omnibus-076daa,Spread: Cavaliers (-9.5),Cavaliers,,1.0,38.46,38.46,18.26,won
