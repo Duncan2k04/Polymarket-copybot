@@ -101,3 +101,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-29 03:21,BUY,BreakTheBank,Will the Democrats win the Texas Senate race in 2026?,No,0.31,0.32,62.5,20,,"leader spent $1,377"
 2026-10-29 03:21,BUY,takeormake,Spread: Pelicans (-3.5),Pelicans,0.589,0.59,14.74,8.7,,leader spent $386
 2026-10-29 03:21,RESOLVED,takeormake,Nuggets vs. Pelicans: O/U 235.5,Over,,0.0,3.63,0.0,-2.27,lost
+2026-10-29 04:12,RESOLVED,takeormake,Spread: Spurs (-6.5),Jazz,,1.0,64.52,64.52,44.32,won
