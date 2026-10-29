@@ -417,3 +417,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-29 03:21,RESOLVED,omnibus-076daa,LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage,LYON,,0.0,93.37,0.0,-34.81,lost
 2026-10-29 04:59,RESOLVED,monkeymashingkeyboard,Thunder vs. Mavericks: O/U 228.5,Under,,1.0,39.22,39.22,19.02,won
 2026-10-29 04:59,RESOLVED,monkeymashingkeyboard,Thunder vs. Mavericks: O/U 230.5,Under,,1.0,36.36,36.36,16.16,won
+2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?,No,0.837,0.842,23.75,20,,leader spent $126
+2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.67,0.67,29.85,20,,leader spent $100
+2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?,No,0.89,0.89,22.47,20,,leader spent $134
+2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?,No,0.937,0.938,15.81,14.83,,leader spent $141
