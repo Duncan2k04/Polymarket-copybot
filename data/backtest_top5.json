@@ -24,13 +24,13 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1793160711,
+ "generated": 1793246973,
  "leaders": [
   {
-   "all_time_pnl": 11794115.78,
-   "copyable_7d": 108,
-   "month_pnl": 9897386.87,
-   "month_vol": 93297310.98,
+   "all_time_pnl": 10609386.73,
+   "copyable_7d": 150,
+   "month_pnl": 7901373.75,
+   "month_vol": 95276679.45,
    "name": "BreakTheBank",
    "rank": "1",
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
@@ -45,358 +45,36 @@
    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
   },
   {
-   "all_time_pnl": 952336.36,
-   "copyable_7d": 45,
-   "month_pnl": 3628907.8,
-   "month_vol": 3653325.42,
+   "all_time_pnl": 963625.42,
+   "copyable_7d": 76,
+   "month_pnl": 3612975.24,
+   "month_vol": 3716165.69,
    "name": "e46m3",
    "rank": "3",
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2"
   },
   {
-   "all_time_pnl": 666568.63,
-   "copyable_7d": 71,
-   "month_pnl": 1360453.38,
-   "month_vol": 8557879.04,
-   "name": "Bigggggggg",
-   "rank": "9",
-   "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
+   "all_time_pnl": 1340084.95,
+   "copyable_7d": 90,
+   "month_pnl": 1717297.41,
+   "month_vol": 35513759.83,
+   "name": "googleplay",
+   "rank": "8",
+   "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b"
   },
   {
-   "all_time_pnl": 790030.18,
-   "copyable_7d": 31,
-   "month_pnl": 1108335.4,
-   "month_vol": 10439884.78,
-   "name": "juice-fruit",
+   "all_time_pnl": 667439.52,
+   "copyable_7d": 80,
+   "month_pnl": 1310094.01,
+   "month_vol": 8471820.48,
+   "name": "Bigggggggg",
    "rank": "10",
-   "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
+   "wallet": "0x511f9c771449162349795d17becf8b37031acbe1"
   }
  ],
  "results": {
   "14": {
    "best": [
-    {
-     "closed": 1793022666,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-     "leader_name": "juice-fruit",
-     "opened": 1793018877,
-     "outcome": "FUT Esports",
-     "pnl": 217.161,
-     "proceeds": 257.561,
-     "reason": "resolved",
-     "title": "Counter-Strike: Vitality vs FUT Esports (BO3) - PGL Masters Bucharest Group Stage",
-     "token": "72238226052795156981663029850578329985484400565822033942674648256933211334935"
-    },
-    {
-     "closed": 1792074493,
-     "cost": 20.2,
-     "exit_price": 0.9895,
-     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-     "leader_name": "juice-fruit",
-     "opened": 1792068479,
-     "outcome": "BC.Game Esports",
-     "pnl": 73.0957,
-     "proceeds": 93.2957,
-     "reason": "leader sold",
-     "title": "Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D",
-     "token": "110616094455216194978699423493753093017667578376232016563683270718005271026032"
-    },
-    {
-     "closed": 1792984636,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792895678,
-     "outcome": "No",
-     "pnl": 69.6876,
-     "proceeds": 89.8876,
-     "reason": "resolved",
-     "title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-     "token": "38310927461258927563020508025396887688249787380193911540547071417200646834355"
-    },
-    {
-     "closed": 1792990791,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792882070,
-     "outcome": "No",
-     "pnl": 55.2717,
-     "proceeds": 75.4717,
-     "reason": "resolved",
-     "title": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amap\u00e1?",
-     "token": "28427187968184237484038820857745157273985047964211010508403776602582456466334"
-    },
-    {
-     "closed": 1792958734,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792930478,
-     "outcome": "Buccaneers",
-     "pnl": 54.8516,
-     "proceeds": 95.2516,
-     "reason": "resolved",
-     "title": "Buccaneers vs. Panthers",
-     "token": "46892845728220670287107462308943570199705502885479387753657974620295537306055"
-    }
-   ],
-   "cash": 0.0,
-   "closed_positions": 42,
-   "curve": [
-    [
-     1791951111,
-     1000.0
-    ],
-    [
-     1792037511,
-     966.99
-    ],
-    [
-     1792123911,
-     1042.5
-    ],
-    [
-     1792210311,
-     1009.11
-    ],
-    [
-     1792296711,
-     948.92
-    ],
-    [
-     1792383111,
-     985.53
-    ],
-    [
-     1792469511,
-     904.73
-    ],
-    [
-     1792555911,
-     904.73
-    ],
-    [
-     1792642311,
-     904.73
-    ],
-    [
-     1792728711,
-     904.73
-    ],
-    [
-     1792815111,
-     904.73
-    ],
-    [
-     1792901511,
-     840.68
-    ],
-    [
-     1792987911,
-     828.49
-    ],
-    [
-     1793074311,
-     968.81
-    ],
-    [
-     1793160711,
-     1069.47
-    ]
-   ],
-   "days": 14,
-   "end_ts": 1793160711,
-   "final_equity": 1069.47,
-   "losses": 24,
-   "open_positions": 42,
-   "open_value": 1069.47,
-   "per_leader": {
-    "Bigggggggg": {
-     "buys": 42,
-     "closed": 14,
-     "realized": 22.18,
-     "unrealized": -51.31,
-     "wins": 10
-    },
-    "BreakTheBank": {
-     "buys": 19,
-     "closed": 10,
-     "realized": -89.41,
-     "unrealized": -6.52,
-     "wins": 1
-    },
-    "e46m3": {
-     "buys": 5,
-     "closed": 0,
-     "realized": 0.0,
-     "unrealized": 92.84,
-     "wins": 0
-    },
-    "joseph00677": {
-     "buys": 8,
-     "closed": 8,
-     "realized": -81.78,
-     "unrealized": 0.0,
-     "wins": 2
-    },
-    "juice-fruit": {
-     "buys": 10,
-     "closed": 10,
-     "realized": 183.46,
-     "unrealized": 0.0,
-     "wins": 5
-    }
-   },
-   "pnl": 69.47,
-   "positions_taken": 84,
-   "realized_pnl": 34.46,
-   "return_pct": 6.95,
-   "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4249,
-    "market ends too soon": 228,
-    "per-market cap or out of cash": 404,
-    "price ran away from leader's price": 145
-   },
-   "start_ts": 1791951111,
-   "starting_bankroll": 1000,
-   "wins": 18,
-   "worst": [
-    {
-     "closed": 1792270595,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-     "leader_name": "juice-fruit",
-     "opened": 1792252797,
-     "outcome": "Team Falcons",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
-     "token": "47622028095849160413206485367562454297339753649482670304878425133936822721830"
-    },
-    {
-     "closed": 1792991917,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792891962,
-     "outcome": "No",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
-     "token": "71659760023836608828189051368262623172491813904827045019785561054238970210854"
-    },
-    {
-     "closed": 1793066270,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792881588,
-     "outcome": "No",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Will Harry Kane win the 2026 Ballon d'Or?",
-     "token": "77740376296468109233042620775325425521895874827413068707200627224591548200577"
-    },
-    {
-     "closed": 1792880528,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792871991,
-     "outcome": "Movsar Evloev",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
-     "token": "69352961295025318198487855123356054376242382640227851906649340515271146176312"
-    },
-    {
-     "closed": 1792960032,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792941825,
-     "outcome": "49ers",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Spread: 49ers (-2.5)",
-     "token": "79742122567599296549635124768513579700340318464361809931872323218360714740491"
-    }
-   ]
-  },
-  "7": {
-   "best": [
-    {
-     "closed": 1793022666,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-     "leader_name": "juice-fruit",
-     "opened": 1793018877,
-     "outcome": "FUT Esports",
-     "pnl": 217.161,
-     "proceeds": 257.561,
-     "reason": "resolved",
-     "title": "Counter-Strike: Vitality vs FUT Esports (BO3) - PGL Masters Bucharest Group Stage",
-     "token": "72238226052795156981663029850578329985484400565822033942674648256933211334935"
-    },
-    {
-     "closed": 1792984636,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792895678,
-     "outcome": "No",
-     "pnl": 69.6876,
-     "proceeds": 89.8876,
-     "reason": "resolved",
-     "title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-     "token": "38310927461258927563020508025396887688249787380193911540547071417200646834355"
-    },
-    {
-     "closed": 1792990791,
-     "cost": 20.2,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1792882070,
-     "outcome": "No",
-     "pnl": 55.2717,
-     "proceeds": 75.4717,
-     "reason": "resolved",
-     "title": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amap\u00e1?",
-     "token": "28427187968184237484038820857745157273985047964211010508403776602582456466334"
-    },
-    {
-     "closed": 1792958734,
-     "cost": 40.4,
-     "exit_price": 1.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792930478,
-     "outcome": "Buccaneers",
-     "pnl": 54.8516,
-     "proceeds": 95.2516,
-     "reason": "resolved",
-     "title": "Buccaneers vs. Panthers",
-     "token": "46892845728220670287107462308943570199705502885479387753657974620295537306055"
-    },
     {
      "closed": 1792991962,
      "cost": 60.196,
@@ -410,91 +88,182 @@
      "reason": "resolved",
      "title": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
      "token": "27580599101456904267590411630030264757609607532043711182842476051444173220871"
+    },
+    {
+     "closed": 1792090651,
+     "cost": 60.196,
+     "exit_price": 0.9895,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792075024,
+     "outcome": "Yes",
+     "pnl": 22.6188,
+     "proceeds": 82.8148,
+     "reason": "leader sold",
+     "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+     "token": "95285260737263798444112551659703206447506000400989126316034606634999623167529"
+    },
+    {
+     "closed": 1792992586,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792945070,
+     "outcome": "No",
+     "pnl": 18.635,
+     "proceeds": 38.835,
+     "reason": "resolved",
+     "title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+     "token": "25349054440013682842571127133038322301209167270229686994600990771013717798216"
+    },
+    {
+     "closed": 1792335213,
+     "cost": 40.4,
+     "exit_price": 0.9895,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792324140,
+     "outcome": "Yes",
+     "pnl": 16.8032,
+     "proceeds": 57.2032,
+     "reason": "leader sold",
+     "title": "Will Brighton & Hove Albion FC win on 2026-10-18?",
+     "token": "84518819913964152527507553069384722562110220338873347628048170033408286829113"
+    },
+    {
+     "closed": 1792637589,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+     "leader_name": "googleplay",
+     "opened": 1792623326,
+     "outcome": "Grizzlies",
+     "pnl": 15.1982,
+     "proceeds": 35.3982,
+     "reason": "resolved",
+     "title": "Jazz vs. Grizzlies",
+     "token": "92026908821928990759307387761911364987540060356600925155085252262202735890787"
     }
    ],
    "cash": 0.0,
-   "closed_positions": 32,
+   "closed_positions": 24,
    "curve": [
     [
-     1792555911,
+     1792037373,
      1000.0
     ],
     [
-     1792642311,
-     1000.0
+     1792123773,
+     1002.42
     ],
     [
-     1792728711,
-     1000.0
+     1792210173,
+     1002.42
     ],
     [
-     1792815111,
-     1000.0
+     1792296573,
+     1002.42
     ],
     [
-     1792901511,
-     935.95
+     1792382973,
+     1019.22
     ],
     [
-     1792987911,
-     928.17
+     1792469373,
+     958.62
     ],
     [
-     1793074311,
-     1072.19
+     1792555773,
+     958.62
     ],
     [
-     1793160711,
-     1173.28
+     1792642173,
+     973.82
+    ],
+    [
+     1792728573,
+     973.82
+    ],
+    [
+     1792814973,
+     973.82
+    ],
+    [
+     1792901373,
+     973.82
+    ],
+    [
+     1792987773,
+     934.03
+    ],
+    [
+     1793074173,
+     872.16
+    ],
+    [
+     1793160573,
+     953.56
+    ],
+    [
+     1793246973,
+     969.27
     ]
    ],
-   "days": 7,
-   "end_ts": 1793160711,
-   "final_equity": 1173.28,
-   "losses": 15,
-   "open_positions": 47,
-   "open_value": 1173.28,
+   "days": 14,
+   "end_ts": 1793246973,
+   "final_equity": 969.27,
+   "losses": 7,
+   "open_positions": 38,
+   "open_value": 969.27,
    "per_leader": {
     "Bigggggggg": {
-     "buys": 47,
-     "closed": 19,
-     "realized": 48.83,
-     "unrealized": -52.05,
-     "wins": 15
+     "buys": 41,
+     "closed": 17,
+     "realized": -47.74,
+     "unrealized": -50.16,
+     "wins": 14
     },
     "BreakTheBank": {
-     "buys": 19,
-     "closed": 10,
-     "realized": -89.41,
-     "unrealized": -6.72,
-     "wins": 1
-    },
-    "e46m3": {
-     "buys": 10,
+     "buys": 5,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": 90.56,
+     "unrealized": -2.56,
      "wins": 0
     },
-    "juice-fruit": {
-     "buys": 3,
-     "closed": 3,
-     "realized": 182.07,
+    "e46m3": {
+     "buys": 9,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": 95.91,
+     "wins": 0
+    },
+    "googleplay": {
+     "buys": 1,
+     "closed": 1,
+     "realized": 15.2,
      "unrealized": 0.0,
      "wins": 1
+    },
+    "joseph00677": {
+     "buys": 6,
+     "closed": 6,
+     "realized": -41.38,
+     "unrealized": 0.0,
+     "wins": 2
     }
    },
-   "pnl": 173.28,
-   "positions_taken": 79,
-   "realized_pnl": 141.49,
-   "return_pct": 17.33,
+   "pnl": -30.73,
+   "positions_taken": 62,
+   "realized_pnl": -73.92,
+   "return_pct": -3.07,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 4244,
-    "market ends too soon": 205,
-    "per-market cap or out of cash": 388,
-    "price ran away from leader's price": 134
+    "leader trade too small / extreme price / crypto up-down": 4797,
+    "market ends too soon": 293,
+    "per-market cap or out of cash": 466,
+    "price ran away from leader's price": 125
    },
-   "start_ts": 1792555911,
+   "start_ts": 1792037373,
    "starting_bankroll": 1000,
    "wins": 17,
    "worst": [
@@ -504,7 +273,7 @@
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1792891962,
+     "opened": 1792916646,
      "outcome": "No",
      "pnl": -60.196,
      "proceeds": 0.0,
@@ -518,41 +287,13 @@
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1792881588,
+     "opened": 1792922369,
      "outcome": "No",
      "pnl": -60.196,
      "proceeds": 0.0,
      "reason": "resolved",
      "title": "Will Harry Kane win the 2026 Ballon d'Or?",
      "token": "77740376296468109233042620775325425521895874827413068707200627224591548200577"
-    },
-    {
-     "closed": 1792880528,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792871991,
-     "outcome": "Movsar Evloev",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
-     "token": "69352961295025318198487855123356054376242382640227851906649340515271146176312"
-    },
-    {
-     "closed": 1792960032,
-     "cost": 40.4,
-     "exit_price": 0.0,
-     "leader": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-     "leader_name": "BreakTheBank",
-     "opened": 1792941825,
-     "outcome": "49ers",
-     "pnl": -40.4,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Spread: 49ers (-2.5)",
-     "token": "79742122567599296549635124768513579700340318464361809931872323218360714740491"
     },
     {
      "closed": 1793028051,
@@ -567,6 +308,258 @@
      "reason": "resolved",
      "title": "Will Iliana Iotova win the most votes in the first round of the 2026 Bulgaria presidential election?",
      "token": "110145538896931835992026784209638757739031104337076693603053840079218458735171"
+    },
+    {
+     "closed": 1792078919,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792042531,
+     "outcome": "HANJIN BRION",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+     "token": "38405726300880758892177407213770040336491517741996805164894710502887319362573"
+    },
+    {
+     "closed": 1792426382,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+     "leader_name": "joseph00677",
+     "opened": 1792415247,
+     "outcome": "Liquid",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Counter-Strike: fnatic vs Liquid - Map 1 Winner",
+     "token": "82281679381923351567418199716152282452650502653440791174837823116755712490706"
+    }
+   ]
+  },
+  "7": {
+   "best": [
+    {
+     "closed": 1792991962,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792936605,
+     "outcome": "No",
+     "pnl": 47.8216,
+     "proceeds": 108.0176,
+     "reason": "resolved",
+     "title": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+     "token": "27580599101456904267590411630030264757609607532043711182842476051444173220871"
+    },
+    {
+     "closed": 1792992586,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792945070,
+     "outcome": "No",
+     "pnl": 18.635,
+     "proceeds": 38.835,
+     "reason": "resolved",
+     "title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+     "token": "25349054440013682842571127133038322301209167270229686994600990771013717798216"
+    },
+    {
+     "closed": 1793065980,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792922369,
+     "outcome": "No",
+     "pnl": 10.8738,
+     "proceeds": 71.0698,
+     "reason": "resolved",
+     "title": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+     "token": "43681720319477188597878188429504394796986333625436226983885469009299707562545"
+    },
+    {
+     "closed": 1793219796,
+     "cost": 40.4,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792956345,
+     "outcome": "No",
+     "pnl": 9.3835,
+     "proceeds": 49.7835,
+     "reason": "resolved",
+     "title": "Will Spirit Win the PGL Masters Bucharest 2026?",
+     "token": "43955512019501580953680597076566555247855680254228408338949810716812281984765"
+    },
+    {
+     "closed": 1793066474,
+     "cost": 60.196,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792927767,
+     "outcome": "No",
+     "pnl": 6.3582,
+     "proceeds": 66.5542,
+     "reason": "resolved",
+     "title": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+     "token": "115364229170068359509280114761107502298430910856477421813089992309112580316620"
+    }
+   ],
+   "cash": 0.0,
+   "closed_positions": 17,
+   "curve": [
+    [
+     1792642173,
+     1000.0
+    ],
+    [
+     1792728573,
+     1000.0
+    ],
+    [
+     1792814973,
+     1000.0
+    ],
+    [
+     1792901373,
+     1000.0
+    ],
+    [
+     1792987773,
+     960.21
+    ],
+    [
+     1793074173,
+     896.45
+    ],
+    [
+     1793160573,
+     979.97
+    ],
+    [
+     1793246973,
+     995.57
+    ]
+   ],
+   "days": 7,
+   "end_ts": 1793246973,
+   "final_equity": 995.57,
+   "losses": 3,
+   "open_positions": 40,
+   "open_value": 995.57,
+   "per_leader": {
+    "Bigggggggg": {
+     "buys": 42,
+     "closed": 17,
+     "realized": -47.08,
+     "unrealized": -50.53,
+     "wins": 14
+    },
+    "BreakTheBank": {
+     "buys": 6,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -2.74,
+     "wins": 0
+    },
+    "e46m3": {
+     "buys": 9,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": 95.91,
+     "wins": 0
+    }
+   },
+   "pnl": -4.43,
+   "positions_taken": 57,
+   "realized_pnl": -47.08,
+   "return_pct": -0.44,
+   "skips": {
+    "leader trade too small / extreme price / crypto up-down": 4794,
+    "market ends too soon": 262,
+    "per-market cap or out of cash": 463,
+    "price ran away from leader's price": 124
+   },
+   "start_ts": 1792642173,
+   "starting_bankroll": 1000,
+   "wins": 14,
+   "worst": [
+    {
+     "closed": 1792991917,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792916646,
+     "outcome": "No",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
+     "token": "71659760023836608828189051368262623172491813904827045019785561054238970210854"
+    },
+    {
+     "closed": 1793066270,
+     "cost": 60.196,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792922369,
+     "outcome": "No",
+     "pnl": -60.196,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+     "token": "77740376296468109233042620775325425521895874827413068707200627224591548200577"
+    },
+    {
+     "closed": 1793028051,
+     "cost": 40.4,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1792937094,
+     "outcome": "No",
+     "pnl": -40.4,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will Iliana Iotova win the most votes in the first round of the 2026 Bulgaria presidential election?",
+     "token": "110145538896931835992026784209638757739031104337076693603053840079218458735171"
+    },
+    {
+     "closed": 1793062820,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793022323,
+     "outcome": "No",
+     "pnl": 1.3285,
+     "proceeds": 21.5285,
+     "reason": "resolved",
+     "title": "Will Harry Kane finish 3rd in the 2026 Ballon d'Or?",
+     "token": "103422264289414925929478061700845470487911371682158895369615447399804202074160"
+    },
+    {
+     "closed": 1793062820,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793022323,
+     "outcome": "No",
+     "pnl": 1.5391,
+     "proceeds": 21.7391,
+     "reason": "resolved",
+     "title": "Will Kylian Mbapp\u00e9 finish 3rd in the 2026 Ballon d'Or?",
+     "token": "112716641823770787821463405517132757833433648467142286219393353712307292927001"
     }
    ]
   }
