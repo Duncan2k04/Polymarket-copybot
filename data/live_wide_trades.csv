@@ -421,3 +421,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.67,0.67,29.85,20,,leader spent $100
 2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?,No,0.89,0.89,22.47,20,,leader spent $134
 2026-10-29 05:41,BUY,Lucerys,Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?,No,0.937,0.938,15.81,14.83,,leader spent $141
+2026-10-30 11:43,SELL,alex20011,Will Puma Shen win the next Taipei Mayor election?,No,0.713,0.716,24.44,17.32,0.81,copied leader exit
+2026-10-30 11:43,BUY,VerilyWinningly,Will the Republicans win the Michigan Senate race in 2026?,No,0.78,0.78,21.99,17.15,,leader spent $369
