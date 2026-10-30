@@ -106,3 +106,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-29 05:00,BUY,takeormake,Spread: Trail Blazers (-4.5),Grizzlies,0.4,0.42,47.62,20,,leader spent $188
 2026-10-29 05:00,BUY,takeormake,Grizzlies vs. Trail Blazers,Grizzlies,0.29,0.3,66.67,20,,leader spent $589
 2026-10-29 05:00,BUY,takeormake,Spread: Trail Blazers (-8.5),Grizzlies,0.56,0.57,6.8,3.88,,"leader spent $4,462"
+2026-10-30 03:15,RESOLVED,takeormake,Spread: Pelicans (-3.5),Pelicans,,1.0,14.74,14.74,5.96,won
