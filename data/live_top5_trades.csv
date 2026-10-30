@@ -111,3 +111,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-30 04:49,RESOLVED,takeormake,Grizzlies vs. Trail Blazers,Grizzlies,,1.0,133.33,133.33,92.93,won
 2026-10-30 04:49,RESOLVED,takeormake,Spread: Trail Blazers (-4.5),Grizzlies,,1.0,47.62,47.62,27.42,won
 2026-10-30 04:49,RESOLVED,takeormake,Spread: Trail Blazers (-8.5),Grizzlies,,1.0,6.8,6.8,2.89,won
+2026-10-30 06:10,BUY,BreakTheBank,Will the Republicans win the Nebraska Senate race in 2026?,Yes,0.68,0.69,28.99,20,,leader spent $560
+2026-10-30 06:10,BUY,Bigggggggg,Will Chris Hipkins be the next Prime Minister of New Zealand after the 2026 elections?,No,0.555,0.53,37.74,20,,leader spent $277
+2026-10-30 06:10,BUY,BreakTheBank,Will the Democratic Party control the House after the 2026 Midterm elections?,No,0.06,0.07,285.71,20,,leader spent $122
