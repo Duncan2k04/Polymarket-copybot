@@ -141,3 +141,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-31 19:15,BUY,takeormake,LoL: LOS vs LYON (BO3) - Worlds Group Stage,LYON,0.68,0.69,28.99,20,,leader spent $167
 2026-10-31 19:50,BUY,BreakTheBank,Will the Republican Party control the House after the 2026 Midterm elections?,Yes,0.05,0.06,333.33,20,,leader spent $154
 2026-10-31 20:16,BUY,takeormake,Spread: Raiders (-4.5),Raiders,0.341,0.34,58.82,20,,"leader spent $1,004"
+2026-10-31 20:51,BUY,BreakTheBank,Will the Republicans win the Iowa Senate race in 2026?,No,0.44,0.46,16.42,7.55,,leader spent $458
+2026-10-31 20:51,BUY,takeormake,Spread: Jets (-2.5),Raiders,0.537,0.54,37.04,20,,leader spent $262
+2026-10-31 20:51,BUY,BreakTheBank,Will the Democrats win the Iowa Senate race in 2026?,Yes,0.44,0.45,36.87,16.59,,"leader spent $3,080"
