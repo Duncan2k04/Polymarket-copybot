@@ -431,3 +431,14 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-31 17:56,RESOLVED,flawfence,Will Yashar win the most seats in the 2026 Israeli legislative election?,Yes,,0.0,21.25,0.0,-15.02,lost
 2026-10-31 17:56,RESOLVED,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,,1.0,96.49,96.49,67.4,won
 2026-10-31 17:56,RESOLVED,qwen4.1.fund,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,,1.0,68.97,68.97,48.77,won
+2026-10-31 18:28,BUY,qwen300.fund,Will the highest temperature in Toronto be 17°C on November 1?,No,0.608,0.55,36.36,20,,leader spent $145
+2026-10-31 18:28,BUY,qwen300.fund,Will the highest temperature in Toronto be 16°C on November 1?,No,0.865,0.89,22.47,20,,leader spent $206
+2026-10-31 18:28,BUY,primm,Spread: Wake Forest (-14.5),Wake Forest,0.437,0.44,45.45,20,,leader spent $167
+2026-10-31 18:28,BUY,Eugycom,76ers vs. Hornets,76ers,0.51,0.52,38.46,20,,leader spent $433
+2026-10-31 18:28,BUY,zerone777,Will Pedro Sánchez be the next Prime Minister of Spain?,No,0.891,0.909,22.01,20,,leader spent $223
+2026-10-31 18:28,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Pedro Sánchez be the next Prime Minister of Spain?,Yes,0.108,0.107,186.92,20,,leader spent $280
+2026-10-31 18:28,BUY,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will the Republicans win the Texas governor race in 2026?,Yes,0.67,0.678,29.5,20,,leader spent $111
+2026-10-31 18:28,BUY,balthazar,Will the Democratic Party win the NC-13 House seat?,No,0.58,0.6,33.33,20,,leader spent $232
+2026-10-31 18:28,BUY,Lucerys,Will the Democratic Party win the NC-13 House seat?,No,0.585,0.6,33.33,20,,leader spent $687
+2026-10-31 18:28,BUY,balthazar,Will the Republican Party win the NC-13 House seat?,No,0.41,0.41,48.78,20,,leader spent $164
+2026-10-31 18:28,RESOLVED,donthackme,Will Moonshot have the best Chinese AI model at the end of October 2026?,No,,1.0,3.81,3.81,0.73,won

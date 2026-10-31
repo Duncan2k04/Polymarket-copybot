@@ -132,3 +132,8 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-31 08:21,BUY,BreakTheBank,Will the Republicans win the Iowa Senate race in 2026?,No,0.44,0.46,43.48,20,,"leader spent $1,179"
 2026-10-31 08:21,BUY,BreakTheBank,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,0.21,0.22,89.96,19.79,,leader spent $286
 2026-10-31 17:56,RESOLVED,e46m3,Will Yashar win the most seats in the 2026 Israeli legislative election?,No,,1.0,193.77,193.77,133.59,won
+2026-10-31 18:29,BUY,Bigggggggg,"Will Elon Musk post 140-164 tweets from October 31 to November 2, 2026?",No,0.902,0.893,22.4,20,,leader spent $535
+2026-10-31 18:29,BUY,Bigggggggg,"Will Elon Musk post 90-114 tweets from October 31 to November 2, 2026?",No,0.665,0.65,30.77,20,,leader spent $394
+2026-10-31 18:29,BUY,Bigggggggg,"Will Elon Musk post 65-89 tweets from October 31 to November 2, 2026?",No,0.832,0.8,25.0,20,,leader spent $494
+2026-10-31 18:29,BUY,Bigggggggg,"Will Elon Musk post 115-139 tweets from October 31 to November 2, 2026?",No,0.812,0.79,25.32,20,,leader spent $482
+2026-10-31 18:29,RESOLVED,e46m3,Will Anthropic have the best AI model at the end of October 2026?,No,,1.0,6.0,6.0,0.55,won
