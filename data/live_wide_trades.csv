@@ -449,3 +449,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-31 21:24,BUY,monkeymashingkeyboard,Hawks vs. Pelicans,Pelicans,0.37,0.38,10.25,3.89,,"leader spent $22,031"
 2026-10-31 22:26,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will the Republicans win the Texas governor race in 2026?,No,0.338,0.337,59.78,19.94,0.26,copied leader exit
 2026-10-31 22:26,BUY,0x448861155279dbf833d041b963e3ac854599e319,Will the Republican Party control the Senate after the 2026 Midterm elections?,No,0.71,0.72,27.22,19.6,,leader spent $734
+2026-10-31 23:29,RESOLVED,Lucerys,Will Likud win 25-29 seats in the 2026 Israeli legislative election?,No,,0.0,25.0,0.0,-20.2,lost
+2026-10-31 23:29,RESOLVED,Lucerys,Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?,No,,1.0,6.06,6.06,1.68,won
+2026-10-31 23:29,RESOLVED,primm,Spread: Wake Forest (-14.5),Wake Forest,,1.0,45.45,45.45,25.25,won
