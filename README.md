@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,180.41 | +$180.41 (+18.0%) | 235 (90/170) | +$1,110.29 (+111%) | +$1,092.57 (+109%) |
-| [Top 5 traders making $500k+/month](#top5) | $905.14 | -$94.86 (-9.5%) | 65 (15/32) | -$130.94 (-13%) | -$158.83 (-16%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,180.41 | +$180.41 (+18.0%) | 235 (90/170) | +$560.03 (+56%) | -$15.14 (-2%) |
+| [Top 5 traders making $500k+/month](#top5) | $905.14 | -$94.86 (-9.5%) | 65 (15/32) | +$3.74 (+0%) | -$10.17 (-1%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -87,54 +87,48 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 30 Oct 2026 03:56 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 31 Oct 2026 03:53 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $2,110.29 | **+$1,110.29 (+111.0%)** | 358 | 141 / 121 |
-| 14 days ago | $1,000.00 | $2,092.57 | **+$1,092.57 (+109.3%)** | 365 | 144 / 122 |
+| 7 days ago | $1,000.00 | $1,560.03 | **+$560.03 (+56.0%)** | 339 | 126 / 138 |
+| 14 days ago | $1,000.00 | $984.86 | **-$15.14 (-1.5%)** | 209 | 70 / 82 |
 
 ![backtest](data/backtest_wide_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
-| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 17 | +$222.04 |
-| flawfence | 6 | +$215.17 |
-| drainedandpoor | 14 | +$197.60 |
-| monkeymashingkeyboard | 19 | +$190.68 |
-| ArielFilipino | 19 | +$172.32 |
-| Jsram | 7 | +$168.42 |
-| 0xC9BFc7986767173b4f1c3FC9B2c6b255F | 41 | +$167.40 |
-| 0xf705fa045201391d9632b7f3cde06a5e24453ca7 | 31 | +$159.16 |
-| ic4cream | 21 | +$145.79 |
-| lava-lava | 8 | +$56.76 |
-| zerone777 | 7 | +$39.38 |
-| rabbitfoot1 | 5 | +$25.91 |
-| mr.ozi | 7 | +$25.84 |
-| kaxel78 | 4 | +$14.13 |
-| Likaseent | 4 | +$13.64 |
-| getbipped | 9 | +$10.06 |
-| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 15 | +$3.65 |
-| 0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357 | 2 | +$2.28 |
-| 88888x88888 | 1 | -$0.31 |
-| forgotmydinner | 1 | -$0.45 |
-| northdrawer | 1 | -$0.55 |
-| xtxpleasecallme | 3 | -$1.42 |
-| aHjCz | 7 | -$4.19 |
-| 0x448861155279dbf833d041b963e3ac854599e319 | 14 | -$8.94 |
-| Tokor | 8 | -$12.72 |
-| pollo07 | 5 | -$16.77 |
-| para-Vision | 10 | -$22.55 |
-| paddaa | 10 | -$28.83 |
-| alex20011 | 9 | -$32.29 |
-| chongchong37 | 1 | -$38.84 |
-| dsasdaas | 12 | -$46.12 |
-| akroll | 7 | -$53.73 |
-| PEYZ-BIGGEST-FAN | 3 | -$60.60 |
-| dromedaryy | 3 | -$70.58 |
-| zb8 | 6 | -$77.38 |
-| THEHIGHLIFE | 4 | -$97.23 |
-| Anjun | 24 | -$164.13 |
+| drainedandpoor | 12 | +$312.23 |
+| 0xC9BFc7986767173b4f1c3FC9B2c6b255F | 28 | +$174.16 |
+| flawfence | 3 | +$71.49 |
+| zerone777 | 5 | +$47.57 |
+| paddaa | 13 | +$16.98 |
+| 0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625 | 7 | +$8.22 |
+| mr.ozi | 5 | +$6.37 |
+| chongchong37 | 3 | +$5.89 |
+| 0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357 | 1 | +$1.83 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 15 | +$1.47 |
+| ic4cream | 11 | +$0.56 |
+| graynotebook19 | 1 | -$1.04 |
+| kaxel78 | 8 | -$4.71 |
+| Vale54holi | 2 | -$5.95 |
+| alex20011 | 11 | -$8.77 |
+| lava-lava | 1 | -$9.99 |
+| pollo07 | 7 | -$12.38 |
+| dromedaryy | 2 | -$16.48 |
+| Likaseent | 8 | -$17.00 |
+| PEYZ-BIGGEST-FAN | 1 | -$20.20 |
+| akroll | 1 | -$20.20 |
+| dsasdaas | 1 | -$20.20 |
+| Anjun | 9 | -$27.77 |
+| getbipped | 4 | -$29.53 |
+| rabbitfoot1 | 5 | -$29.96 |
+| 0xf705fa045201391d9632b7f3cde06a5e24453ca7 | 10 | -$37.88 |
+| para-Vision | 8 | -$40.30 |
+| THEHIGHLIFE | 2 | -$46.83 |
+| zb8 | 4 | -$50.45 |
+| Sisyphus- | 7 | -$80.70 |
+| 0x448861155279dbf833d041b963e3ac854599e319 | 14 | -$181.54 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
@@ -181,22 +175,22 @@ _Last calculated 30 Oct 2026 03:56 UTC. Copies each trade 20 min late, at a wors
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 30 Oct 2026 04:16 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 31 Oct 2026 04:06 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
-| 7 days ago | $1,000.00 | $869.06 | **-$130.94 (-13.1%)** | 62 | 13 / 6 |
-| 14 days ago | $1,000.00 | $841.17 | **-$158.83 (-15.9%)** | 66 | 15 / 9 |
+| 7 days ago | $1,000.00 | $1,003.74 | **+$3.74 (+0.4%)** | 68 | 18 / 6 |
+| 14 days ago | $1,000.00 | $989.83 | **-$10.17 (-1.0%)** | 72 | 19 / 9 |
 
 ![backtest](data/backtest_top5_equity.svg)
 
 | Trader | Bets | Profit/loss (14d) |
 |---|---:|---:|
+| Bigggggggg | 57 | +$75.01 |
 | googleplay | 1 | +$15.20 |
-| e46m3 | 7 | -$3.02 |
-| BreakTheBank | 9 | -$13.93 |
+| e46m3 | 5 | -$0.84 |
 | joseph00677 | 4 | -$43.80 |
-| Bigggggggg | 45 | -$113.28 |
+| BreakTheBank | 5 | -$55.74 |
 
 > ⚠️ **This look-back is flattering.** Traders are picked from *today's* leaderboard, partly *because* their recent bets won. The live paper test above is the honest number - judge the strategy on that.
 
