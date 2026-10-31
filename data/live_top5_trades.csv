@@ -124,3 +124,4 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-10-30 19:49,SELL,BreakTheBank,Will the Democrats win the Michigan Senate race in 2026?,No,0.24,0.22,166.67,36.3,-4.1,copied leader exit
 2026-10-30 19:49,BUY,BreakTheBank,Hornets vs. Wizards,Hornets,0.5,0.51,39.22,20,,"leader spent $38,034"
 2026-10-30 19:49,BUY,BreakTheBank,Hornets vs. Wizards,Hornets,0.5,0.51,31.26,15.94,,leader spent $100
+2026-10-31 02:30,RESOLVED,BreakTheBank,Hornets vs. Wizards,Hornets,,0.0,70.47,0.0,-36.3,lost
