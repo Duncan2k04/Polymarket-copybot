@@ -153,3 +153,7 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-11-01 16:51,RESOLVED,e46m3,Will Otzma win 8-9 seats in the 2026 Knesset elections?,No,,1.0,23.03,23.03,3.59,won
 2026-11-01 17:22,BUY,Bigggggggg,Jack Lowden announced as next James Bond?,No,0.618,0.647,30.91,20,,leader spent $157
 2026-11-01 17:22,BUY,Bigggggggg,Josh O'Connor announced as next James Bond?,No,0.926,0.901,3.98,3.58,,leader spent $235
+2026-11-01 21:31,RESOLVED,takeormake,Spread: Raiders (-4.5),Raiders,,1.0,58.82,58.82,38.62,won
+2026-11-01 21:31,RESOLVED,takeormake,Spread: Jets (-2.5),Raiders,,1.0,37.04,37.04,16.84,won
+2026-11-01 21:31,RESOLVED,takeormake,Raiders vs. Jets,Raiders,,1.0,19.36,19.36,10.17,won
+2026-11-01 21:31,RESOLVED,takeormake,Spread: Raiders (-10.5),Raiders,,0.0,111.11,0.0,-20.2,lost
