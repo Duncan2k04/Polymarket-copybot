@@ -466,3 +466,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-11-01 05:08,BUY,Contestable-Parfait,Will the Republicans win the Texas Senate race in 2026?,No,0.7,0.71,10.04,7.13,,"leader spent $1,128"
 2026-11-01 10:29,SELL,0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495,Will Pedro Sánchez be the next Prime Minister of Spain?,Yes,0.109,0.093,186.92,17.24,-2.96,copied leader exit
 2026-11-01 10:29,BUY,balthazar,Will Iliana Iotova win the next Bulgarian presidential election?,No,0.19,0.22,77.58,17.07,,leader spent $199
+2026-11-01 13:05,SELL,balthazar,Will Iliana Iotova win the next Bulgarian presidential election?,No,0.135,0.223,77.58,17.16,-0.07,copied leader exit
+2026-11-01 13:05,BUY,Vale54holi,Will the Republicans win the Georgia governor race in 2026?,No,0.69,0.71,23.94,16.99,,leader spent $133
