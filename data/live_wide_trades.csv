@@ -462,3 +462,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-11-01 02:37,RESOLVED,monkeymashingkeyboard,Hawks vs. Pelicans,Pelicans,,1.0,10.25,10.25,6.31,won
 2026-11-01 03:25,BUY,balthazar,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,0.947,0.947,10.71,10.14,,leader spent $294
 2026-11-01 04:18,RESOLVED,getbipped,"Will Ethereum reach $2,400 in October?",No,,1.0,27.4,27.4,7.2,won
+2026-11-01 05:08,BUY,paddaa,Will the Republicans win the Florida governor race in 2026?,No,0.369,0.36,55.56,20,,"leader spent $2,051"
+2026-11-01 05:08,BUY,Contestable-Parfait,Will the Republicans win the Texas Senate race in 2026?,No,0.7,0.71,10.04,7.13,,"leader spent $1,128"
