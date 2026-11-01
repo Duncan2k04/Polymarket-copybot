@@ -6,8 +6,8 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | Strategy | Live account now | Live P/L | Live bets (won/finished) | Look-back 7d | Look-back 14d |
 |---|---:|---:|---:|---:|---:|
-| [All traders making $100k+/month (up to 60)](#wide) | $1,200.81 | +$200.81 (+20.1%) | 259 (100/190) | +$240.22 (+24%) | -$126.38 (-13%) |
-| [Top 5 traders making $500k+/month](#top5) | $882.37 | -$117.63 (-11.8%) | 77 (20/38) | -$81.32 (-8%) | -$68.08 (-7%) |
+| [All traders making $100k+/month (up to 60)](#wide) | $1,200.69 | +$200.69 (+20.1%) | 259 (100/190) | +$240.22 (+24%) | -$126.38 (-13%) |
+| [Top 5 traders making $500k+/month](#top5) | $881.70 | -$118.30 (-11.8%) | 77 (20/38) | -$81.32 (-8%) | -$68.08 (-7%) |
 
 <a id="wide"></a>
 ## All traders making $100k+/month (up to 60)
@@ -16,12 +16,12 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 | | |
 |---|---|
-| **Account value** | **$1,200.81** (started with $1,000.00) |
-| **Profit / loss** | **+$200.81 (+20.1%)** |
+| **Account value** | **$1,200.69** (started with $1,000.00) |
+| **Profit / loss** | **+$200.69 (+20.1%)** |
 | Running for | 11.8 days (since 20 Oct 2026 18:24 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 01 Nov 2026 13:05 UTC ✅ |
-| Cash / in open bets | $0.00 / $1,200.81 |
+| Last update | 01 Nov 2026 13:48 UTC ✅ |
+| Cash / in open bets | $0.00 / $1,200.69 |
 | Bets opened | 259 (69 still open) |
 | Finished bets won / lost | 100 / 90 (53% win rate) |
 
@@ -34,15 +34,15 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 | alwaysfade | 2 | 2 (1) | +$84.05 |
 | OhWhenTheReds | 2 | 2 (2) | +$66.04 |
 | 0xC9BFc7986767173b4f1c3FC9B2c6b255F | 5 | 5 (4) | +$50.86 |
-| Bigggggggg | 5 | 3 (3) | +$48.89 |
-| donthackme | 21 | 16 (14) | +$47.16 |
+| Bigggggggg | 5 | 3 (3) | +$48.91 |
+| donthackme | 21 | 16 (14) | +$47.10 |
 | Elaran1993 | 2 | 2 (2) | +$42.29 |
 | monkeymashingkeyboard | 3 | 3 (3) | +$41.49 |
 | takeormake | 7 | 7 (3) | +$37.53 |
 | para-Vision | 1 | 1 (1) | +$28.58 |
 | primm | 1 | 1 (1) | +$25.25 |
 | 0x448861155279dbf833d041b963e3ac854599e319 | 4 | 1 (1) | +$20.21 |
-| zerone777 | 11 | 2 (1) | +$18.71 |
+| zerone777 | 11 | 2 (1) | +$18.81 |
 | Eugycom | 1 | 1 (1) | +$18.26 |
 | 0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4 | 2 | 2 (1) | +$17.36 |
 | BreakTheBank | 6 | 4 (2) | +$13.14 |
@@ -50,27 +50,27 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 | Tokor | 1 | 1 (1) | +$7.20 |
 | getbipped | 1 | 1 (1) | +$7.20 |
 | lfg100k | 1 | 1 (1) | +$6.12 |
-| paddaa | 3 | 2 (2) | +$1.27 |
+| paddaa | 3 | 2 (2) | +$1.82 |
 | ArielFilipino | 2 | 2 (1) | +$0.42 |
 | Contestable-Parfait | 1 | 0 (0) | -$0.12 |
 | aenews2 | 1 | 0 (0) | -$0.34 |
 | Vale54holi | 1 | 0 (0) | -$0.41 |
 | PiEDawg | 1 | 1 (0) | -$0.74 |
 | THEHIGHLIFE | 1 | 1 (0) | -$1.02 |
-| VerilyWinningly | 5 | 3 (1) | -$1.41 |
-| qwen300.fund | 4 | 0 (0) | -$3.58 |
+| VerilyWinningly | 5 | 3 (1) | -$1.68 |
+| qwen300.fund | 4 | 0 (0) | -$4.21 |
 | SpringlyFawl | 5 | 5 (0) | -$5.74 |
-| flawfence | 3 | 2 (0) | -$8.84 |
-| balthazar | 20 | 13 (8) | -$8.93 |
-| alex20011 | 16 | 7 (5) | -$13.64 |
-| e46m3 | 10 | 7 (3) | -$16.91 |
+| flawfence | 3 | 2 (0) | -$8.78 |
+| balthazar | 20 | 13 (8) | -$8.98 |
+| alex20011 | 16 | 7 (5) | -$13.50 |
+| e46m3 | 10 | 7 (3) | -$16.80 |
 | xtxpleasecallme | 2 | 1 (0) | -$17.49 |
 | HVAB | 2 | 2 (0) | -$19.15 |
 | PEYZ-BIGGEST-FAN | 5 | 5 (3) | -$19.56 |
-| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 11 | 10 (1) | -$20.16 |
+| 0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495 | 11 | 10 (1) | -$20.17 |
 | Mooseborzoiii | 1 | 1 (0) | -$20.20 |
 | wan123 | 2 | 2 (0) | -$21.68 |
-| Lucerys | 20 | 12 (7) | -$27.67 |
+| Lucerys | 20 | 12 (7) | -$27.74 |
 | Wiretransferxyz | 3 | 3 (1) | -$33.57 |
 | ic4cream | 4 | 4 (1) | -$42.82 |
 | qwen4.1.fund | 14 | 6 (3) | -$46.64 |
@@ -80,10 +80,10 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 285550
-- per-market cap or out of cash: 25709
-- market ends too soon: 12022
-- market already closed: 351
+- leader trade too small / extreme price / crypto up-down: 286053
+- per-market cap or out of cash: 25734
+- market ends too soon: 12028
+- market already closed: 352
 - signal too old (run was delayed): 292
 - price ran away from leader's price: 36
 - order book too thin: 7
@@ -148,12 +148,12 @@ _Last calculated 01 Nov 2026 03:58 UTC. Copies each trade 20 min late, at a wors
 
 | | |
 |---|---|
-| **Account value** | **$882.37** (started with $1,000.00) |
-| **Profit / loss** | **-$117.63 (-11.8%)** |
+| **Account value** | **$881.70** (started with $1,000.00) |
+| **Profit / loss** | **-$118.30 (-11.8%)** |
 | Running for | 11.8 days (since 20 Oct 2026 18:32 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 01 Nov 2026 13:06 UTC ✅ |
-| Cash / in open bets | $0.78 / $881.59 |
+| Last update | 01 Nov 2026 13:48 UTC ✅ |
+| Cash / in open bets | $0.78 / $880.92 |
 | Bets opened | 77 (39 still open) |
 | Finished bets won / lost | 20 / 18 (53% win rate) |
 
@@ -163,18 +163,18 @@ _Last calculated 01 Nov 2026 03:58 UTC. Copies each trade 20 min late, at a wors
 
 | Trader | Bets copied | Finished (won) | Profit/loss so far |
 |---|---:|---:|---:|
-| takeormake | 13 | 9 (7) | +$167.34 |
-| Bigggggggg | 8 | 0 (0) | -$3.97 |
-| e46m3 | 37 | 15 (9) | -$62.16 |
+| takeormake | 13 | 9 (7) | +$166.49 |
+| Bigggggggg | 8 | 0 (0) | -$4.10 |
+| e46m3 | 37 | 15 (9) | -$61.85 |
 | BreakTheBank | 19 | 14 (4) | -$218.85 |
 
 **Currently copying 5 traders** (re-picked every 7 days, last on 27 Oct 2026 18:48 UTC): [BreakTheBank](https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c), [joseph00677](https://polymarket.com/profile/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a), [e46m3](https://polymarket.com/profile/0x4f1d5ae26fc31472966e951af3183308736d8de2), [Bigggggggg](https://polymarket.com/profile/0x511f9c771449162349795d17becf8b37031acbe1), [takeormake](https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d)
 
 <details><summary>Leader trades we did <b>not</b> copy, and why</summary>
 
-- leader trade too small / extreme price / crypto up-down: 27268
-- market ends too soon: 3818
-- per-market cap or out of cash: 2334
+- leader trade too small / extreme price / crypto up-down: 27282
+- market ends too soon: 3819
+- per-market cap or out of cash: 2338
 - market already closed: 157
 - signal too old (run was delayed): 37
 - price ran away from leader's price: 6
