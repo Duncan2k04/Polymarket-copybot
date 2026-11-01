@@ -470,3 +470,5 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-11-01 13:05,BUY,Vale54holi,Will the Republicans win the Georgia governor race in 2026?,No,0.69,0.71,23.94,16.99,,leader spent $133
 2026-11-01 16:51,RESOLVED,donthackme,Will Otzma win 8-9 seats in the 2026 Knesset elections?,No,,1.0,13.7,13.7,2.22,won
 2026-11-01 17:21,BUY,Lucerys,Will the Democrats win the Michigan Senate race in 2026?,No,0.24,0.25,54.26,13.56,,leader spent $103
+2026-11-01 19:14,SELL,0x448861155279dbf833d041b963e3ac854599e319,Will the Democrats win the Minnesota Senate race in 2026?,Yes,0.94,0.93,22.73,20.93,0.72,copied leader exit
+2026-11-01 19:14,BUY,Contestable-Parfait,Will the Democrats win the Texas Senate race in 2026?,No,0.28,0.29,68.97,20,,leader spent $207
