@@ -24,11 +24,11 @@
   "starting_bankroll": 1000,
   "stop_new_bets_after": "2026-11-30T23:59:00+02:00"
  },
- "generated": 1793506478,
+ "generated": 1793593219,
  "leaders": [
   {
    "all_time_pnl": 10618601.74,
-   "copyable_7d": 63,
+   "copyable_7d": 13,
    "month_pnl": 6987187.83,
    "month_vol": 95538717.13,
    "name": "BreakTheBank",
@@ -37,7 +37,7 @@
   },
   {
    "all_time_pnl": 986284.64,
-   "copyable_7d": 23,
+   "copyable_7d": 54,
    "month_pnl": 4155742.54,
    "month_vol": 3754821.85,
    "name": "e46m3",
@@ -46,7 +46,7 @@
   },
   {
    "all_time_pnl": 1987182.38,
-   "copyable_7d": 128,
+   "copyable_7d": 114,
    "month_pnl": 1630193.57,
    "month_vol": 35857377.76,
    "name": "googleplay",
@@ -55,7 +55,7 @@
   },
   {
    "all_time_pnl": 689460.89,
-   "copyable_7d": 80,
+   "copyable_7d": 90,
    "month_pnl": 1374048.31,
    "month_vol": 8521440.83,
    "name": "Bigggggggg",
@@ -64,7 +64,7 @@
   },
   {
    "all_time_pnl": 1197703.13,
-   "copyable_7d": 85,
+   "copyable_7d": 26,
    "month_pnl": 1328088.58,
    "month_vol": 7453097.28,
    "name": "balthazar",
@@ -90,20 +90,6 @@
      "token": "63424755361185170901233281121558927457624032744827678779847584269740504139135"
     },
     {
-     "closed": 1793065980,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1793025858,
-     "outcome": "No",
-     "pnl": 26.5366,
-     "proceeds": 86.7326,
-     "reason": "resolved",
-     "title": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
-     "token": "43681720319477188597878188429504394796986333625436226983885469009299707562545"
-    },
-    {
      "closed": 1793488735,
      "cost": 40.4,
      "exit_price": 1.0,
@@ -116,6 +102,20 @@
      "reason": "resolved",
      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
      "token": "57742256856248000050883894902521902517029635628575388314389121618186791473379"
+    },
+    {
+     "closed": 1793469712,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793381172,
+     "outcome": "No",
+     "pnl": 15.1982,
+     "proceeds": 35.3982,
+     "reason": "resolved",
+     "title": "Will Elon Musk post 165-189 tweets from October 29 to October 31, 2026?",
+     "token": "3794934729887722009064270657479127335936139765185603535062916570850054727280"
     },
     {
      "closed": 1792637589,
@@ -146,96 +146,103 @@
      "token": "76534533206845031490970004248492420264232597964930956713754229960409415623966"
     }
    ],
-   "cash": -0.0,
-   "closed_positions": 23,
+   "cash": 0.0,
+   "closed_positions": 28,
    "curve": [
     [
-     1792296878,
+     1792383619,
      1000.0
     ],
     [
-     1792383278,
+     1792470019,
      1000.0
     ],
     [
-     1792469678,
+     1792556419,
      1000.0
     ],
     [
-     1792556078,
-     1000.0
-    ],
-    [
-     1792642478,
+     1792642819,
      1015.2
     ],
     [
-     1792728878,
+     1792729219,
      1015.2
     ],
     [
-     1792815278,
+     1792815619,
      1015.2
     ],
     [
-     1792901678,
+     1792902019,
      1015.2
     ],
     [
-     1792988078,
+     1792988419,
      1015.2
     ],
     [
-     1793074478,
-     956.83
+     1793074819,
+     945.59
     ],
     [
-     1793160878,
-     1044.19
+     1793161219,
+     1042.79
     ],
     [
-     1793247278,
-     1022.73
+     1793247619,
+     1018.49
     ],
     [
-     1793333678,
-     990.66
+     1793334019,
+     986.17
     ],
     [
-     1793420078,
-     971.81
+     1793420419,
+     1009.43
     ],
     [
-     1793506478,
-     931.92
+     1793506819,
+     984.93
+    ],
+    [
+     1793593219,
+     981.22
     ]
    ],
    "days": 14,
-   "end_ts": 1793506478,
-   "final_equity": 931.92,
-   "losses": 8,
-   "open_positions": 43,
-   "open_value": 931.92,
+   "end_ts": 1793593219,
+   "final_equity": 981.22,
+   "losses": 9,
+   "open_positions": 42,
+   "open_value": 981.22,
    "per_leader": {
     "Bigggggggg": {
-     "buys": 45,
-     "closed": 21,
-     "realized": -9.81,
-     "unrealized": -36.34,
-     "wins": 14
+     "buys": 59,
+     "closed": 26,
+     "realized": 42.74,
+     "unrealized": -47.46,
+     "wins": 18
     },
     "BreakTheBank": {
-     "buys": 3,
+     "buys": 5,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -8.71,
+     "unrealized": -7.81,
      "wins": 0
     },
     "balthazar": {
-     "buys": 16,
+     "buys": 2,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -8.22,
+     "unrealized": -0.64,
+     "wins": 0
+    },
+    "e46m3": {
+     "buys": 2,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.62,
      "wins": 0
     },
     "googleplay": {
@@ -246,19 +253,19 @@
      "wins": 1
     }
    },
-   "pnl": -68.08,
-   "positions_taken": 66,
-   "realized_pnl": -14.81,
-   "return_pct": -6.81,
+   "pnl": -18.78,
+   "positions_taken": 70,
+   "realized_pnl": 37.74,
+   "return_pct": -1.88,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 7538,
-    "market ends too soon": 252,
-    "per-market cap or out of cash": 449,
-    "price ran away from leader's price": 122
+    "leader trade too small / extreme price / crypto up-down": 6622,
+    "market ends too soon": 301,
+    "per-market cap or out of cash": 382,
+    "price ran away from leader's price": 97
    },
-   "start_ts": 1792296878,
+   "start_ts": 1792383619,
    "starting_bankroll": 1000,
-   "wins": 15,
+   "wins": 19,
    "worst": [
     {
      "closed": 1793066270,
@@ -266,7 +273,7 @@
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1793024486,
+     "opened": 1793036969,
      "outcome": "No",
      "pnl": -60.196,
      "proceeds": 0.0,
@@ -276,31 +283,17 @@
     },
     {
      "closed": 1793467167,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1793025077,
-     "outcome": "No",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-     "token": "112833774316104951988690985316609270957261648365641646812446420693891587882096"
-    },
-    {
-     "closed": 1793444488,
      "cost": 40.4,
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1793034009,
+     "opened": 1793132388,
      "outcome": "No",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-     "token": "112324356880616445721412112250580716582983292253496558403120979906941600263645"
+     "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+     "token": "112833774316104951988690985316609270957261648365641646812446420693891587882096"
     },
     {
      "closed": 1793073837,
@@ -329,6 +322,20 @@
      "reason": "resolved",
      "title": "Will Elon Musk post 90-114 tweets from October 26 to October 28, 2026?",
      "token": "42833969602123077957047086799055281432549474145417671784918265798750203838651"
+    },
+    {
+     "closed": 1793254500,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793063664,
+     "outcome": "No",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will the Milwaukee Brewers win the 2026 World Series?",
+     "token": "57520402764714032701152091698531154935574080954582774395654458078727078499164"
     }
    ]
   },
@@ -349,20 +356,6 @@
      "token": "63424755361185170901233281121558927457624032744827678779847584269740504139135"
     },
     {
-     "closed": 1793065980,
-     "cost": 60.196,
-     "exit_price": 1.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1793025858,
-     "outcome": "No",
-     "pnl": 26.5366,
-     "proceeds": 86.7326,
-     "reason": "resolved",
-     "title": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
-     "token": "43681720319477188597878188429504394796986333625436226983885469009299707562545"
-    },
-    {
      "closed": 1793488735,
      "cost": 40.4,
      "exit_price": 1.0,
@@ -375,6 +368,20 @@
      "reason": "resolved",
      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
      "token": "57742256856248000050883894902521902517029635628575388314389121618186791473379"
+    },
+    {
+     "closed": 1793469712,
+     "cost": 20.2,
+     "exit_price": 1.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793381172,
+     "outcome": "No",
+     "pnl": 15.1982,
+     "proceeds": 35.3982,
+     "reason": "resolved",
+     "title": "Will Elon Musk post 165-189 tweets from October 29 to October 31, 2026?",
+     "token": "3794934729887722009064270657479127335936139765185603535062916570850054727280"
     },
     {
      "closed": 1793489692,
@@ -391,82 +398,89 @@
      "token": "76534533206845031490970004248492420264232597964930956713754229960409415623966"
     },
     {
-     "closed": 1793073837,
-     "cost": 40.4,
+     "closed": 1793065980,
+     "cost": 60.196,
      "exit_price": 1.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1793039432,
+     "opened": 1793036969,
      "outcome": "No",
-     "pnl": 8.5521,
-     "proceeds": 48.9521,
+     "pnl": 14.1494,
+     "proceeds": 74.3454,
      "reason": "resolved",
-     "title": "Will Brad Bradford win the 2026 Toronto mayoral election?",
-     "token": "27670129619626213108912772417909250054836917373961985276008181424732686448004"
+     "title": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+     "token": "43681720319477188597878188429504394796986333625436226983885469009299707562545"
     }
    ],
-   "cash": -0.0,
-   "closed_positions": 22,
+   "cash": 0.0,
+   "closed_positions": 26,
    "curve": [
     [
-     1792901678,
+     1792988419,
      1000.0
     ],
     [
-     1792988078,
-     1000.0
+     1793074819,
+     930.39
     ],
     [
-     1793074478,
-     941.63
+     1793161219,
+     1027.59
     ],
     [
-     1793160878,
-     1029.36
+     1793247619,
+     1003.91
     ],
     [
-     1793247278,
-     1007.99
+     1793334019,
+     973.17
     ],
     [
-     1793333678,
-     976.11
+     1793420419,
+     995.04
     ],
     [
-     1793420078,
-     958.26
+     1793506819,
+     972.45
     ],
     [
-     1793506478,
-     918.68
+     1793593219,
+     966.87
     ]
    ],
    "days": 7,
-   "end_ts": 1793506478,
-   "final_equity": 918.68,
+   "end_ts": 1793593219,
+   "final_equity": 966.87,
    "losses": 8,
    "open_positions": 42,
-   "open_value": 918.68,
+   "open_value": 966.87,
    "per_leader": {
     "Bigggggggg": {
-     "buys": 44,
-     "closed": 21,
-     "realized": -9.81,
-     "unrealized": -34.37,
-     "wins": 14
+     "buys": 58,
+     "closed": 25,
+     "realized": 44.01,
+     "unrealized": -47.88,
+     "wins": 18
     },
     "BreakTheBank": {
-     "buys": 3,
+     "buys": 5,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -8.71,
+     "unrealized": -7.81,
      "wins": 0
     },
     "balthazar": {
-     "buys": 16,
+     "buys": 2,
      "closed": 0,
      "realized": 0.0,
-     "unrealized": -8.22,
+     "unrealized": -0.64,
+     "wins": 0
+    },
+    "e46m3": {
+     "buys": 2,
+     "closed": 0,
+     "realized": 0.0,
+     "unrealized": -0.62,
      "wins": 0
     },
     "googleplay": {
@@ -477,19 +491,19 @@
      "wins": 0
     }
    },
-   "pnl": -81.32,
-   "positions_taken": 64,
-   "realized_pnl": -30.01,
-   "return_pct": -8.13,
+   "pnl": -33.13,
+   "positions_taken": 68,
+   "realized_pnl": 23.81,
+   "return_pct": -3.31,
    "skips": {
-    "leader trade too small / extreme price / crypto up-down": 7538,
-    "market ends too soon": 208,
-    "per-market cap or out of cash": 450,
-    "price ran away from leader's price": 122
+    "leader trade too small / extreme price / crypto up-down": 6622,
+    "market ends too soon": 242,
+    "per-market cap or out of cash": 383,
+    "price ran away from leader's price": 97
    },
-   "start_ts": 1792901678,
+   "start_ts": 1792988419,
    "starting_bankroll": 1000,
-   "wins": 14,
+   "wins": 18,
    "worst": [
     {
      "closed": 1793066270,
@@ -497,7 +511,7 @@
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1793024486,
+     "opened": 1793036969,
      "outcome": "No",
      "pnl": -60.196,
      "proceeds": 0.0,
@@ -507,31 +521,17 @@
     },
     {
      "closed": 1793467167,
-     "cost": 60.196,
-     "exit_price": 0.0,
-     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
-     "leader_name": "Bigggggggg",
-     "opened": 1793025077,
-     "outcome": "No",
-     "pnl": -60.196,
-     "proceeds": 0.0,
-     "reason": "resolved",
-     "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-     "token": "112833774316104951988690985316609270957261648365641646812446420693891587882096"
-    },
-    {
-     "closed": 1793444488,
      "cost": 40.4,
      "exit_price": 0.0,
      "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
      "leader_name": "Bigggggggg",
-     "opened": 1793034009,
+     "opened": 1793132388,
      "outcome": "No",
      "pnl": -40.4,
      "proceeds": 0.0,
      "reason": "resolved",
-     "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-     "token": "112324356880616445721412112250580716582983292253496558403120979906941600263645"
+     "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+     "token": "112833774316104951988690985316609270957261648365641646812446420693891587882096"
     },
     {
      "closed": 1793073837,
@@ -560,6 +560,20 @@
      "reason": "resolved",
      "title": "Will Elon Musk post 90-114 tweets from October 26 to October 28, 2026?",
      "token": "42833969602123077957047086799055281432549474145417671784918265798750203838651"
+    },
+    {
+     "closed": 1793254500,
+     "cost": 20.2,
+     "exit_price": 0.0,
+     "leader": "0x511f9c771449162349795d17becf8b37031acbe1",
+     "leader_name": "Bigggggggg",
+     "opened": 1793063664,
+     "outcome": "No",
+     "pnl": -20.2,
+     "proceeds": 0.0,
+     "reason": "resolved",
+     "title": "Will the Milwaukee Brewers win the 2026 World Series?",
+     "token": "57520402764714032701152091698531154935574080954582774395654458078727078499164"
     }
    ]
   }
