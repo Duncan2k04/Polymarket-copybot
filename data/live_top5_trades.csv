@@ -168,3 +168,6 @@ time_utc,action,leader,market,outcome,leader_price,our_price,shares,usd,pnl,note
 2026-11-02 06:29,BUY,e46m3,Will the Democratic Party win the NC-09 House seat?,No,0.65,0.66,7.2,4.75,,leader spent $119
 2026-11-02 16:40,SELL,BreakTheBank,Will an Independent win the Montana Senate race in 2026?,Yes,0.09,0.082,223.02,18.19,-2.01,copied leader exit
 2026-11-02 17:33,BUY,BreakTheBank,"Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate se",No,0.68,0.69,26.1,18.01,,"leader spent $27,721"
+2026-11-02 19:25,RESOLVED,Bigggggggg,"Will Elon Musk post 140-164 tweets from October 31 to November 2, 2026?",No,,1.0,22.4,22.4,2.2,won
+2026-11-02 19:25,RESOLVED,Bigggggggg,"Will Elon Musk post 90-114 tweets from October 31 to November 2, 2026?",No,,0.0,30.77,0.0,-20.2,lost
+2026-11-02 19:25,RESOLVED,Bigggggggg,"Will Elon Musk post 115-139 tweets from October 31 to November 2, 2026?",No,,1.0,25.32,25.32,5.12,won
