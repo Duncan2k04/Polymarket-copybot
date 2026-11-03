@@ -20,7 +20,7 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 | **Profit / loss** | **+$219.21 (+21.9%)** |
 | Running for | 13.2 days (since 20 Oct 2026 18:24 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 02 Nov 2026 22:19 UTC ✅ |
+| Last update | 02 Nov 2026 22:19 UTC ⚠️ **no update for 3+ hours - check the Actions tab** |
 | Cash / in open bets | $0.00 / $1,219.21 |
 | Bets opened | 267 (71 still open) |
 | Finished bets won / lost | 105 / 91 (54% win rate) |
@@ -158,7 +158,7 @@ _Last calculated 02 Nov 2026 04:04 UTC. Copies each trade 20 min late, at a wors
 | **Profit / loss** | **-$53.48 (-5.3%)** |
 | Running for | 13.2 days (since 20 Oct 2026 18:32 UTC) |
 | Test period | until 2026-11-30 - then no new bets; open ones are held until they settle |
-| Last update | 02 Nov 2026 22:19 UTC ✅ |
+| Last update | 02 Nov 2026 22:19 UTC ⚠️ **no update for 3+ hours - check the Actions tab** |
 | Cash / in open bets | $0.00 / $946.52 |
 | Bets opened | 91 (43 still open) |
 | Finished bets won / lost | 27 / 21 (56% win rate) |
