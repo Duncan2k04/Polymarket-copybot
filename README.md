@@ -94,7 +94,7 @@ Copies the trades of top Polymarket traders using a **fake $1,000.00 account** a
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 15 Nov 2026 10:52 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 16 Nov 2026 11:16 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
@@ -151,7 +151,7 @@ _Last calculated 15 Nov 2026 10:52 UTC. Copies each trade 20 min late, at a wors
 
 ### Look-back test: if you had started copying 7 or 14 days ago
 
-_Last calculated 15 Nov 2026 10:53 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
+_Last calculated 16 Nov 2026 11:17 UTC. Copies each trade 20 min late, at a worse price (+0.01) and 1% fees._
 
 | Started | Deposit | Value now | Profit/loss | Bets | Finished won / lost |
 |---|---:|---:|---:|---:|---:|
